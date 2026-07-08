@@ -75,10 +75,3 @@ This opens the dashboard at `http://localhost:8501`.
   (not every year — this is what the UN Yearbook publishes).
 - Trading partner years available: 2015, 2020, 2024 only.
 
-## Extending this for a resume writeup
-
-- Swap the flat-file star schema for DuckDB or Snowflake + dbt models
-  (staging → marts) if you want to show SQL/dbt skills explicitly.
-- Add a `dim_year` table and pre-aggregate regional rollups instead of
-  excluding them, to show handling of hierarchical dimensions.
-- Add YoY growth % and CAGR calculations as derived fact columns.
