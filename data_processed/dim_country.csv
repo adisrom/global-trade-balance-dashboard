@@ -1,0 +1,251 @@
+country_code,country_name,is_aggregate,is_historical,plotly_name,is_mappable
+4,Afghanistan,False,False,Afghanistan,True
+2,Africa,True,False,Africa,False
+8,Albania,False,False,Albania,True
+12,Algeria,False,False,Algeria,True
+19,Americas,True,False,Americas,False
+20,Andorra,False,False,Andorra,True
+24,Angola,False,False,Angola,True
+660,Anguilla,False,False,Anguilla,True
+28,Antigua and Barbuda,False,False,Antigua and Barbuda,True
+32,Argentina,False,False,Argentina,True
+51,Armenia,False,False,Armenia,True
+533,Aruba,False,False,Aruba,True
+142,Asia,True,False,Asia,False
+36,Australia,False,False,Australia,True
+53,Australia and New Zealand,True,False,Australia and New Zealand,False
+40,Austria,False,False,Austria,True
+31,Azerbaijan,False,False,Azerbaijan,True
+44,Bahamas (The),False,False,Bahamas,True
+48,Bahrain,False,False,Bahrain,True
+50,Bangladesh,False,False,Bangladesh,True
+52,Barbados,False,False,Barbados,True
+112,Belarus,False,False,Belarus,True
+56,Belgium,False,False,Belgium,True
+84,Belize,False,False,Belize,True
+204,Benin,False,False,Benin,True
+60,Bermuda,False,False,Bermuda,True
+64,Bhutan,False,False,Bhutan,True
+68,Bolivia (Plurin. State of),False,False,Bolivia,True
+70,Bosnia and Herzegovina,False,False,Bosnia and Herzegovina,True
+72,Botswana,False,False,Botswana,True
+76,Brazil,False,False,Brazil,True
+92,British Virgin Islands,False,False,British Virgin Islands,True
+96,Brunei Darussalam,False,False,Brunei,True
+100,Bulgaria,False,False,Bulgaria,True
+854,Burkina Faso,False,False,Burkina Faso,True
+108,Burundi,False,False,Burundi,True
+132,Cabo Verde,False,False,Cape Verde,True
+116,Cambodia,False,False,Cambodia,True
+120,Cameroon,False,False,Cameroon,True
+124,Canada,False,False,Canada,True
+29,Caribbean,True,False,Caribbean,False
+136,Cayman Islands,False,False,Cayman Islands,True
+140,Central African Republic,False,False,Central African Republic,True
+13,Central America,True,False,Central America,False
+143,Central Asia,True,False,Central Asia,False
+148,Chad,False,False,Chad,True
+152,Chile,False,False,Chile,True
+156,China,False,False,China,True
+344,"China, Hong Kong SAR",False,False,Hong Kong,True
+446,"China, Macao SAR",False,False,Macao,True
+170,Colombia,False,False,Colombia,True
+174,Comoros,False,False,Comoros,True
+178,Congo,False,False,Republic of Congo,True
+184,Cook Islands,False,False,Cook Islands,True
+188,Costa Rica,False,False,Costa Rica,True
+191,Croatia,False,False,Croatia,True
+192,Cuba,False,False,Cuba,True
+196,Cyprus,False,False,Cyprus,True
+203,Czechia,False,False,Czech Republic,True
+384,Côte dIvoire,False,False,Côte dIvoire,True
+408,Dem. People's Rep. Korea,False,False,North Korea,True
+180,Dem. Rep. of the Congo,False,False,Democratic Republic of the Congo,True
+208,Denmark,False,False,Denmark,True
+262,Djibouti,False,False,Djibouti,True
+212,Dominica,False,False,Dominica,True
+214,Dominican Republic,False,False,Dominican Republic,True
+14,Eastern Africa,True,False,Eastern Africa,False
+30,Eastern Asia,True,False,Eastern Asia,False
+151,Eastern Europe,True,False,Eastern Europe,False
+218,Ecuador,False,False,Ecuador,True
+818,Egypt,False,False,Egypt,True
+222,El Salvador,False,False,El Salvador,True
+226,Equatorial Guinea,False,False,Equatorial Guinea,True
+232,Eritrea,False,False,Eritrea,True
+233,Estonia,False,False,Estonia,True
+748,Eswatini,False,False,Eswatini,True
+231,Ethiopia,False,False,Ethiopia,True
+150,Europe,True,False,Europe,False
+238,Falkland Islands (Malvinas),False,False,Falkland Islands (Malvinas),True
+234,Faroe Islands,False,False,Faroe Islands,True
+242,Fiji,False,False,Fiji,True
+246,Finland,False,False,Finland,True
+250,France,False,False,France,True
+254,French Guiana,False,False,French Guiana,True
+258,French Polynesia,False,False,French Polynesia,True
+266,Gabon,False,False,Gabon,True
+270,Gambia,False,False,Gambia,True
+268,Georgia,False,False,Georgia,True
+276,Germany,False,False,Germany,True
+288,Ghana,False,False,Ghana,True
+292,Gibraltar,False,False,Gibraltar,True
+300,Greece,False,False,Greece,True
+304,Greenland,False,False,Greenland,True
+308,Grenada,False,False,Grenada,True
+312,Guadeloupe,False,False,Guadeloupe,True
+320,Guatemala,False,False,Guatemala,True
+324,Guinea,False,False,Guinea,True
+624,Guinea-Bissau,False,False,Guinea-Bissau,True
+328,Guyana,False,False,Guyana,True
+332,Haiti,False,False,Haiti,True
+340,Honduras,False,False,Honduras,True
+348,Hungary,False,False,Hungary,True
+352,Iceland,False,False,Iceland,True
+356,India,False,False,India,True
+360,Indonesia,False,False,Indonesia,True
+364,Iran (Islamic Republic of),False,False,Iran,True
+368,Iraq,False,False,Iraq,True
+372,Ireland,False,False,Ireland,True
+376,Israel,False,False,Israel,True
+380,Italy,False,False,Italy,True
+388,Jamaica,False,False,Jamaica,True
+392,Japan,False,False,Japan,True
+400,Jordan,False,False,Jordan,True
+398,Kazakhstan,False,False,Kazakhstan,True
+404,Kenya,False,False,Kenya,True
+296,Kiribati,False,False,Kiribati,True
+414,Kuwait,False,False,Kuwait,True
+417,Kyrgyzstan,False,False,Kyrgyzstan,True
+418,Lao People's Dem. Rep.,False,False,Laos,True
+419,Latin America & the Caribbean,True,False,Latin America & the Caribbean,False
+428,Latvia,False,False,Latvia,True
+422,Lebanon,False,False,Lebanon,True
+426,Lesotho,False,False,Lesotho,True
+430,Liberia,False,False,Liberia,True
+434,Libya,False,False,Libya,True
+440,Lithuania,False,False,Lithuania,True
+442,Luxembourg,False,False,Luxembourg,True
+450,Madagascar,False,False,Madagascar,True
+454,Malawi,False,False,Malawi,True
+458,Malaysia,False,False,Malaysia,True
+462,Maldives,False,False,Maldives,True
+466,Mali,False,False,Mali,True
+470,Malta,False,False,Malta,True
+584,Marshall Islands,False,False,Marshall Islands,True
+474,Martinique,False,False,Martinique,True
+478,Mauritania,False,False,Mauritania,True
+480,Mauritius,False,False,Mauritius,True
+175,Mayotte,False,False,Mayotte,True
+54,Melanesia,True,False,Melanesia,False
+484,Mexico,False,False,Mexico,True
+57,Micronesia,True,False,Micronesia,False
+583,Micronesia (Fed. States of),False,False,Micronesia,True
+17,Middle Africa,True,False,Middle Africa,False
+496,Mongolia,False,False,Mongolia,True
+499,Montenegro,False,False,Montenegro,True
+500,Montserrat,False,False,Montserrat,True
+504,Morocco,False,False,Morocco,True
+508,Mozambique,False,False,Mozambique,True
+104,Myanmar,False,False,Myanmar,True
+516,Namibia,False,False,Namibia,True
+524,Nepal,False,False,Nepal,True
+528,Netherlands (Kingdom of the),False,False,Netherlands,True
+530,Netherlands Antilles [former],False,True,Netherlands Antilles [former],False
+540,New Caledonia,False,False,New Caledonia,True
+554,New Zealand,False,False,New Zealand,True
+558,Nicaragua,False,False,Nicaragua,True
+562,Niger,False,False,Niger,True
+566,Nigeria,False,False,Nigeria,True
+807,North Macedonia,False,False,North Macedonia,True
+15,Northern Africa,True,False,Northern Africa,False
+21,Northern America,True,False,Northern America,False
+154,Northern Europe,True,False,Northern Europe,False
+580,Northern Mariana Islands,False,False,Northern Mariana Islands,True
+578,Norway,False,False,Norway,True
+9,Oceania,True,False,Oceania,False
+512,Oman,False,False,Oman,True
+158,Other non-specified areas,True,False,Other non-specified areas,False
+586,Pakistan,False,False,Pakistan,True
+585,Palau,False,False,Palau,True
+591,Panama,False,False,Panama,True
+598,Papua New Guinea,False,False,Papua New Guinea,True
+600,Paraguay,False,False,Paraguay,True
+604,Peru,False,False,Peru,True
+608,Philippines,False,False,Philippines,True
+616,Poland,False,False,Poland,True
+61,Polynesia,True,False,Polynesia,False
+620,Portugal,False,False,Portugal,True
+634,Qatar,False,False,Qatar,True
+410,Republic of Korea,False,False,South Korea,True
+498,Republic of Moldova,False,False,Moldova,True
+642,Romania,False,False,Romania,True
+643,Russian Federation,False,False,Russia,True
+646,Rwanda,False,False,Rwanda,True
+638,Réunion,False,False,Réunion,True
+654,Saint Helena,False,False,Saint Helena,True
+659,Saint Kitts and Nevis,False,False,Saint Kitts and Nevis,True
+662,Saint Lucia,False,False,Saint Lucia,True
+666,Saint Pierre and Miquelon,False,False,Saint Pierre and Miquelon,True
+670,Saint Vincent & Grenadines,False,False,Saint Vincent and the Grenadines,True
+882,Samoa,False,False,Samoa,True
+678,Sao Tome and Principe,False,False,Sao Tome and Principe,True
+682,Saudi Arabia,False,False,Saudi Arabia,True
+686,Senegal,False,False,Senegal,True
+688,Serbia,False,False,Serbia,True
+891,Serbia and Monten. [former],False,True,Serbia and Monten. [former],False
+690,Seychelles,False,False,Seychelles,True
+694,Sierra Leone,False,False,Sierra Leone,True
+702,Singapore,False,False,Singapore,True
+703,Slovakia,False,False,Slovakia,True
+705,Slovenia,False,False,Slovenia,True
+90,Solomon Islands,False,False,Solomon Islands,True
+706,Somalia,False,False,Somalia,True
+710,South Africa,False,False,South Africa,True
+5,South America,True,False,South America,False
+728,South Sudan,False,False,South Sudan,True
+35,South-eastern Asia,True,False,South-eastern Asia,False
+18,Southern Africa,True,False,Southern Africa,False
+34,Southern Asia,True,False,Southern Asia,False
+39,Southern Europe,True,False,Southern Europe,False
+724,Spain,False,False,Spain,True
+144,Sri Lanka,False,False,Sri Lanka,True
+275,State of Palestine,False,False,Palestine,True
+202,Sub-Saharan Africa,True,False,Sub-Saharan Africa,False
+729,Sudan,False,False,Sudan,True
+736,Sudan [former],False,True,Sudan [former],False
+740,Suriname,False,False,Suriname,True
+752,Sweden,False,False,Sweden,True
+756,Switzerland,False,False,Switzerland,True
+760,Syrian Arab Republic,False,False,Syria,True
+762,Tajikistan,False,False,Tajikistan,True
+764,Thailand,False,False,Thailand,True
+626,Timor-Leste,False,False,Timor-Leste,True
+768,Togo,False,False,Togo,True
+772,Tokelau,False,False,Tokelau,True
+776,Tonga,False,False,Tonga,True
+1,"Total, all countries or areas",True,False,"Total, all countries or areas",False
+780,Trinidad and Tobago,False,False,Trinidad and Tobago,True
+788,Tunisia,False,False,Tunisia,True
+795,Turkmenistan,False,False,Turkmenistan,True
+796,Turks and Caicos Islands,False,False,Turks and Caicos Islands,True
+798,Tuvalu,False,False,Tuvalu,True
+792,Türkiye,False,False,Turkey,True
+800,Uganda,False,False,Uganda,True
+804,Ukraine,False,False,Ukraine,True
+784,United Arab Emirates,False,False,United Arab Emirates,True
+826,United Kingdom,False,False,United Kingdom,True
+834,United Rep. of Tanzania,False,False,Tanzania,True
+840,United States of America,False,False,United States,True
+858,Uruguay,False,False,Uruguay,True
+860,Uzbekistan,False,False,Uzbekistan,True
+548,Vanuatu,False,False,Vanuatu,True
+862,Venezuela (Boliv. Rep. of),False,False,Venezuela,True
+704,Viet Nam,False,False,Vietnam,True
+876,Wallis and Futuna Islands,False,False,Wallis and Futuna Islands,True
+11,Western Africa,True,False,Western Africa,False
+145,Western Asia,True,False,Western Asia,False
+155,Western Europe,True,False,Western Europe,False
+887,Yemen,False,False,Yemen,True
+894,Zambia,False,False,Zambia,True
+716,Zimbabwe,False,False,Zimbabwe,True

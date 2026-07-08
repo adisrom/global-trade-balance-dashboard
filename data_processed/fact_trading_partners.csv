@@ -1,0 +1,3542 @@
+country_code,country_name,year,direction,rank,partner_name,pct_share
+4,Afghanistan,2015,exports,1,India,33.1
+4,Afghanistan,2015,exports,2,Pakistan,39.7
+4,Afghanistan,2015,exports,3,Uzbekistan,0.0
+4,Afghanistan,2015,imports,1,United Arab Emirates,4.2
+4,Afghanistan,2015,imports,2,China,13.5
+4,Afghanistan,2015,imports,3,Pakistan,17.4
+4,Afghanistan,2020,exports,1,India,28.1
+4,Afghanistan,2020,exports,2,Pakistan,28.4
+4,Afghanistan,2020,exports,3,Uzbekistan,0.1
+4,Afghanistan,2020,imports,1,United Arab Emirates,19.1
+4,Afghanistan,2020,imports,2,China,5.7
+4,Afghanistan,2020,imports,3,Pakistan,10.0
+4,Afghanistan,2024,exports,1,India,38.5
+4,Afghanistan,2024,exports,2,Pakistan,38.1
+4,Afghanistan,2024,exports,3,Uzbekistan,3.3
+4,Afghanistan,2024,imports,1,United Arab Emirates,22.0
+4,Afghanistan,2024,imports,2,China,17.9
+4,Afghanistan,2024,imports,3,Pakistan,17.6
+8,Albania,2015,exports,1,Italy,50.9
+8,Albania,2015,exports,2,Serbia,9.9
+8,Albania,2015,exports,3,Montenegro,3.9
+8,Albania,2015,imports,1,Italy,30.3
+8,Albania,2015,imports,2,China,8.6
+8,Albania,2015,imports,3,Türkiye,8.0
+8,Albania,2020,exports,1,Italy,45.3
+8,Albania,2020,exports,2,Serbia,12.1
+8,Albania,2020,exports,3,Montenegro,5.0
+8,Albania,2020,imports,1,Italy,25.2
+8,Albania,2020,imports,2,China,9.0
+8,Albania,2020,imports,3,Türkiye,9.6
+8,Albania,2024,exports,1,Italy,43.7
+8,Albania,2024,exports,2,Serbia,12.1
+8,Albania,2024,exports,3,Montenegro,6.3
+8,Albania,2024,imports,1,Italy,21.2
+8,Albania,2024,imports,2,China,10.9
+8,Albania,2024,imports,3,Türkiye,10.8
+12,Algeria,2015,exports,1,Italy,15.1
+12,Algeria,2015,exports,2,France,13.2
+12,Algeria,2015,exports,3,Spain,17.7
+12,Algeria,2015,imports,1,China,15.9
+12,Algeria,2015,imports,2,France,10.5
+12,Algeria,2015,imports,3,Italy,9.4
+12,Algeria,2020,exports,1,Italy,16.2
+12,Algeria,2020,exports,2,France,13.7
+12,Algeria,2020,exports,3,Spain,12.9
+12,Algeria,2020,imports,1,China,16.2
+12,Algeria,2020,imports,2,France,13.9
+12,Algeria,2020,imports,3,Italy,6.4
+12,Algeria,2024,exports,1,Italy,24.4
+12,Algeria,2024,exports,2,France,14.1
+12,Algeria,2024,exports,3,Spain,12.3
+12,Algeria,2024,imports,1,China,25.6
+12,Algeria,2024,imports,2,France,11.4
+12,Algeria,2024,imports,3,Italy,6.9
+24,Angola,2015,exports,1,China,42.2
+24,Angola,2015,exports,2,Spain,6.6
+24,Angola,2015,exports,3,Netherlands,3.3
+24,Angola,2015,imports,1,China,15.4
+24,Angola,2015,imports,2,Portugal,12.9
+24,Angola,2015,imports,3,United Arab Emirates,2.4
+24,Angola,2020,exports,1,China,59.7
+24,Angola,2020,exports,2,Spain,3.4
+24,Angola,2020,exports,3,Netherlands,1.1
+24,Angola,2020,imports,1,China,15.4
+24,Angola,2020,imports,2,Portugal,13.9
+24,Angola,2020,imports,3,United Arab Emirates,2.2
+24,Angola,2024,exports,1,China,46.6
+24,Angola,2024,exports,2,Spain,7.5
+24,Angola,2024,exports,3,Netherlands,6.1
+24,Angola,2024,imports,1,China,15.5
+24,Angola,2024,imports,2,Portugal,10.9
+24,Angola,2024,imports,3,United Arab Emirates,6.9
+660,Anguilla,2015,exports,1,Chile,1.0
+660,Anguilla,2015,exports,2,Tajikistan,0.6
+660,Anguilla,2015,imports,1,Chile,0.2
+660,Anguilla,2015,imports,2,United States,60.5
+660,Anguilla,2020,exports,1,Chile,73.6
+660,Anguilla,2020,exports,2,Tajikistan,0.0
+660,Anguilla,2020,imports,1,Chile,54.4
+660,Anguilla,2020,imports,2,United States,31.5
+660,Anguilla,2024,exports,1,Chile,58.4
+660,Anguilla,2024,exports,2,Tajikistan,13.3
+660,Anguilla,2024,exports,3,Paraguay,5.3
+660,Anguilla,2024,imports,1,Chile,51.0
+660,Anguilla,2024,imports,2,United States,29.2
+660,Anguilla,2024,imports,3,Botswana,8.9
+28,Antigua and Barbuda,2015,exports,1,United States,30.1
+28,Antigua and Barbuda,2015,exports,3,China,0.2
+28,Antigua and Barbuda,2015,imports,1,United States,55.5
+28,Antigua and Barbuda,2015,imports,2,China,5.2
+28,Antigua and Barbuda,2015,imports,3,Trinidad and Tobago,3.6
+28,Antigua and Barbuda,2020,exports,1,United States,11.6
+28,Antigua and Barbuda,2020,exports,2,Sint Maarten,10.2
+28,Antigua and Barbuda,2020,imports,1,United States,52.1
+28,Antigua and Barbuda,2020,imports,2,China,7.2
+28,Antigua and Barbuda,2020,imports,3,Trinidad and Tobago,4.1
+28,Antigua and Barbuda,2024,exports,1,United States,19.2
+28,Antigua and Barbuda,2024,exports,2,Sint Maarten,10.8
+28,Antigua and Barbuda,2024,exports,3,China,9.8
+28,Antigua and Barbuda,2024,imports,1,United States,54.0
+28,Antigua and Barbuda,2024,imports,2,China,5.2
+28,Antigua and Barbuda,2024,imports,3,Trinidad and Tobago,4.2
+32,Argentina,2015,exports,1,Brazil,17.8
+32,Argentina,2015,exports,2,United States,6.7
+32,Argentina,2015,exports,3,Chile,4.2
+32,Argentina,2015,imports,1,Brazil,21.7
+32,Argentina,2015,imports,2,China,19.6
+32,Argentina,2015,imports,3,United States,13.6
+32,Argentina,2020,exports,1,Brazil,14.5
+32,Argentina,2020,exports,2,United States,6.0
+32,Argentina,2020,exports,3,Chile,5.3
+32,Argentina,2020,imports,1,Brazil,20.4
+32,Argentina,2020,imports,2,China,20.5
+32,Argentina,2020,imports,3,United States,10.9
+32,Argentina,2024,exports,1,Brazil,17.1
+32,Argentina,2024,exports,2,United States,8.1
+32,Argentina,2024,exports,3,Chile,8.0
+32,Argentina,2024,imports,1,Brazil,23.6
+32,Argentina,2024,imports,2,China,19.2
+32,Argentina,2024,imports,3,United States,10.2
+51,Armenia,2015,exports,1,United Arab Emirates,0.7
+51,Armenia,2015,exports,2,Russian Federation,15.2
+51,Armenia,2015,exports,3,"China, Hong Kong SAR",0.4
+51,Armenia,2015,imports,1,Russian Federation,30.4
+51,Armenia,2015,imports,2,China,9.7
+51,Armenia,2015,imports,3,Viet Nam,0.5
+51,Armenia,2020,exports,1,United Arab Emirates,3.5
+51,Armenia,2020,exports,2,Russian Federation,26.2
+51,Armenia,2020,exports,3,"China, Hong Kong SAR",0.2
+51,Armenia,2020,imports,1,Russian Federation,33.4
+51,Armenia,2020,imports,2,China,14.5
+51,Armenia,2020,imports,3,Viet Nam,0.7
+51,Armenia,2024,exports,1,United Arab Emirates,40.3
+51,Armenia,2024,exports,2,Russian Federation,23.9
+51,Armenia,2024,exports,3,"China, Hong Kong SAR",13.5
+51,Armenia,2024,imports,1,Russian Federation,55.0
+51,Armenia,2024,imports,2,China,9.9
+51,Armenia,2024,imports,3,Viet Nam,5.2
+533,Aruba,2015,exports,1,Colombia,27.4
+533,Aruba,2015,exports,2,Areas nes,14.1
+533,Aruba,2015,exports,3,United States,6.9
+533,Aruba,2015,imports,1,United States,54.4
+533,Aruba,2015,imports,2,Areas nes,13.9
+533,Aruba,2015,imports,3,Netherlands,10.4
+533,Aruba,2020,exports,1,Colombia,14.5
+533,Aruba,2020,exports,2,Areas nes,4.5
+533,Aruba,2020,exports,3,United States,29.5
+533,Aruba,2020,imports,1,United States,52.6
+533,Aruba,2020,imports,2,Areas nes,12.2
+533,Aruba,2020,imports,3,Netherlands,16.1
+533,Aruba,2024,exports,1,Colombia,46.0
+533,Aruba,2024,exports,2,Areas nes,30.3
+533,Aruba,2024,exports,3,United States,15.9
+533,Aruba,2024,imports,1,United States,50.4
+533,Aruba,2024,imports,2,Areas nes,22.0
+533,Aruba,2024,imports,3,Netherlands,12.7
+36,Australia,2015,exports,1,China,31.9
+36,Australia,2015,exports,2,Areas nes,1.0
+36,Australia,2015,exports,3,Japan,15.9
+36,Australia,2015,imports,1,China,23.0
+36,Australia,2015,imports,2,United States,12.8
+36,Australia,2015,imports,3,Japan,7.5
+36,Australia,2020,exports,1,China,40.2
+36,Australia,2020,exports,2,Areas nes,2.1
+36,Australia,2020,exports,3,Japan,12.3
+36,Australia,2020,imports,1,China,28.8
+36,Australia,2020,imports,2,United States,12.3
+36,Australia,2020,imports,3,Japan,6.1
+36,Australia,2024,exports,1,China,30.1
+36,Australia,2024,exports,2,Areas nes,16.3
+36,Australia,2024,exports,3,Japan,9.0
+36,Australia,2024,imports,1,China,25.5
+36,Australia,2024,imports,2,United States,11.7
+36,Australia,2024,imports,3,Japan,5.9
+40,Austria,2015,exports,1,Germany,29.5
+40,Austria,2015,exports,2,United States,6.7
+40,Austria,2015,exports,3,Italy,6.2
+40,Austria,2015,imports,1,Germany,36.4
+40,Austria,2015,imports,2,China,5.9
+40,Austria,2015,imports,3,Italy,6.0
+40,Austria,2020,exports,1,Germany,30.4
+40,Austria,2020,exports,2,United States,6.5
+40,Austria,2020,exports,3,Italy,6.2
+40,Austria,2020,imports,1,Germany,34.7
+40,Austria,2020,imports,2,China,7.1
+40,Austria,2020,imports,3,Italy,6.3
+40,Austria,2024,exports,1,Germany,29.7
+40,Austria,2024,exports,2,United States,8.5
+40,Austria,2024,exports,3,Italy,6.1
+40,Austria,2024,imports,1,Germany,32.0
+40,Austria,2024,imports,2,China,8.2
+40,Austria,2024,imports,3,Italy,6.5
+31,Azerbaijan,2015,exports,1,Italy,17.8
+31,Azerbaijan,2015,exports,2,Sint Maarten,11.7
+31,Azerbaijan,2015,exports,3,Russian Federation,3.3
+31,Azerbaijan,2015,imports,1,China,5.6
+31,Azerbaijan,2015,imports,2,Russian Federation,15.6
+31,Azerbaijan,2015,imports,3,Türkiye,12.6
+31,Azerbaijan,2020,exports,1,Italy,30.4
+31,Azerbaijan,2020,exports,2,Sint Maarten,18.9
+31,Azerbaijan,2020,exports,3,Russian Federation,5.2
+31,Azerbaijan,2020,imports,1,China,13.2
+31,Azerbaijan,2020,imports,2,Russian Federation,18.3
+31,Azerbaijan,2020,imports,3,Türkiye,14.6
+31,Azerbaijan,2024,exports,1,Italy,41.0
+31,Azerbaijan,2024,exports,2,Sint Maarten,14.4
+31,Azerbaijan,2024,exports,3,Russian Federation,4.4
+31,Azerbaijan,2024,imports,1,China,17.7
+31,Azerbaijan,2024,imports,2,Russian Federation,17.2
+31,Azerbaijan,2024,imports,3,Türkiye,11.0
+44,Bahamas (The),2015,exports,1,United States,83.1
+44,Bahamas (The),2015,exports,2,Areas nes,0.6
+44,Bahamas (The),2015,exports,3,China,0.1
+44,Bahamas (The),2015,imports,1,United States,81.9
+44,Bahamas (The),2015,imports,2,Areas nes,3.0
+44,Bahamas (The),2015,imports,3,China,0.8
+44,Bahamas (The),2020,exports,1,United States,81.3
+44,Bahamas (The),2020,exports,2,Areas nes,5.2
+44,Bahamas (The),2020,exports,3,China,0.0
+44,Bahamas (The),2020,imports,1,United States,79.8
+44,Bahamas (The),2020,imports,2,Areas nes,2.8
+44,Bahamas (The),2020,imports,3,China,1.5
+44,Bahamas (The),2024,exports,1,United States,80.2
+44,Bahamas (The),2024,exports,2,Areas nes,18.7
+44,Bahamas (The),2024,exports,3,China,0.2
+44,Bahamas (The),2024,imports,1,United States,84.6
+44,Bahamas (The),2024,imports,2,Areas nes,2.7
+44,Bahamas (The),2024,imports,3,China,1.7
+48,Bahrain,2015,exports,1,Saudi Arabia,66.9
+48,Bahrain,2015,exports,2,United Arab Emirates,6.9
+48,Bahrain,2015,exports,3,United States,4.8
+48,Bahrain,2015,imports,1,China,9.6
+48,Bahrain,2015,imports,2,United Arab Emirates,6.9
+48,Bahrain,2015,imports,3,Brazil,2.5
+48,Bahrain,2020,exports,1,Saudi Arabia,17.6
+48,Bahrain,2020,exports,2,United Arab Emirates,23.0
+48,Bahrain,2020,exports,3,United States,6.6
+48,Bahrain,2020,imports,1,China,11.3
+48,Bahrain,2020,imports,2,United Arab Emirates,5.3
+48,Bahrain,2020,imports,3,Brazil,5.1
+48,Bahrain,2024,exports,1,Saudi Arabia,23.5
+48,Bahrain,2024,exports,2,United Arab Emirates,14.3
+48,Bahrain,2024,exports,3,United States,8.4
+48,Bahrain,2024,imports,1,China,14.0
+48,Bahrain,2024,imports,2,United Arab Emirates,9.4
+48,Bahrain,2024,imports,3,Brazil,9.1
+50,Bangladesh,2015,exports,1,Germany,14.7
+50,Bangladesh,2015,exports,2,United States,19.3
+50,Bangladesh,2015,exports,3,France,5.5
+50,Bangladesh,2015,imports,1,China,21.5
+50,Bangladesh,2015,imports,2,India,12.2
+50,Bangladesh,2015,imports,3,Indonesia,4.6
+50,Bangladesh,2020,exports,1,Germany,15.9
+50,Bangladesh,2020,exports,2,United States,15.2
+50,Bangladesh,2020,exports,3,France,4.2
+50,Bangladesh,2020,imports,1,China,30.0
+50,Bangladesh,2020,imports,2,India,15.7
+50,Bangladesh,2020,imports,3,Indonesia,3.3
+50,Bangladesh,2024,exports,1,Germany,15.0
+50,Bangladesh,2024,exports,2,United States,14.3
+50,Bangladesh,2024,exports,3,France,7.0
+50,Bangladesh,2024,imports,1,China,33.2
+50,Bangladesh,2024,imports,2,India,16.4
+50,Bangladesh,2024,imports,3,Indonesia,5.3
+52,Barbados,2015,exports,1,Areas nes,15.7
+52,Barbados,2015,exports,2,United States,32.6
+52,Barbados,2015,exports,3,Jamaica,4.6
+52,Barbados,2015,imports,1,United States,39.2
+52,Barbados,2015,imports,2,Trinidad and Tobago,15.8
+52,Barbados,2015,imports,3,Netherlands,1.5
+52,Barbados,2020,exports,1,Areas nes,23.5
+52,Barbados,2020,exports,2,United States,13.3
+52,Barbados,2020,exports,3,Jamaica,8.2
+52,Barbados,2020,imports,1,United States,42.6
+52,Barbados,2020,imports,2,Trinidad and Tobago,13.8
+52,Barbados,2020,imports,3,Netherlands,5.5
+52,Barbados,2024,exports,1,Areas nes,28.5
+52,Barbados,2024,exports,2,United States,20.7
+52,Barbados,2024,exports,3,Jamaica,6.9
+52,Barbados,2024,imports,1,United States,38.5
+52,Barbados,2024,imports,2,Trinidad and Tobago,21.1
+52,Barbados,2024,imports,3,Netherlands,6.0
+112,Belarus,2015,exports,1,China,2.9
+112,Belarus,2015,exports,2,Uzbekistan,0.1
+112,Belarus,2015,exports,3,Kazakhstan,2.0
+112,Belarus,2015,imports,1,China,7.7
+112,Belarus,2015,imports,2,Poland,3.6
+112,Belarus,2015,imports,3,Germany,4.6
+112,Belarus,2020,exports,1,China,2.6
+112,Belarus,2020,exports,2,Uzbekistan,0.8
+112,Belarus,2020,exports,3,Kazakhstan,2.5
+112,Belarus,2020,imports,1,China,10.7
+112,Belarus,2020,imports,2,Poland,3.8
+112,Belarus,2020,imports,3,Germany,5.2
+112,Belarus,2024,exports,1,China,26.0
+112,Belarus,2024,exports,2,Uzbekistan,11.0
+112,Belarus,2024,exports,3,Kazakhstan,10.2
+112,Belarus,2024,imports,1,China,37.9
+112,Belarus,2024,imports,2,Poland,13.6
+112,Belarus,2024,imports,3,Germany,9.4
+56,Belgium,2015,exports,1,Germany,15.2
+56,Belgium,2015,exports,2,Netherlands,12.1
+56,Belgium,2015,exports,3,France,15.6
+56,Belgium,2015,imports,1,Netherlands,21.4
+56,Belgium,2015,imports,2,Germany,15.1
+56,Belgium,2015,imports,3,France,11.2
+56,Belgium,2020,exports,1,Germany,16.6
+56,Belgium,2020,exports,2,Netherlands,11.6
+56,Belgium,2020,exports,3,France,13.4
+56,Belgium,2020,imports,1,Netherlands,19.2
+56,Belgium,2020,imports,2,Germany,14.6
+56,Belgium,2020,imports,3,France,11.2
+56,Belgium,2024,exports,1,Germany,15.2
+56,Belgium,2024,exports,2,Netherlands,12.9
+56,Belgium,2024,exports,3,France,12.7
+56,Belgium,2024,imports,1,Netherlands,23.8
+56,Belgium,2024,imports,2,Germany,13.5
+56,Belgium,2024,imports,3,France,11.5
+84,Belize,2015,exports,1,United Kingdom,26.1
+84,Belize,2015,exports,2,United States,38.9
+84,Belize,2015,exports,3,Trinidad and Tobago,4.3
+84,Belize,2015,imports,1,United States,34.4
+84,Belize,2015,imports,2,China,10.1
+84,Belize,2015,imports,3,Mexico,10.8
+84,Belize,2020,exports,1,United Kingdom,29.6
+84,Belize,2020,exports,2,United States,23.5
+84,Belize,2020,exports,3,Trinidad and Tobago,4.8
+84,Belize,2020,imports,1,United States,40.5
+84,Belize,2020,imports,2,China,14.4
+84,Belize,2020,imports,3,Mexico,13.0
+84,Belize,2024,exports,1,United Kingdom,30.4
+84,Belize,2024,exports,2,United States,30.2
+84,Belize,2024,exports,3,Trinidad and Tobago,6.6
+84,Belize,2024,imports,1,United States,45.0
+84,Belize,2024,imports,2,China,17.0
+84,Belize,2024,imports,3,Mexico,8.5
+204,Benin,2015,exports,1,Bangladesh,7.4
+204,Benin,2015,exports,2,India,13.1
+204,Benin,2015,exports,3,Pakistan,2.8
+204,Benin,2015,imports,1,India,9.6
+204,Benin,2015,imports,2,China,10.9
+204,Benin,2015,imports,3,France,11.6
+204,Benin,2020,exports,1,Bangladesh,38.5
+204,Benin,2020,exports,2,India,11.9
+204,Benin,2020,exports,3,Pakistan,1.1
+204,Benin,2020,imports,1,India,11.5
+204,Benin,2020,imports,2,China,11.5
+204,Benin,2020,imports,3,France,10.5
+204,Benin,2024,exports,1,Bangladesh,37.2
+204,Benin,2024,exports,2,India,15.4
+204,Benin,2024,exports,3,Pakistan,7.2
+204,Benin,2024,imports,1,India,17.1
+204,Benin,2024,imports,2,China,12.8
+204,Benin,2024,imports,3,France,8.6
+60,Bermuda,2015,exports,1,United States,80.8
+60,Bermuda,2015,exports,2,Canada,2.0
+60,Bermuda,2015,exports,3,United Kingdom,12.1
+60,Bermuda,2015,imports,1,United States,65.7
+60,Bermuda,2015,imports,2,United Kingdom,3.9
+60,Bermuda,2015,imports,3,Canada,14.7
+60,Bermuda,2020,exports,1,United States,94.2
+60,Bermuda,2020,exports,2,Canada,0.6
+60,Bermuda,2020,exports,3,United Kingdom,1.5
+60,Bermuda,2020,imports,1,United States,69.9
+60,Bermuda,2020,imports,2,United Kingdom,5.0
+60,Bermuda,2020,imports,3,Canada,7.9
+60,Bermuda,2024,exports,1,United States,89.9
+60,Bermuda,2024,exports,2,Canada,2.5
+60,Bermuda,2024,exports,3,United Kingdom,2.3
+60,Bermuda,2024,imports,1,United States,77.6
+60,Bermuda,2024,imports,2,United Kingdom,5.2
+60,Bermuda,2024,imports,3,Canada,3.9
+64,Bhutan,2015,exports,1,India,72.3
+64,Bhutan,2015,exports,2,Republic of Korea,0.0
+64,Bhutan,2015,exports,3,Nepal,1.1
+64,Bhutan,2015,imports,1,India,72.7
+64,Bhutan,2015,imports,2,Singapore,2.2
+64,Bhutan,2015,imports,3,China,1.6
+64,Bhutan,2020,exports,1,India,90.6
+64,Bhutan,2020,exports,2,Republic of Korea,0.0
+64,Bhutan,2020,exports,3,Nepal,4.0
+64,Bhutan,2020,imports,1,India,75.0
+64,Bhutan,2020,imports,2,Singapore,1.2
+64,Bhutan,2020,imports,3,China,1.6
+64,Bhutan,2024,exports,1,India,91.7
+64,Bhutan,2024,exports,2,Republic of Korea,2.7
+64,Bhutan,2024,exports,3,Nepal,1.8
+64,Bhutan,2024,imports,1,India,81.2
+64,Bhutan,2024,imports,2,Singapore,7.1
+64,Bhutan,2024,imports,3,China,4.8
+68,Bolivia (Plurin. State of),2015,exports,1,Brazil,27.5
+68,Bolivia (Plurin. State of),2015,exports,2,China,5.3
+68,Bolivia (Plurin. State of),2015,exports,3,Japan,4.6
+68,Bolivia (Plurin. State of),2015,imports,1,China,18.1
+68,Bolivia (Plurin. State of),2015,imports,2,Brazil,16.4
+68,Bolivia (Plurin. State of),2015,imports,3,Argentina,11.8
+68,Bolivia (Plurin. State of),2020,exports,1,Brazil,15.9
+68,Bolivia (Plurin. State of),2020,exports,2,China,5.1
+68,Bolivia (Plurin. State of),2020,exports,3,Japan,7.5
+68,Bolivia (Plurin. State of),2020,imports,1,China,22.3
+68,Bolivia (Plurin. State of),2020,imports,2,Brazil,16.9
+68,Bolivia (Plurin. State of),2020,imports,3,Argentina,10.1
+68,Bolivia (Plurin. State of),2024,exports,1,Brazil,16.9
+68,Bolivia (Plurin. State of),2024,exports,2,China,14.9
+68,Bolivia (Plurin. State of),2024,exports,3,Japan,7.9
+68,Bolivia (Plurin. State of),2024,imports,1,China,22.3
+68,Bolivia (Plurin. State of),2024,imports,2,Brazil,14.4
+68,Bolivia (Plurin. State of),2024,imports,3,Argentina,11.0
+70,Bosnia and Herzegovina,2015,exports,1,Croatia,10.5
+70,Bosnia and Herzegovina,2015,exports,2,Germany,16.8
+70,Bosnia and Herzegovina,2015,exports,3,Serbia,9.5
+70,Bosnia and Herzegovina,2015,imports,1,Italy,11.1
+70,Bosnia and Herzegovina,2015,imports,2,Germany,12.1
+70,Bosnia and Herzegovina,2015,imports,3,Serbia,10.9
+70,Bosnia and Herzegovina,2020,exports,1,Croatia,12.9
+70,Bosnia and Herzegovina,2020,exports,2,Germany,15.5
+70,Bosnia and Herzegovina,2020,exports,3,Serbia,11.6
+70,Bosnia and Herzegovina,2020,imports,1,Italy,11.5
+70,Bosnia and Herzegovina,2020,imports,2,Germany,12.3
+70,Bosnia and Herzegovina,2020,imports,3,Serbia,11.3
+70,Bosnia and Herzegovina,2024,exports,1,Croatia,16.1
+70,Bosnia and Herzegovina,2024,exports,2,Germany,15.3
+70,Bosnia and Herzegovina,2024,exports,3,Serbia,12.1
+70,Bosnia and Herzegovina,2024,imports,1,Italy,12.9
+70,Bosnia and Herzegovina,2024,imports,2,Germany,11.8
+70,Bosnia and Herzegovina,2024,imports,3,Serbia,10.4
+72,Botswana,2015,exports,1,United Arab Emirates,5.3
+72,Botswana,2015,exports,2,Belgium,19.8
+72,Botswana,2015,exports,3,India,12.4
+72,Botswana,2015,imports,1,South Africa,65.3
+72,Botswana,2015,imports,2,Namibia,14.5
+72,Botswana,2015,imports,3,Canada,6.3
+72,Botswana,2020,exports,1,United Arab Emirates,21.9
+72,Botswana,2020,exports,2,Belgium,21.2
+72,Botswana,2020,exports,3,India,20.9
+72,Botswana,2020,imports,1,South Africa,58.3
+72,Botswana,2020,imports,2,Namibia,7.5
+72,Botswana,2020,imports,3,Canada,3.2
+72,Botswana,2024,exports,1,United Arab Emirates,29.8
+72,Botswana,2024,exports,2,Belgium,17.9
+72,Botswana,2024,exports,3,India,12.3
+72,Botswana,2024,imports,1,South Africa,65.0
+72,Botswana,2024,imports,2,Namibia,7.7
+72,Botswana,2024,imports,3,Canada,4.9
+76,Brazil,2015,exports,1,China,18.8
+76,Brazil,2015,exports,2,United States,13.8
+76,Brazil,2015,exports,3,Argentina,6.8
+76,Brazil,2015,imports,1,China,17.7
+76,Brazil,2015,imports,2,United States,15.5
+76,Brazil,2015,imports,3,Germany,5.9
+76,Brazil,2020,exports,1,China,32.4
+76,Brazil,2020,exports,2,United States,10.3
+76,Brazil,2020,exports,3,Argentina,4.1
+76,Brazil,2020,imports,1,China,22.1
+76,Brazil,2020,imports,2,United States,17.9
+76,Brazil,2020,imports,3,Germany,5.8
+76,Brazil,2024,exports,1,China,28.0
+76,Brazil,2024,exports,2,United States,12.1
+76,Brazil,2024,exports,3,Argentina,4.1
+76,Brazil,2024,imports,1,China,24.9
+76,Brazil,2024,imports,2,United States,15.6
+76,Brazil,2024,imports,3,Germany,5.1
+96,Brunei Darussalam,2015,exports,1,Australia,3.5
+96,Brunei Darussalam,2015,exports,2,Singapore,3.5
+96,Brunei Darussalam,2015,exports,3,China,1.5
+96,Brunei Darussalam,2015,imports,1,Malaysia,21.2
+96,Brunei Darussalam,2015,imports,2,United Arab Emirates,0.2
+96,Brunei Darussalam,2015,imports,3,China,10.4
+96,Brunei Darussalam,2020,exports,1,Australia,5.0
+96,Brunei Darussalam,2020,exports,2,Singapore,21.3
+96,Brunei Darussalam,2020,exports,3,China,17.7
+96,Brunei Darussalam,2020,imports,1,Malaysia,17.4
+96,Brunei Darussalam,2020,imports,2,United Arab Emirates,4.3
+96,Brunei Darussalam,2020,imports,3,China,10.8
+96,Brunei Darussalam,2024,exports,1,Australia,21.6
+96,Brunei Darussalam,2024,exports,2,Singapore,17.1
+96,Brunei Darussalam,2024,exports,3,China,16.7
+96,Brunei Darussalam,2024,imports,1,Malaysia,26.4
+96,Brunei Darussalam,2024,imports,2,United Arab Emirates,10.9
+96,Brunei Darussalam,2024,imports,3,China,10.5
+100,Bulgaria,2015,exports,1,Germany,13.3
+100,Bulgaria,2015,exports,2,Romania,9.0
+100,Bulgaria,2015,exports,3,Italy,9.2
+100,Bulgaria,2015,imports,1,China,3.7
+100,Bulgaria,2015,imports,2,Germany,12.9
+100,Bulgaria,2015,imports,3,Türkiye,5.7
+100,Bulgaria,2020,exports,1,Germany,17.7
+100,Bulgaria,2020,exports,2,Romania,8.8
+100,Bulgaria,2020,exports,3,Italy,7.0
+100,Bulgaria,2020,imports,1,China,5.1
+100,Bulgaria,2020,imports,2,Germany,12.1
+100,Bulgaria,2020,imports,3,Türkiye,7.1
+100,Bulgaria,2024,exports,1,Germany,15.2
+100,Bulgaria,2024,exports,2,Romania,9.9
+100,Bulgaria,2024,exports,3,Italy,6.9
+100,Bulgaria,2024,imports,1,China,10.5
+100,Bulgaria,2024,imports,2,Germany,10.3
+100,Bulgaria,2024,imports,3,Türkiye,8.8
+854,Burkina Faso,2015,exports,1,Switzerland,49.7
+854,Burkina Faso,2015,exports,2,United Arab Emirates,0.5
+854,Burkina Faso,2015,exports,3,Côte dIvoire,3.6
+854,Burkina Faso,2015,imports,1,China,12.1
+854,Burkina Faso,2015,imports,2,Côte dIvoire,8.3
+854,Burkina Faso,2015,imports,3,Russian Federation,2.0
+854,Burkina Faso,2020,exports,1,Switzerland,76.3
+854,Burkina Faso,2020,exports,2,United Arab Emirates,0.3
+854,Burkina Faso,2020,exports,3,Côte dIvoire,2.9
+854,Burkina Faso,2020,imports,1,China,12.4
+854,Burkina Faso,2020,imports,2,Côte dIvoire,8.2
+854,Burkina Faso,2020,imports,3,Russian Federation,6.9
+854,Burkina Faso,2024,exports,1,Switzerland,56.2
+854,Burkina Faso,2024,exports,2,United Arab Emirates,26.2
+854,Burkina Faso,2024,exports,3,Côte dIvoire,2.9
+854,Burkina Faso,2024,imports,1,China,15.8
+854,Burkina Faso,2024,imports,2,Côte dIvoire,15.3
+854,Burkina Faso,2024,imports,3,Russian Federation,11.7
+108,Burundi,2015,exports,1,United Arab Emirates,12.7
+108,Burundi,2015,exports,2,Dem. Rep. of Congo,24.8
+108,Burundi,2015,exports,3,Switzerland,19.8
+108,Burundi,2015,imports,1,Saudi Arabia,6.3
+108,Burundi,2015,imports,2,China,12.6
+108,Burundi,2015,imports,3,United Arab Emirates,4.9
+108,Burundi,2020,exports,1,United Arab Emirates,32.4
+108,Burundi,2020,exports,2,Dem. Rep. of Congo,19.7
+108,Burundi,2020,exports,3,Switzerland,5.0
+108,Burundi,2020,imports,1,Saudi Arabia,11.8
+108,Burundi,2020,imports,2,China,15.7
+108,Burundi,2020,imports,3,United Arab Emirates,6.9
+108,Burundi,2024,exports,1,United Arab Emirates,28.0
+108,Burundi,2024,exports,2,Dem. Rep. of Congo,18.6
+108,Burundi,2024,exports,3,Switzerland,9.5
+108,Burundi,2024,imports,1,Saudi Arabia,14.7
+108,Burundi,2024,imports,2,China,14.1
+108,Burundi,2024,imports,3,United Arab Emirates,13.9
+132,Cabo Verde,2015,exports,2,Spain,69.0
+132,Cabo Verde,2015,exports,3,Portugal,14.1
+132,Cabo Verde,2015,imports,1,Portugal,43.6
+132,Cabo Verde,2015,imports,2,Saudi Arabia,0.0
+132,Cabo Verde,2015,imports,3,Spain,7.3
+132,Cabo Verde,2020,exports,1,Areas nes,0.1
+132,Cabo Verde,2020,exports,2,Spain,63.0
+132,Cabo Verde,2020,exports,3,Portugal,15.1
+132,Cabo Verde,2020,imports,1,Portugal,42.0
+132,Cabo Verde,2020,imports,2,Saudi Arabia,0.0
+132,Cabo Verde,2020,imports,3,Spain,8.5
+132,Cabo Verde,2024,exports,1,Areas nes,39.3
+132,Cabo Verde,2024,exports,2,Spain,19.2
+132,Cabo Verde,2024,exports,3,Portugal,14.7
+132,Cabo Verde,2024,imports,1,Portugal,30.4
+132,Cabo Verde,2024,imports,2,Saudi Arabia,11.5
+132,Cabo Verde,2024,imports,3,Spain,8.3
+116,Cambodia,2015,exports,1,United States,25.0
+116,Cambodia,2015,exports,2,China,4.7
+116,Cambodia,2015,exports,3,Viet Nam,2.2
+116,Cambodia,2015,imports,1,China,36.8
+116,Cambodia,2015,imports,2,Viet Nam,8.7
+116,Cambodia,2015,imports,3,Thailand,14.6
+116,Cambodia,2020,exports,1,United States,30.1
+116,Cambodia,2020,exports,2,China,6.1
+116,Cambodia,2020,exports,3,Viet Nam,2.2
+116,Cambodia,2020,imports,1,China,37.1
+116,Cambodia,2020,imports,2,Viet Nam,13.9
+116,Cambodia,2020,imports,3,Thailand,15.0
+116,Cambodia,2024,exports,1,United States,41.5
+116,Cambodia,2024,exports,2,China,7.0
+116,Cambodia,2024,exports,3,Viet Nam,6.2
+116,Cambodia,2024,imports,1,China,44.2
+116,Cambodia,2024,imports,2,Viet Nam,14.7
+116,Cambodia,2024,imports,3,Thailand,11.9
+120,Cameroon,2015,exports,1,Netherlands,16.3
+120,Cameroon,2015,exports,2,China,12.5
+120,Cameroon,2015,exports,3,United Arab Emirates,0.2
+120,Cameroon,2015,imports,1,China,19.4
+120,Cameroon,2015,imports,2,France,10.3
+120,Cameroon,2015,imports,3,India,3.6
+120,Cameroon,2020,exports,1,Netherlands,9.4
+120,Cameroon,2020,exports,2,China,21.6
+120,Cameroon,2020,exports,3,United Arab Emirates,0.1
+120,Cameroon,2020,imports,1,China,17.5
+120,Cameroon,2020,imports,2,France,8.7
+120,Cameroon,2020,imports,3,India,5.0
+120,Cameroon,2024,exports,1,Netherlands,17.7
+120,Cameroon,2024,exports,2,China,13.5
+120,Cameroon,2024,exports,3,United Arab Emirates,12.6
+120,Cameroon,2024,imports,1,China,40.4
+120,Cameroon,2024,imports,2,France,6.6
+120,Cameroon,2024,imports,3,India,5.9
+124,Canada,2015,exports,1,United States,76.7
+124,Canada,2015,exports,2,China,3.9
+124,Canada,2015,exports,3,United Kingdom,3.1
+124,Canada,2015,imports,1,United States,53.2
+124,Canada,2015,imports,2,China,12.2
+124,Canada,2015,imports,3,Mexico,5.8
+124,Canada,2020,exports,1,United States,73.3
+124,Canada,2020,exports,2,China,4.9
+124,Canada,2020,exports,3,United Kingdom,3.8
+124,Canada,2020,imports,1,United States,48.9
+124,Canada,2020,imports,2,China,14.1
+124,Canada,2020,imports,3,Mexico,5.5
+124,Canada,2024,exports,1,United States,76.4
+124,Canada,2024,exports,2,China,3.8
+124,Canada,2024,exports,3,United Kingdom,3.6
+124,Canada,2024,imports,1,United States,49.3
+124,Canada,2024,imports,2,China,11.6
+124,Canada,2024,imports,3,Mexico,6.2
+140,Central African Republic,2015,exports,1,United Arab Emirates,0.1
+140,Central African Republic,2015,exports,2,Italy,0.0
+140,Central African Republic,2015,exports,3,France,63.6
+140,Central African Republic,2015,imports,1,China,6.6
+140,Central African Republic,2015,imports,2,Cameroon,6.6
+140,Central African Republic,2015,imports,3,France,21.1
+140,Central African Republic,2020,exports,1,United Arab Emirates,24.6
+140,Central African Republic,2020,exports,2,Italy,0.2
+140,Central African Republic,2020,exports,3,France,10.4
+140,Central African Republic,2020,imports,1,China,17.1
+140,Central African Republic,2020,imports,2,Cameroon,26.2
+140,Central African Republic,2020,imports,3,France,14.0
+140,Central African Republic,2024,exports,1,United Arab Emirates,69.4
+140,Central African Republic,2024,exports,2,Italy,7.1
+140,Central African Republic,2024,exports,3,France,5.7
+140,Central African Republic,2024,imports,1,China,17.0
+140,Central African Republic,2024,imports,2,Cameroon,15.5
+140,Central African Republic,2024,imports,3,France,11.2
+148,Chad,2015,exports,1,United Arab Emirates,3.0
+148,Chad,2015,exports,2,Germany,0.1
+148,Chad,2015,exports,3,China,3.8
+148,Chad,2015,imports,1,China,13.6
+148,Chad,2015,imports,2,United Arab Emirates,10.5
+148,Chad,2015,imports,3,Türkiye,1.9
+148,Chad,2020,exports,1,United Arab Emirates,12.7
+148,Chad,2020,exports,2,Germany,15.8
+148,Chad,2020,exports,3,China,24.8
+148,Chad,2020,imports,1,China,25.8
+148,Chad,2020,imports,2,United Arab Emirates,16.1
+148,Chad,2020,imports,3,Türkiye,3.6
+148,Chad,2024,exports,1,United Arab Emirates,26.6
+148,Chad,2024,exports,2,Germany,22.1
+148,Chad,2024,exports,3,China,16.2
+148,Chad,2024,imports,1,China,25.2
+148,Chad,2024,imports,2,United Arab Emirates,21.2
+148,Chad,2024,imports,3,Türkiye,7.7
+152,Chile,2015,exports,1,China,26.1
+152,Chile,2015,exports,2,United States,13.2
+152,Chile,2015,exports,3,Japan,8.5
+152,Chile,2015,imports,1,China,23.6
+152,Chile,2015,imports,2,United States,19.1
+152,Chile,2015,imports,3,Brazil,7.8
+152,Chile,2020,exports,1,China,38.7
+152,Chile,2020,exports,2,United States,13.2
+152,Chile,2020,exports,3,Japan,8.9
+152,Chile,2020,imports,1,China,27.8
+152,Chile,2020,imports,2,United States,17.8
+152,Chile,2020,imports,3,Brazil,7.4
+152,Chile,2024,exports,1,China,38.2
+152,Chile,2024,exports,2,United States,15.4
+152,Chile,2024,exports,3,Japan,8.6
+152,Chile,2024,imports,1,China,24.9
+152,Chile,2024,imports,2,United States,18.9
+152,Chile,2024,imports,3,Brazil,8.8
+156,China,2015,exports,1,United States,18.0
+156,China,2015,exports,2,"China, Hong Kong SAR",14.5
+156,China,2015,exports,3,Viet Nam,2.9
+156,China,2015,imports,1,"Other Asia, nes",8.5
+156,China,2015,imports,2,Republic of Korea,10.4
+156,China,2015,imports,3,United States,8.9
+156,China,2020,exports,1,United States,17.5
+156,China,2020,exports,2,"China, Hong Kong SAR",10.5
+156,China,2020,exports,3,Viet Nam,4.4
+156,China,2020,imports,1,"Other Asia, nes",9.7
+156,China,2020,imports,2,Republic of Korea,8.4
+156,China,2020,imports,3,United States,6.6
+156,China,2024,exports,1,United States,14.7
+156,China,2024,exports,2,"China, Hong Kong SAR",8.1
+156,China,2024,exports,3,Viet Nam,4.5
+156,China,2024,imports,1,"Other Asia, nes",8.4
+156,China,2024,imports,2,Republic of Korea,7.0
+156,China,2024,imports,3,United States,6.4
+344,"China, Hong Kong SAR",2015,exports,1,China,56.3
+344,"China, Hong Kong SAR",2015,exports,2,United States,8.7
+344,"China, Hong Kong SAR",2015,exports,3,Viet Nam,1.9
+344,"China, Hong Kong SAR",2015,imports,1,China,46.7
+344,"China, Hong Kong SAR",2015,imports,2,"Other Asia, nes",6.5
+344,"China, Hong Kong SAR",2015,imports,3,Singapore,6.2
+344,"China, Hong Kong SAR",2020,exports,1,China,55.2
+344,"China, Hong Kong SAR",2020,exports,2,United States,7.2
+344,"China, Hong Kong SAR",2020,exports,3,Viet Nam,2.0
+344,"China, Hong Kong SAR",2020,imports,1,China,43.8
+344,"China, Hong Kong SAR",2020,imports,2,"Other Asia, nes",9.4
+344,"China, Hong Kong SAR",2020,imports,3,Singapore,7.2
+344,"China, Hong Kong SAR",2024,exports,1,China,59.1
+344,"China, Hong Kong SAR",2024,exports,2,United States,6.3
+344,"China, Hong Kong SAR",2024,exports,3,Viet Nam,3.1
+344,"China, Hong Kong SAR",2024,imports,1,China,40.9
+344,"China, Hong Kong SAR",2024,imports,2,"Other Asia, nes",10.3
+344,"China, Hong Kong SAR",2024,imports,3,Singapore,7.4
+446,"China, Macao SAR",2015,exports,1,"China, Hong Kong SAR",42.2
+446,"China, Macao SAR",2015,exports,2,China,11.5
+446,"China, Macao SAR",2015,exports,3,United States,0.2
+446,"China, Macao SAR",2015,imports,1,China,13.6
+446,"China, Macao SAR",2015,imports,2,France,0.3
+446,"China, Macao SAR",2015,imports,3,Italy,0.3
+446,"China, Macao SAR",2020,exports,1,"China, Hong Kong SAR",78.8
+446,"China, Macao SAR",2020,exports,2,China,12.1
+446,"China, Macao SAR",2020,exports,3,United States,4.9
+446,"China, Macao SAR",2020,imports,1,China,29.9
+446,"China, Macao SAR",2020,imports,2,France,16.5
+446,"China, Macao SAR",2020,imports,3,Italy,9.1
+446,"China, Macao SAR",2024,exports,1,"China, Hong Kong SAR",90.2
+446,"China, Macao SAR",2024,exports,2,China,4.2
+446,"China, Macao SAR",2024,exports,3,United States,1.2
+446,"China, Macao SAR",2024,imports,1,China,30.1
+446,"China, Macao SAR",2024,imports,2,France,13.2
+446,"China, Macao SAR",2024,imports,3,Italy,12.0
+170,Colombia,2015,exports,1,United States,28.2
+170,Colombia,2015,exports,2,Panama,6.7
+170,Colombia,2015,exports,3,China,6.3
+170,Colombia,2015,imports,1,United States,28.9
+170,Colombia,2015,imports,2,China,18.6
+170,Colombia,2015,imports,3,Brazil,3.9
+170,Colombia,2020,exports,1,United States,30.5
+170,Colombia,2020,exports,2,Panama,4.6
+170,Colombia,2020,exports,3,China,8.9
+170,Colombia,2020,imports,1,United States,24.5
+170,Colombia,2020,imports,2,China,23.9
+170,Colombia,2020,imports,3,Brazil,5.6
+170,Colombia,2024,exports,1,United States,28.4
+170,Colombia,2024,exports,2,Panama,9.4
+170,Colombia,2024,exports,3,China,5.0
+170,Colombia,2024,imports,1,United States,25.8
+170,Colombia,2024,imports,2,China,21.6
+170,Colombia,2024,imports,3,Brazil,6.4
+174,Comoros,2015,exports,2,India,15.9
+174,Comoros,2015,exports,3,United Arab Emirates,1.8
+174,Comoros,2015,imports,1,United Arab Emirates,19.2
+174,Comoros,2015,imports,2,China,6.3
+174,Comoros,2015,imports,3,United Rep. Tanzania,1.0
+174,Comoros,2020,exports,2,India,24.0
+174,Comoros,2020,exports,3,United Arab Emirates,3.4
+174,Comoros,2020,imports,1,United Arab Emirates,21.7
+174,Comoros,2020,imports,2,China,7.3
+174,Comoros,2020,imports,3,United Rep. Tanzania,1.2
+174,Comoros,2024,exports,1,Indonesia,28.6
+174,Comoros,2024,exports,2,India,17.7
+174,Comoros,2024,exports,3,United Arab Emirates,13.7
+174,Comoros,2024,imports,1,United Arab Emirates,20.3
+174,Comoros,2024,imports,2,China,20.1
+174,Comoros,2024,imports,3,United Rep. Tanzania,12.1
+178,Congo,2015,exports,1,China,16.0
+178,Congo,2015,exports,2,Togo,10.9
+178,Congo,2015,exports,3,India,1.4
+178,Congo,2015,imports,1,China,10.0
+178,Congo,2015,imports,2,Angola,4.1
+178,Congo,2015,imports,3,France,6.3
+178,Congo,2020,exports,1,China,63.8
+178,Congo,2020,exports,2,Togo,1.9
+178,Congo,2020,exports,3,India,2.3
+178,Congo,2020,imports,1,China,18.7
+178,Congo,2020,imports,2,Angola,1.6
+178,Congo,2020,imports,3,France,14.5
+178,Congo,2024,exports,1,China,42.1
+178,Congo,2024,exports,2,Togo,12.2
+178,Congo,2024,exports,3,India,10.4
+178,Congo,2024,imports,1,China,21.6
+178,Congo,2024,imports,2,Angola,11.2
+178,Congo,2024,imports,3,France,9.6
+188,Costa Rica,2015,exports,1,United States,40.8
+188,Costa Rica,2015,exports,2,Netherlands,4.6
+188,Costa Rica,2015,exports,3,Guatemala,5.5
+188,Costa Rica,2015,imports,1,United States,39.8
+188,Costa Rica,2015,imports,2,China,12.6
+188,Costa Rica,2015,imports,3,Mexico,7.4
+188,Costa Rica,2020,exports,1,United States,43.5
+188,Costa Rica,2020,exports,2,Netherlands,7.7
+188,Costa Rica,2020,exports,3,Guatemala,5.1
+188,Costa Rica,2020,imports,1,United States,37.4
+188,Costa Rica,2020,imports,2,China,14.5
+188,Costa Rica,2020,imports,3,Mexico,6.8
+188,Costa Rica,2024,exports,1,United States,46.1
+188,Costa Rica,2024,exports,2,Netherlands,8.4
+188,Costa Rica,2024,exports,3,Guatemala,4.9
+188,Costa Rica,2024,imports,1,United States,38.2
+188,Costa Rica,2024,imports,2,China,15.1
+188,Costa Rica,2024,imports,3,Mexico,6.4
+191,Croatia,2015,exports,1,Germany,11.3
+191,Croatia,2015,exports,2,Italy,13.4
+191,Croatia,2015,exports,3,Bosnia Herzegovina,9.7
+191,Croatia,2015,imports,1,Germany,15.5
+191,Croatia,2015,imports,2,Italy,13.2
+191,Croatia,2015,imports,3,Slovenia,10.7
+191,Croatia,2020,exports,1,Germany,12.8
+191,Croatia,2020,exports,2,Italy,12.5
+191,Croatia,2020,exports,3,Bosnia Herzegovina,8.6
+191,Croatia,2020,imports,1,Germany,15.3
+191,Croatia,2020,imports,2,Italy,12.3
+191,Croatia,2020,imports,3,Slovenia,11.3
+191,Croatia,2024,exports,1,Germany,11.9
+191,Croatia,2024,exports,2,Italy,11.4
+191,Croatia,2024,exports,3,Bosnia Herzegovina,11.2
+191,Croatia,2024,imports,1,Germany,14.3
+191,Croatia,2024,imports,2,Italy,13.4
+191,Croatia,2024,imports,3,Slovenia,11.8
+192,Cuba,2015,exports,1,Areas nes,0.7
+192,Cuba,2015,exports,2,Spain,8.5
+192,Cuba,2015,exports,3,China,11.9
+192,Cuba,2015,imports,1,Areas nes,1.0
+192,Cuba,2015,imports,2,China,22.7
+192,Cuba,2015,imports,3,Spain,11.0
+192,Cuba,2020,exports,2,Spain,8.4
+192,Cuba,2020,exports,3,China,21.8
+192,Cuba,2020,imports,1,Areas nes,0.4
+192,Cuba,2020,imports,2,China,13.3
+192,Cuba,2020,imports,3,Spain,11.7
+192,Cuba,2024,exports,1,Areas nes,59.2
+192,Cuba,2024,exports,2,Spain,16.0
+192,Cuba,2024,exports,3,China,8.1
+192,Cuba,2024,imports,1,Areas nes,35.9
+192,Cuba,2024,imports,2,China,11.5
+192,Cuba,2024,imports,3,Spain,10.1
+196,Cyprus,2015,exports,1,Libya,0.1
+196,Cyprus,2015,exports,2,Bunkers,3.5
+196,Cyprus,2015,exports,3,Greece,6.6
+196,Cyprus,2015,imports,1,Greece,20.3
+196,Cyprus,2015,imports,2,China,5.3
+196,Cyprus,2015,imports,3,Italy,6.6
+196,Cyprus,2020,exports,1,Libya,5.9
+196,Cyprus,2020,exports,2,Bunkers,4.3
+196,Cyprus,2020,exports,3,Greece,8.3
+196,Cyprus,2020,imports,1,Greece,21.6
+196,Cyprus,2020,imports,2,China,5.9
+196,Cyprus,2020,imports,3,Italy,8.2
+196,Cyprus,2024,exports,1,Libya,18.9
+196,Cyprus,2024,exports,2,Bunkers,9.3
+196,Cyprus,2024,exports,3,Greece,7.8
+196,Cyprus,2024,imports,1,Greece,23.6
+196,Cyprus,2024,imports,2,China,7.8
+196,Cyprus,2024,imports,3,Italy,7.6
+203,Czechia,2015,exports,1,Germany,32.2
+203,Czechia,2015,exports,2,Slovakia,9.0
+203,Czechia,2015,exports,3,Poland,5.9
+203,Czechia,2015,imports,1,Germany,26.0
+203,Czechia,2015,imports,2,China,13.5
+203,Czechia,2015,imports,3,Poland,7.9
+203,Czechia,2020,exports,1,Germany,32.7
+203,Czechia,2020,exports,2,Slovakia,7.6
+203,Czechia,2020,exports,3,Poland,6.2
+203,Czechia,2020,imports,1,Germany,23.3
+203,Czechia,2020,imports,2,China,18.1
+203,Czechia,2020,imports,3,Poland,7.9
+203,Czechia,2024,exports,1,Germany,32.2
+203,Czechia,2024,exports,2,Slovakia,7.5
+203,Czechia,2024,exports,3,Poland,7.4
+203,Czechia,2024,imports,1,Germany,20.3
+203,Czechia,2024,imports,2,China,17.1
+203,Czechia,2024,imports,3,Poland,8.3
+384,Côte dIvoire,2015,exports,1,Netherlands,11.4
+384,Côte dIvoire,2015,exports,2,Switzerland,3.6
+384,Côte dIvoire,2015,exports,3,Mali,3.1
+384,Côte dIvoire,2015,imports,1,China,11.6
+384,Côte dIvoire,2015,imports,2,Nigeria,13.9
+384,Côte dIvoire,2015,imports,3,France,12.5
+384,Côte dIvoire,2020,exports,1,Netherlands,10.0
+384,Côte dIvoire,2020,exports,2,Switzerland,6.5
+384,Côte dIvoire,2020,exports,3,Mali,5.3
+384,Côte dIvoire,2020,imports,1,China,15.0
+384,Côte dIvoire,2020,imports,2,Nigeria,13.1
+384,Côte dIvoire,2020,imports,3,France,10.8
+384,Côte dIvoire,2024,exports,1,Netherlands,11.5
+384,Côte dIvoire,2024,exports,2,Switzerland,10.6
+384,Côte dIvoire,2024,exports,3,Mali,8.7
+384,Côte dIvoire,2024,imports,1,China,14.8
+384,Côte dIvoire,2024,imports,2,Nigeria,14.0
+384,Côte dIvoire,2024,imports,3,France,5.6
+408,Dem. People's Rep. Korea,2015,exports,1,China,82.1
+408,Dem. People's Rep. Korea,2015,exports,2,Senegal,0.0
+408,Dem. People's Rep. Korea,2015,exports,3,Poland,0.2
+408,Dem. People's Rep. Korea,2015,imports,1,China,78.0
+408,Dem. People's Rep. Korea,2015,imports,2,Trinidad and Tobago,0.8
+408,Dem. People's Rep. Korea,2015,imports,3,Peru,0.6
+408,Dem. People's Rep. Korea,2020,exports,1,China,20.6
+408,Dem. People's Rep. Korea,2020,exports,2,Senegal,0.3
+408,Dem. People's Rep. Korea,2020,exports,3,Poland,9.0
+408,Dem. People's Rep. Korea,2020,imports,1,China,52.0
+408,Dem. People's Rep. Korea,2020,imports,2,Trinidad and Tobago,0.0
+408,Dem. People's Rep. Korea,2020,imports,3,Peru,0.1
+408,Dem. People's Rep. Korea,2024,exports,1,China,77.7
+408,Dem. People's Rep. Korea,2024,exports,2,Senegal,2.3
+408,Dem. People's Rep. Korea,2024,exports,3,Poland,2.2
+408,Dem. People's Rep. Korea,2024,imports,1,China,92.7
+408,Dem. People's Rep. Korea,2024,imports,2,Trinidad and Tobago,4.7
+408,Dem. People's Rep. Korea,2024,imports,3,Peru,0.9
+180,Dem. Rep. of the Congo,2015,exports,1,China,11.1
+180,Dem. Rep. of the Congo,2015,exports,2,South Africa,43.4
+180,Dem. Rep. of the Congo,2015,exports,3,"China, Hong Kong SAR",0.0
+180,Dem. Rep. of the Congo,2015,imports,1,China,15.5
+180,Dem. Rep. of the Congo,2015,imports,2,United Arab Emirates,3.0
+180,Dem. Rep. of the Congo,2015,imports,3,South Africa,21.2
+180,Dem. Rep. of the Congo,2020,exports,1,China,41.0
+180,Dem. Rep. of the Congo,2020,exports,2,South Africa,7.7
+180,Dem. Rep. of the Congo,2020,exports,3,"China, Hong Kong SAR",1.1
+180,Dem. Rep. of the Congo,2020,imports,1,China,25.6
+180,Dem. Rep. of the Congo,2020,imports,2,United Arab Emirates,3.2
+180,Dem. Rep. of the Congo,2020,imports,3,South Africa,9.4
+180,Dem. Rep. of the Congo,2024,exports,1,China,57.6
+180,Dem. Rep. of the Congo,2024,exports,2,South Africa,8.6
+180,Dem. Rep. of the Congo,2024,exports,3,"China, Hong Kong SAR",8.4
+180,Dem. Rep. of the Congo,2024,imports,1,China,26.5
+180,Dem. Rep. of the Congo,2024,imports,2,United Arab Emirates,11.8
+180,Dem. Rep. of the Congo,2024,imports,3,South Africa,8.2
+208,Denmark,2015,exports,1,Undisclosed,2.0
+208,Denmark,2015,exports,2,Germany,19.6
+208,Denmark,2015,exports,3,Sweden,14.4
+208,Denmark,2015,imports,1,Germany,20.5
+208,Denmark,2015,imports,2,Sweden,12.3
+208,Denmark,2015,imports,3,Netherlands,8.0
+208,Denmark,2020,exports,1,Undisclosed,4.0
+208,Denmark,2020,exports,2,Germany,13.6
+208,Denmark,2020,exports,3,Sweden,9.8
+208,Denmark,2020,imports,1,Germany,21.8
+208,Denmark,2020,imports,2,Sweden,12.6
+208,Denmark,2020,imports,3,Netherlands,8.5
+208,Denmark,2024,exports,1,Undisclosed,17.9
+208,Denmark,2024,exports,2,Germany,13.4
+208,Denmark,2024,exports,3,Sweden,7.8
+208,Denmark,2024,imports,1,Germany,19.3
+208,Denmark,2024,imports,2,Sweden,11.5
+208,Denmark,2024,imports,3,Netherlands,9.0
+262,Djibouti,2015,exports,1,Ethiopia,0.2
+262,Djibouti,2015,exports,2,United Arab Emirates,19.1
+262,Djibouti,2015,exports,3,China,0.7
+262,Djibouti,2015,imports,1,China,47.1
+262,Djibouti,2015,imports,2,India,4.9
+262,Djibouti,2015,imports,3,United Arab Emirates,7.6
+262,Djibouti,2020,exports,1,Ethiopia,83.4
+262,Djibouti,2020,exports,2,United Arab Emirates,4.1
+262,Djibouti,2020,exports,3,China,1.8
+262,Djibouti,2020,imports,1,China,15.9
+262,Djibouti,2020,imports,2,India,15.5
+262,Djibouti,2020,imports,3,United Arab Emirates,11.5
+262,Djibouti,2024,exports,1,Ethiopia,83.5
+262,Djibouti,2024,exports,2,United Arab Emirates,4.6
+262,Djibouti,2024,exports,3,China,2.4
+262,Djibouti,2024,imports,1,China,17.7
+262,Djibouti,2024,imports,2,India,14.5
+262,Djibouti,2024,imports,3,United Arab Emirates,11.4
+212,Dominica,2015,exports,2,Antigua and Barbuda,20.4
+212,Dominica,2015,exports,3,France,16.0
+212,Dominica,2015,imports,1,United States,38.1
+212,Dominica,2015,imports,2,Trinidad and Tobago,16.7
+212,Dominica,2015,imports,3,China,3.5
+212,Dominica,2020,exports,2,Antigua and Barbuda,15.5
+212,Dominica,2020,exports,3,France,8.1
+212,Dominica,2020,imports,1,United States,39.2
+212,Dominica,2020,imports,2,Trinidad and Tobago,12.8
+212,Dominica,2020,imports,3,China,5.7
+212,Dominica,2024,exports,1,Iceland,21.4
+212,Dominica,2024,exports,2,Antigua and Barbuda,17.9
+212,Dominica,2024,exports,3,France,9.4
+212,Dominica,2024,imports,1,United States,36.1
+212,Dominica,2024,imports,2,Trinidad and Tobago,10.7
+212,Dominica,2024,imports,3,China,4.7
+214,Dominican Republic,2015,exports,1,United States,49.5
+214,Dominican Republic,2015,exports,2,Haiti,14.4
+214,Dominican Republic,2015,exports,3,Switzerland,0.8
+214,Dominican Republic,2015,imports,1,United States,41.6
+214,Dominican Republic,2015,imports,2,China,13.7
+214,Dominican Republic,2015,imports,3,Spain,3.1
+214,Dominican Republic,2020,exports,1,United States,53.8
+214,Dominican Republic,2020,exports,2,Haiti,7.6
+214,Dominican Republic,2020,exports,3,Switzerland,11.8
+214,Dominican Republic,2020,imports,1,United States,40.9
+214,Dominican Republic,2020,imports,2,China,17.6
+214,Dominican Republic,2020,imports,3,Spain,3.3
+214,Dominican Republic,2024,exports,1,United States,59.0
+214,Dominican Republic,2024,exports,2,Haiti,6.9
+214,Dominican Republic,2024,exports,3,Switzerland,5.8
+214,Dominican Republic,2024,imports,1,United States,39.4
+214,Dominican Republic,2024,imports,2,China,18.3
+214,Dominican Republic,2024,imports,3,Spain,4.1
+218,Ecuador,2015,exports,1,United States,39.4
+218,Ecuador,2015,exports,2,Panama,2.4
+218,Ecuador,2015,exports,3,China,3.9
+218,Ecuador,2015,imports,1,United States,23.8
+218,Ecuador,2015,imports,2,China,19.0
+218,Ecuador,2015,imports,3,Colombia,7.6
+218,Ecuador,2020,exports,1,United States,23.5
+218,Ecuador,2020,exports,2,Panama,11.9
+218,Ecuador,2020,exports,3,China,16.3
+218,Ecuador,2020,imports,1,United States,22.5
+218,Ecuador,2020,imports,2,China,22.0
+218,Ecuador,2020,imports,3,Colombia,8.4
+218,Ecuador,2024,exports,1,United States,20.2
+218,Ecuador,2024,exports,2,Panama,18.4
+218,Ecuador,2024,exports,3,China,14.7
+218,Ecuador,2024,imports,1,United States,27.6
+218,Ecuador,2024,imports,2,China,22.4
+218,Ecuador,2024,imports,3,Colombia,7.3
+818,Egypt,2015,exports,1,Italy,7.4
+818,Egypt,2015,exports,2,Saudi Arabia,9.2
+818,Egypt,2015,exports,3,Türkiye,5.8
+818,Egypt,2015,imports,1,China,13.1
+818,Egypt,2015,imports,2,Saudi Arabia,4.0
+818,Egypt,2015,imports,3,United States,5.9
+818,Egypt,2020,exports,1,Italy,5.0
+818,Egypt,2020,exports,2,Saudi Arabia,6.4
+818,Egypt,2020,exports,3,Türkiye,5.8
+818,Egypt,2020,imports,1,China,16.6
+818,Egypt,2020,imports,2,Saudi Arabia,5.4
+818,Egypt,2020,imports,3,United States,6.8
+818,Egypt,2024,exports,1,Italy,7.5
+818,Egypt,2024,exports,2,Saudi Arabia,7.5
+818,Egypt,2024,exports,3,Türkiye,7.4
+818,Egypt,2024,imports,1,China,16.4
+818,Egypt,2024,imports,2,Saudi Arabia,8.4
+818,Egypt,2024,imports,3,United States,8.0
+222,El Salvador,2015,exports,1,United States,46.9
+222,El Salvador,2015,exports,2,Guatemala,13.6
+222,El Salvador,2015,exports,3,Honduras,14.0
+222,El Salvador,2015,imports,1,United States,33.8
+222,El Salvador,2015,imports,2,China,13.6
+222,El Salvador,2015,imports,3,Guatemala,9.9
+222,El Salvador,2020,exports,1,United States,41.1
+222,El Salvador,2020,exports,2,Guatemala,16.4
+222,El Salvador,2020,exports,3,Honduras,15.6
+222,El Salvador,2020,imports,1,United States,26.6
+222,El Salvador,2020,imports,2,China,14.6
+222,El Salvador,2020,imports,3,Guatemala,11.2
+222,El Salvador,2024,exports,1,United States,33.6
+222,El Salvador,2024,exports,2,Guatemala,20.2
+222,El Salvador,2024,exports,3,Honduras,16.2
+222,El Salvador,2024,imports,1,United States,27.7
+222,El Salvador,2024,imports,2,China,17.1
+222,El Salvador,2024,imports,3,Guatemala,9.7
+226,Equatorial Guinea,2015,exports,1,China,17.0
+226,Equatorial Guinea,2015,exports,2,Spain,9.2
+226,Equatorial Guinea,2015,exports,3,India,6.1
+226,Equatorial Guinea,2015,imports,1,China,8.9
+226,Equatorial Guinea,2015,imports,2,Spain,9.9
+226,Equatorial Guinea,2015,imports,3,United States,5.5
+226,Equatorial Guinea,2020,exports,1,China,37.6
+226,Equatorial Guinea,2020,exports,2,Spain,13.1
+226,Equatorial Guinea,2020,exports,3,India,11.4
+226,Equatorial Guinea,2020,imports,1,China,9.5
+226,Equatorial Guinea,2020,imports,2,Spain,14.7
+226,Equatorial Guinea,2020,imports,3,United States,7.5
+226,Equatorial Guinea,2024,exports,1,China,21.7
+226,Equatorial Guinea,2024,exports,2,Spain,15.2
+226,Equatorial Guinea,2024,exports,3,India,12.8
+226,Equatorial Guinea,2024,imports,1,China,16.5
+226,Equatorial Guinea,2024,imports,2,Spain,15.4
+226,Equatorial Guinea,2024,imports,3,United States,9.3
+232,Eritrea,2015,exports,1,China,39.2
+232,Eritrea,2015,exports,2,United Arab Emirates,4.6
+232,Eritrea,2015,exports,3,Republic of Korea,3.0
+232,Eritrea,2015,imports,1,China,33.1
+232,Eritrea,2015,imports,2,United Arab Emirates,13.1
+232,Eritrea,2015,imports,3,Gabon,3.4
+232,Eritrea,2020,exports,1,China,47.7
+232,Eritrea,2020,exports,2,United Arab Emirates,41.1
+232,Eritrea,2020,exports,3,Republic of Korea,7.9
+232,Eritrea,2020,imports,1,China,22.2
+232,Eritrea,2020,imports,2,United Arab Emirates,24.4
+232,Eritrea,2020,imports,3,Gabon,3.1
+232,Eritrea,2024,exports,1,China,62.1
+232,Eritrea,2024,exports,2,United Arab Emirates,21.0
+232,Eritrea,2024,exports,3,Republic of Korea,13.5
+232,Eritrea,2024,imports,1,China,34.0
+232,Eritrea,2024,imports,2,United Arab Emirates,26.2
+232,Eritrea,2024,imports,3,Gabon,8.5
+233,Estonia,2015,exports,1,Finland,14.5
+233,Estonia,2015,exports,2,Latvia,9.5
+233,Estonia,2015,exports,3,Sweden,17.3
+233,Estonia,2015,imports,1,Germany,9.7
+233,Estonia,2015,imports,2,China,8.0
+233,Estonia,2015,imports,3,Finland,9.9
+233,Estonia,2020,exports,1,Finland,15.0
+233,Estonia,2020,exports,2,Latvia,8.7
+233,Estonia,2020,exports,3,Sweden,10.0
+233,Estonia,2020,imports,1,Germany,9.7
+233,Estonia,2020,imports,2,China,9.3
+233,Estonia,2020,imports,3,Finland,9.0
+233,Estonia,2024,exports,1,Finland,15.2
+233,Estonia,2024,exports,2,Latvia,10.7
+233,Estonia,2024,exports,3,Sweden,8.5
+233,Estonia,2024,imports,1,Germany,11.3
+233,Estonia,2024,imports,2,China,10.2
+233,Estonia,2024,imports,3,Finland,8.3
+748,Eswatini,2015,exports,1,South Africa,62.7
+748,Eswatini,2015,exports,2,Kenya,3.9
+748,Eswatini,2015,exports,3,Mozambique,3.9
+748,Eswatini,2015,imports,1,South Africa,79.2
+748,Eswatini,2015,imports,2,China,4.1
+748,Eswatini,2015,imports,3,India,4.1
+748,Eswatini,2020,exports,1,South Africa,65.0
+748,Eswatini,2020,exports,2,Kenya,7.2
+748,Eswatini,2020,exports,3,Mozambique,4.0
+748,Eswatini,2020,imports,1,South Africa,71.4
+748,Eswatini,2020,imports,2,China,7.3
+748,Eswatini,2020,imports,3,India,3.4
+748,Eswatini,2024,exports,1,South Africa,67.5
+748,Eswatini,2024,exports,2,Kenya,4.3
+748,Eswatini,2024,exports,3,Mozambique,3.9
+748,Eswatini,2024,imports,1,South Africa,73.8
+748,Eswatini,2024,imports,2,China,7.6
+748,Eswatini,2024,imports,3,India,3.5
+238,Falkland Islands (Malvinas),2015,exports,1,Spain,70.8
+238,Falkland Islands (Malvinas),2015,exports,2,Morocco,0.1
+238,Falkland Islands (Malvinas),2015,exports,3,United States,7.1
+238,Falkland Islands (Malvinas),2015,imports,1,United Kingdom,78.4
+238,Falkland Islands (Malvinas),2015,imports,2,Spain,1.2
+238,Falkland Islands (Malvinas),2015,imports,3,Greece,9.7
+238,Falkland Islands (Malvinas),2020,exports,1,Spain,55.8
+238,Falkland Islands (Malvinas),2020,exports,2,Morocco,2.0
+238,Falkland Islands (Malvinas),2020,exports,3,United States,2.8
+238,Falkland Islands (Malvinas),2020,imports,1,United Kingdom,58.4
+238,Falkland Islands (Malvinas),2020,imports,2,Spain,25.8
+238,Falkland Islands (Malvinas),2020,imports,3,Greece,12.8
+238,Falkland Islands (Malvinas),2024,exports,1,Spain,68.9
+238,Falkland Islands (Malvinas),2024,exports,2,Morocco,11.1
+238,Falkland Islands (Malvinas),2024,exports,3,United States,6.3
+238,Falkland Islands (Malvinas),2024,imports,1,United Kingdom,56.4
+238,Falkland Islands (Malvinas),2024,imports,2,Spain,30.3
+238,Falkland Islands (Malvinas),2024,imports,3,Greece,9.7
+234,Faroe Islands,2015,exports,1,United Kingdom,17.5
+234,Faroe Islands,2015,exports,2,United States,10.5
+234,Faroe Islands,2015,exports,3,Denmark,12.9
+234,Faroe Islands,2015,imports,1,Denmark,45.2
+234,Faroe Islands,2015,imports,2,Norway,10.3
+234,Faroe Islands,2015,imports,3,Germany,4.8
+234,Faroe Islands,2020,exports,1,United Kingdom,18.8
+234,Faroe Islands,2020,exports,2,United States,11.3
+234,Faroe Islands,2020,exports,3,Denmark,13.7
+234,Faroe Islands,2020,imports,1,Denmark,50.9
+234,Faroe Islands,2020,imports,2,Norway,7.3
+234,Faroe Islands,2020,imports,3,Germany,6.4
+234,Faroe Islands,2024,exports,1,United Kingdom,18.4
+234,Faroe Islands,2024,exports,2,United States,17.0
+234,Faroe Islands,2024,exports,3,Denmark,13.3
+234,Faroe Islands,2024,imports,1,Denmark,60.5
+234,Faroe Islands,2024,imports,2,Norway,18.5
+234,Faroe Islands,2024,imports,3,Germany,4.2
+242,Fiji,2015,exports,1,United States,16.6
+242,Fiji,2015,exports,2,Morocco,14.4
+242,Fiji,2015,exports,3,Bunkers,5.7
+242,Fiji,2015,imports,1,Singapore,17.9
+242,Fiji,2015,imports,2,China,14.6
+242,Fiji,2015,imports,3,Australia,16.1
+242,Fiji,2020,exports,1,United States,20.4
+242,Fiji,2020,exports,2,Morocco,15.0
+242,Fiji,2020,imports,1,Singapore,18.2
+242,Fiji,2020,imports,2,China,16.3
+242,Fiji,2020,imports,3,Australia,17.8
+242,Fiji,2024,exports,1,United States,19.0
+242,Fiji,2024,exports,2,Morocco,12.2
+242,Fiji,2024,exports,3,Bunkers,12.0
+242,Fiji,2024,imports,1,Singapore,24.2
+242,Fiji,2024,imports,2,China,16.0
+242,Fiji,2024,imports,3,Australia,14.6
+246,Finland,2015,exports,1,Germany,13.6
+246,Finland,2015,exports,2,Sweden,10.1
+246,Finland,2015,exports,3,United States,6.7
+246,Finland,2015,imports,1,Germany,15.0
+246,Finland,2015,imports,2,Sweden,11.3
+246,Finland,2015,imports,3,China,7.3
+246,Finland,2020,exports,1,Germany,13.5
+246,Finland,2020,exports,2,Sweden,10.4
+246,Finland,2020,exports,3,United States,8.3
+246,Finland,2020,imports,1,Germany,15.4
+246,Finland,2020,imports,2,Sweden,10.9
+246,Finland,2020,imports,3,China,9.0
+246,Finland,2024,exports,1,Germany,11.2
+246,Finland,2024,exports,2,Sweden,11.1
+246,Finland,2024,exports,3,United States,9.6
+246,Finland,2024,imports,1,Germany,13.2
+246,Finland,2024,imports,2,Sweden,11.5
+246,Finland,2024,imports,3,China,9.9
+250,France,2015,exports,1,Germany,16.0
+250,France,2015,exports,2,United States,7.3
+250,France,2015,exports,3,Italy,7.2
+250,France,2015,imports,1,Germany,17.1
+250,France,2015,imports,2,China,9.2
+250,France,2015,imports,3,Belgium,7.2
+250,France,2020,exports,1,Germany,14.3
+250,France,2020,exports,2,United States,7.6
+250,France,2020,exports,3,Italy,7.6
+250,France,2020,imports,1,Germany,17.4
+250,France,2020,imports,2,China,7.1
+250,France,2020,imports,3,Belgium,9.6
+250,France,2024,exports,1,Germany,13.2
+250,France,2024,exports,2,United States,8.6
+250,France,2024,exports,3,Italy,8.2
+250,France,2024,imports,1,Germany,12.4
+250,France,2024,imports,2,China,10.2
+250,France,2024,imports,3,Belgium,7.6
+258,French Polynesia,2015,exports,2,"China, Hong Kong SAR",24.5
+258,French Polynesia,2015,exports,3,United States,18.0
+258,French Polynesia,2015,imports,1,Areas nes,0.0
+258,French Polynesia,2015,imports,2,China,13.2
+258,French Polynesia,2015,imports,3,France,25.6
+258,French Polynesia,2020,exports,1,Areas nes,3.1
+258,French Polynesia,2020,exports,2,"China, Hong Kong SAR",13.0
+258,French Polynesia,2020,exports,3,United States,19.8
+258,French Polynesia,2020,imports,1,Areas nes,0.0
+258,French Polynesia,2020,imports,2,China,13.7
+258,French Polynesia,2020,imports,3,France,25.9
+258,French Polynesia,2024,exports,1,Areas nes,39.9
+258,French Polynesia,2024,exports,2,"China, Hong Kong SAR",24.5
+258,French Polynesia,2024,exports,3,United States,15.9
+258,French Polynesia,2024,imports,1,Areas nes,72.2
+258,French Polynesia,2024,imports,2,China,5.8
+258,French Polynesia,2024,imports,3,France,5.2
+266,Gabon,2015,exports,1,China,7.9
+266,Gabon,2015,exports,2,France,1.5
+266,Gabon,2015,exports,3,Spain,6.3
+266,Gabon,2015,imports,1,Republic of Korea,0.6
+266,Gabon,2015,imports,2,France,10.2
+266,Gabon,2015,imports,3,China,6.3
+266,Gabon,2020,exports,1,China,34.8
+266,Gabon,2020,exports,2,France,4.1
+266,Gabon,2020,exports,3,Spain,0.2
+266,Gabon,2020,imports,1,Republic of Korea,0.4
+266,Gabon,2020,imports,2,France,14.0
+266,Gabon,2020,imports,3,China,10.3
+266,Gabon,2024,exports,1,China,27.7
+266,Gabon,2024,exports,2,France,10.6
+266,Gabon,2024,exports,3,Spain,5.9
+266,Gabon,2024,imports,1,Republic of Korea,13.3
+266,Gabon,2024,imports,2,France,13.0
+266,Gabon,2024,imports,3,China,11.6
+270,Gambia,2015,exports,1,Guinea-Bissau,2.1
+270,Gambia,2015,exports,2,Mali,46.2
+270,Gambia,2015,exports,3,China,2.8
+270,Gambia,2015,imports,1,Denmark,1.1
+270,Gambia,2015,imports,2,Senegal,15.3
+270,Gambia,2015,imports,3,India,2.9
+270,Gambia,2020,exports,1,Guinea-Bissau,9.1
+270,Gambia,2020,exports,2,Mali,25.4
+270,Gambia,2020,exports,3,China,3.9
+270,Gambia,2020,imports,1,Denmark,0.3
+270,Gambia,2020,imports,2,Senegal,3.3
+270,Gambia,2020,imports,3,India,4.5
+270,Gambia,2024,exports,1,Guinea-Bissau,71.0
+270,Gambia,2024,exports,2,Mali,10.6
+270,Gambia,2024,exports,3,China,6.9
+270,Gambia,2024,imports,1,Denmark,65.6
+270,Gambia,2024,imports,2,Senegal,5.7
+270,Gambia,2024,imports,3,India,3.6
+268,Georgia,2015,exports,1,Kyrgyzstan,0.3
+268,Georgia,2015,exports,2,Kazakhstan,2.0
+268,Georgia,2015,exports,3,Azerbaijan,10.9
+268,Georgia,2015,imports,1,Türkiye,18.2
+268,Georgia,2015,imports,2,United States,3.5
+268,Georgia,2015,imports,3,Russian Federation,8.6
+268,Georgia,2020,exports,1,Kyrgyzstan,0.5
+268,Georgia,2020,exports,2,Kazakhstan,1.4
+268,Georgia,2020,exports,3,Azerbaijan,13.1
+268,Georgia,2020,imports,1,Türkiye,17.5
+268,Georgia,2020,imports,2,United States,6.9
+268,Georgia,2020,imports,3,Russian Federation,11.0
+268,Georgia,2024,exports,1,Kyrgyzstan,19.6
+268,Georgia,2024,exports,2,Kazakhstan,13.1
+268,Georgia,2024,exports,3,Azerbaijan,11.0
+268,Georgia,2024,imports,1,Türkiye,16.3
+268,Georgia,2024,imports,2,United States,12.3
+268,Georgia,2024,imports,3,Russian Federation,10.9
+276,Germany,2015,exports,1,United States,9.5
+276,Germany,2015,exports,2,France,8.8
+276,Germany,2015,exports,3,Netherlands,6.1
+276,Germany,2015,imports,1,China,9.8
+276,Germany,2015,imports,2,Netherlands,8.3
+276,Germany,2015,imports,3,United States,6.5
+276,Germany,2020,exports,1,United States,8.6
+276,Germany,2020,exports,2,France,7.5
+276,Germany,2020,exports,3,Netherlands,6.4
+276,Germany,2020,imports,1,China,11.5
+276,Germany,2020,imports,2,Netherlands,7.5
+276,Germany,2020,imports,3,United States,6.7
+276,Germany,2024,exports,1,United States,10.4
+276,Germany,2024,exports,2,France,7.4
+276,Germany,2024,exports,3,Netherlands,7.0
+276,Germany,2024,imports,1,China,12.2
+276,Germany,2024,imports,2,Netherlands,6.9
+276,Germany,2024,imports,3,United States,6.8
+288,Ghana,2015,exports,1,Switzerland,9.9
+288,Ghana,2015,exports,2,South Africa,4.3
+288,Ghana,2015,exports,3,United Arab Emirates,2.6
+288,Ghana,2015,imports,1,China,16.9
+288,Ghana,2015,imports,2,Netherlands,1.5
+288,Ghana,2015,imports,3,India,5.8
+288,Ghana,2020,exports,1,Switzerland,16.3
+288,Ghana,2020,exports,2,South Africa,13.3
+288,Ghana,2020,exports,3,United Arab Emirates,0.8
+288,Ghana,2020,imports,1,China,20.6
+288,Ghana,2020,imports,2,Netherlands,2.7
+288,Ghana,2020,imports,3,India,5.8
+288,Ghana,2024,exports,1,Switzerland,18.2
+288,Ghana,2024,exports,2,South Africa,11.7
+288,Ghana,2024,exports,3,United Arab Emirates,10.2
+288,Ghana,2024,imports,1,China,18.7
+288,Ghana,2024,imports,2,Netherlands,9.6
+288,Ghana,2024,imports,3,India,6.4
+292,Gibraltar,2015,exports,1,Netherlands,0.5
+292,Gibraltar,2015,exports,2,Poland,3.9
+292,Gibraltar,2015,exports,3,Belgium,1.4
+292,Gibraltar,2015,imports,1,Italy,4.5
+292,Gibraltar,2015,imports,2,Greece,1.1
+292,Gibraltar,2015,imports,3,Spain,11.5
+292,Gibraltar,2020,exports,1,Netherlands,28.2
+292,Gibraltar,2020,exports,2,Poland,7.6
+292,Gibraltar,2020,exports,3,Belgium,0.3
+292,Gibraltar,2020,imports,1,Italy,4.1
+292,Gibraltar,2020,imports,2,Greece,1.8
+292,Gibraltar,2020,imports,3,Spain,10.6
+292,Gibraltar,2024,exports,1,Netherlands,61.0
+292,Gibraltar,2024,exports,2,Poland,10.7
+292,Gibraltar,2024,exports,3,Belgium,6.4
+292,Gibraltar,2024,imports,1,Italy,25.3
+292,Gibraltar,2024,imports,2,Greece,12.1
+292,Gibraltar,2024,imports,3,Spain,8.1
+300,Greece,2015,exports,1,New Caledonia,11.4
+300,Greece,2015,exports,2,Germany,7.3
+300,Greece,2015,exports,3,Cyprus,5.6
+300,Greece,2015,imports,1,Germany,10.6
+300,Greece,2015,imports,2,China,6.0
+300,Greece,2015,imports,3,Italy,7.9
+300,Greece,2020,exports,1,New Caledonia,10.5
+300,Greece,2020,exports,2,Germany,7.7
+300,Greece,2020,exports,3,Cyprus,6.0
+300,Greece,2020,imports,1,Germany,12.1
+300,Greece,2020,imports,2,China,7.7
+300,Greece,2020,imports,3,Italy,8.4
+300,Greece,2024,exports,1,New Caledonia,10.5
+300,Greece,2024,exports,2,Germany,7.0
+300,Greece,2024,exports,3,Cyprus,6.3
+300,Greece,2024,imports,1,Germany,10.6
+300,Greece,2024,imports,2,China,8.4
+300,Greece,2024,imports,3,Italy,8.4
+304,Greenland,2015,exports,1,Denmark,79.1
+304,Greenland,2015,exports,2,China,0.5
+304,Greenland,2015,imports,1,Denmark,63.7
+304,Greenland,2015,imports,2,Sweden,15.6
+304,Greenland,2015,imports,3,United States,1.0
+304,Greenland,2020,exports,1,Denmark,52.5
+304,Greenland,2020,exports,2,China,19.2
+304,Greenland,2020,exports,3,United Kingdom,1.2
+304,Greenland,2020,imports,1,Denmark,70.8
+304,Greenland,2020,imports,2,Sweden,10.0
+304,Greenland,2020,imports,3,United States,0.9
+304,Greenland,2024,exports,1,Denmark,46.5
+304,Greenland,2024,exports,2,China,24.3
+304,Greenland,2024,exports,3,United Kingdom,5.7
+304,Greenland,2024,imports,1,Denmark,64.5
+304,Greenland,2024,imports,2,Sweden,16.9
+304,Greenland,2024,imports,3,United States,4.6
+308,Grenada,2015,exports,1,Areas nes,3.8
+308,Grenada,2015,exports,2,United States,16.8
+308,Grenada,2015,exports,3,Trinidad and Tobago,7.8
+308,Grenada,2015,imports,1,United States,36.1
+308,Grenada,2015,imports,2,Trinidad and Tobago,23.9
+308,Grenada,2015,imports,3,Cayman Islands,0.0
+308,Grenada,2020,exports,1,Areas nes,2.5
+308,Grenada,2020,exports,2,United States,18.9
+308,Grenada,2020,exports,3,Trinidad and Tobago,7.9
+308,Grenada,2020,imports,1,United States,38.9
+308,Grenada,2020,imports,2,Trinidad and Tobago,19.5
+308,Grenada,2020,imports,3,Cayman Islands,6.7
+308,Grenada,2024,exports,1,Areas nes,52.6
+308,Grenada,2024,exports,2,United States,8.2
+308,Grenada,2024,exports,3,Trinidad and Tobago,7.3
+308,Grenada,2024,imports,1,United States,38.1
+308,Grenada,2024,imports,2,Trinidad and Tobago,15.1
+308,Grenada,2024,imports,3,Cayman Islands,11.7
+320,Guatemala,2015,exports,1,United States,35.0
+320,Guatemala,2015,exports,2,El Salvador,11.6
+320,Guatemala,2015,exports,3,Saint Vincent and the Grenadines,8.5
+320,Guatemala,2015,imports,1,United States,37.1
+320,Guatemala,2015,imports,2,China,10.6
+320,Guatemala,2015,imports,3,Mexico,11.6
+320,Guatemala,2020,exports,1,United States,32.3
+320,Guatemala,2020,exports,2,El Salvador,11.3
+320,Guatemala,2020,exports,3,Saint Vincent and the Grenadines,8.7
+320,Guatemala,2020,imports,1,United States,34.6
+320,Guatemala,2020,imports,2,China,12.4
+320,Guatemala,2020,imports,3,Mexico,11.7
+320,Guatemala,2024,exports,1,United States,33.1
+320,Guatemala,2024,exports,2,El Salvador,13.2
+320,Guatemala,2024,exports,3,Saint Vincent and the Grenadines,11.3
+320,Guatemala,2024,imports,1,United States,29.2
+320,Guatemala,2024,imports,2,China,19.7
+320,Guatemala,2024,imports,3,Mexico,10.2
+324,Guinea,2015,exports,1,United Arab Emirates,9.9
+324,Guinea,2015,exports,2,China,1.8
+324,Guinea,2015,exports,3,India,16.4
+324,Guinea,2015,imports,1,China,14.9
+324,Guinea,2015,imports,2,India,10.9
+324,Guinea,2015,imports,3,United Arab Emirates,6.5
+324,Guinea,2020,exports,1,United Arab Emirates,56.3
+324,Guinea,2020,exports,2,China,20.1
+324,Guinea,2020,exports,3,India,8.3
+324,Guinea,2020,imports,1,China,39.5
+324,Guinea,2020,imports,2,India,9.4
+324,Guinea,2020,imports,3,United Arab Emirates,5.5
+324,Guinea,2024,exports,1,United Arab Emirates,51.0
+324,Guinea,2024,exports,2,China,38.7
+324,Guinea,2024,exports,3,India,3.7
+324,Guinea,2024,imports,1,China,49.0
+324,Guinea,2024,imports,2,India,10.1
+324,Guinea,2024,imports,3,United Arab Emirates,3.6
+624,Guinea-Bissau,2015,exports,1,India,52.5
+624,Guinea-Bissau,2015,imports,1,Senegal,13.0
+624,Guinea-Bissau,2015,imports,2,Portugal,32.1
+624,Guinea-Bissau,2015,imports,3,China,2.0
+624,Guinea-Bissau,2020,exports,1,India,68.8
+624,Guinea-Bissau,2020,exports,2,Côte dIvoire,10.2
+624,Guinea-Bissau,2020,exports,3,Türkiye,0.6
+624,Guinea-Bissau,2020,imports,1,Senegal,17.2
+624,Guinea-Bissau,2020,imports,2,Portugal,25.3
+624,Guinea-Bissau,2020,imports,3,China,15.5
+624,Guinea-Bissau,2024,exports,1,India,86.7
+624,Guinea-Bissau,2024,exports,2,Côte dIvoire,2.7
+624,Guinea-Bissau,2024,exports,3,Türkiye,2.7
+624,Guinea-Bissau,2024,imports,1,Senegal,31.6
+624,Guinea-Bissau,2024,imports,2,Portugal,19.9
+624,Guinea-Bissau,2024,imports,3,China,15.3
+328,Guyana,2015,exports,1,Netherlands,1.4
+328,Guyana,2015,exports,2,United States,25.6
+328,Guyana,2015,exports,3,United Kingdom,6.2
+328,Guyana,2015,imports,1,United States,25.9
+328,Guyana,2015,imports,2,China,7.6
+328,Guyana,2015,imports,3,Republic of Korea,0.6
+328,Guyana,2020,exports,1,Netherlands,1.1
+328,Guyana,2020,exports,2,United States,28.5
+328,Guyana,2020,exports,3,United Kingdom,3.6
+328,Guyana,2020,imports,1,United States,31.8
+328,Guyana,2020,imports,2,China,9.9
+328,Guyana,2020,imports,3,Republic of Korea,1.1
+328,Guyana,2024,exports,1,Netherlands,15.5
+328,Guyana,2024,exports,2,United States,15.0
+328,Guyana,2024,exports,3,United Kingdom,14.1
+328,Guyana,2024,imports,1,United States,35.6
+328,Guyana,2024,imports,2,China,12.9
+328,Guyana,2024,imports,3,Republic of Korea,6.8
+332,Haiti,2015,exports,1,United States,83.2
+332,Haiti,2015,exports,2,Mexico,1.9
+332,Haiti,2015,exports,3,Canada,2.6
+332,Haiti,2015,imports,1,United States,28.7
+332,Haiti,2015,imports,2,Dominican Rep.,34.1
+332,Haiti,2015,imports,3,China,10.9
+332,Haiti,2020,exports,1,United States,82.7
+332,Haiti,2020,exports,2,Mexico,2.4
+332,Haiti,2020,exports,3,Canada,5.2
+332,Haiti,2020,imports,1,United States,33.1
+332,Haiti,2020,imports,2,Dominican Rep.,17.7
+332,Haiti,2020,imports,3,China,16.7
+332,Haiti,2024,exports,1,United States,76.3
+332,Haiti,2024,exports,2,Mexico,4.6
+332,Haiti,2024,exports,3,Canada,4.6
+332,Haiti,2024,imports,1,United States,33.7
+332,Haiti,2024,imports,2,Dominican Rep.,24.8
+332,Haiti,2024,imports,3,China,12.5
+340,Honduras,2015,exports,1,United States,44.2
+340,Honduras,2015,exports,2,El Salvador,6.5
+340,Honduras,2015,exports,3,Nicaragua,4.7
+340,Honduras,2015,imports,1,United States,35.0
+340,Honduras,2015,imports,2,China,15.4
+340,Honduras,2015,imports,3,Mexico,7.3
+340,Honduras,2020,exports,1,United States,42.1
+340,Honduras,2020,exports,2,El Salvador,7.5
+340,Honduras,2020,exports,3,Nicaragua,5.4
+340,Honduras,2020,imports,1,United States,33.4
+340,Honduras,2020,imports,2,China,16.4
+340,Honduras,2020,imports,3,Mexico,7.7
+340,Honduras,2024,exports,1,United States,45.0
+340,Honduras,2024,exports,2,El Salvador,6.5
+340,Honduras,2024,exports,3,Nicaragua,5.9
+340,Honduras,2024,imports,1,United States,35.4
+340,Honduras,2024,imports,2,China,16.3
+340,Honduras,2024,imports,3,Mexico,7.2
+348,Hungary,2015,exports,1,Germany,27.3
+348,Hungary,2015,exports,2,Romania,5.3
+348,Hungary,2015,exports,3,Poland,3.8
+348,Hungary,2015,imports,1,Germany,26.2
+348,Hungary,2015,imports,2,China,5.3
+348,Hungary,2015,imports,3,Poland,5.5
+348,Hungary,2020,exports,1,Germany,27.9
+348,Hungary,2020,exports,2,Romania,5.2
+348,Hungary,2020,exports,3,Poland,4.1
+348,Hungary,2020,imports,1,Germany,24.6
+348,Hungary,2020,imports,2,China,8.0
+348,Hungary,2020,imports,3,Poland,5.8
+348,Hungary,2024,exports,1,Germany,24.9
+348,Hungary,2024,exports,2,Romania,5.6
+348,Hungary,2024,exports,3,Poland,5.3
+348,Hungary,2024,imports,1,Germany,23.0
+348,Hungary,2024,imports,2,China,6.4
+348,Hungary,2024,imports,3,Poland,6.3
+352,Iceland,2015,exports,1,Netherlands,26.1
+352,Iceland,2015,exports,2,United States,5.7
+352,Iceland,2015,exports,3,United Kingdom,11.6
+352,Iceland,2015,imports,1,Norway,10.1
+352,Iceland,2015,imports,2,China,7.8
+352,Iceland,2015,imports,3,United States,7.9
+352,Iceland,2020,exports,1,Netherlands,20.3
+352,Iceland,2020,exports,2,United States,7.6
+352,Iceland,2020,exports,3,United Kingdom,11.1
+352,Iceland,2020,imports,1,Norway,8.8
+352,Iceland,2020,imports,2,China,8.4
+352,Iceland,2020,imports,3,United States,6.7
+352,Iceland,2024,exports,1,Netherlands,32.8
+352,Iceland,2024,exports,2,United States,11.5
+352,Iceland,2024,exports,3,United Kingdom,9.6
+352,Iceland,2024,imports,1,Norway,10.8
+352,Iceland,2024,imports,2,China,10.8
+352,Iceland,2024,imports,3,United States,8.6
+356,India,2015,exports,1,United States,15.2
+356,India,2015,exports,2,United Arab Emirates,11.3
+356,India,2015,exports,3,Netherlands,1.8
+356,India,2015,imports,1,China,15.5
+356,India,2015,imports,2,Russian Federation,1.2
+356,India,2015,imports,3,United Arab Emirates,5.2
+356,India,2020,exports,1,United States,17.9
+356,India,2020,exports,2,United Arab Emirates,6.5
+356,India,2020,exports,3,Netherlands,2.3
+356,India,2020,imports,1,China,16.0
+356,India,2020,imports,2,Russian Federation,1.6
+356,India,2020,imports,3,United Arab Emirates,6.5
+356,India,2024,exports,1,United States,18.3
+356,India,2024,exports,2,United Arab Emirates,8.5
+356,India,2024,exports,3,Netherlands,5.6
+356,India,2024,imports,1,China,18.2
+356,India,2024,imports,2,Russian Federation,9.6
+356,India,2024,imports,3,United Arab Emirates,8.0
+360,Indonesia,2015,exports,1,China,10.0
+360,Indonesia,2015,exports,2,United States,10.8
+360,Indonesia,2015,exports,3,Japan,12.0
+360,Indonesia,2015,imports,1,China,20.6
+360,Indonesia,2015,imports,2,Singapore,12.6
+360,Indonesia,2015,imports,3,Japan,9.3
+360,Indonesia,2020,exports,1,China,19.5
+360,Indonesia,2020,exports,2,United States,11.4
+360,Indonesia,2020,exports,3,Japan,8.4
+360,Indonesia,2020,imports,1,China,28.0
+360,Indonesia,2020,imports,2,Singapore,8.7
+360,Indonesia,2020,imports,3,Japan,7.5
+360,Indonesia,2024,exports,1,China,25.1
+360,Indonesia,2024,exports,2,United States,9.0
+360,Indonesia,2024,exports,3,Japan,8.0
+360,Indonesia,2024,imports,1,China,28.3
+360,Indonesia,2024,imports,2,Singapore,8.3
+360,Indonesia,2024,imports,3,Japan,7.4
+364,Iran (Islamic Republic of),2015,exports,1,China,12.0
+364,Iran (Islamic Republic of),2015,exports,2,"Other Asia, nes",42.9
+364,Iran (Islamic Republic of),2015,exports,3,Areas nes,0.1
+364,Iran (Islamic Republic of),2015,imports,1,United Arab Emirates,17.2
+364,Iran (Islamic Republic of),2015,imports,2,China,26.2
+364,Iran (Islamic Republic of),2015,imports,3,Türkiye,7.4
+364,Iran (Islamic Republic of),2020,exports,1,China,27.6
+364,Iran (Islamic Republic of),2020,exports,2,"Other Asia, nes",23.0
+364,Iran (Islamic Republic of),2020,exports,3,Areas nes,0.5
+364,Iran (Islamic Republic of),2020,imports,1,United Arab Emirates,25.1
+364,Iran (Islamic Republic of),2020,imports,2,China,25.4
+364,Iran (Islamic Republic of),2020,imports,3,Türkiye,11.3
+364,Iran (Islamic Republic of),2024,exports,1,China,27.7
+364,Iran (Islamic Republic of),2024,exports,2,"Other Asia, nes",16.2
+364,Iran (Islamic Republic of),2024,exports,3,Areas nes,13.0
+364,Iran (Islamic Republic of),2024,imports,1,United Arab Emirates,30.7
+364,Iran (Islamic Republic of),2024,imports,2,China,26.5
+364,Iran (Islamic Republic of),2024,imports,3,Türkiye,10.4
+368,Iraq,2015,exports,1,China,23.8
+368,Iraq,2015,exports,2,India,21.1
+368,Iraq,2015,exports,3,Republic of Korea,11.7
+368,Iraq,2015,imports,1,United Arab Emirates,4.7
+368,Iraq,2015,imports,2,China,5.4
+368,Iraq,2015,imports,3,Türkiye,6.8
+368,Iraq,2020,exports,1,China,29.7
+368,Iraq,2020,exports,2,India,24.9
+368,Iraq,2020,exports,3,Republic of Korea,6.6
+368,Iraq,2020,imports,1,United Arab Emirates,8.0
+368,Iraq,2020,imports,2,China,6.7
+368,Iraq,2020,imports,3,Türkiye,5.6
+368,Iraq,2024,exports,1,China,33.0
+368,Iraq,2024,exports,2,India,25.7
+368,Iraq,2024,exports,3,Republic of Korea,7.8
+368,Iraq,2024,imports,1,United Arab Emirates,30.0
+368,Iraq,2024,imports,2,China,20.6
+368,Iraq,2024,imports,3,Türkiye,16.8
+372,Ireland,2015,exports,1,United States,23.9
+372,Ireland,2015,exports,2,Netherlands,4.4
+372,Ireland,2015,exports,3,United Kingdom,13.8
+372,Ireland,2015,imports,1,United States,15.6
+372,Ireland,2015,imports,2,United Kingdom,25.7
+372,Ireland,2015,imports,3,France,12.4
+372,Ireland,2020,exports,1,United States,31.2
+372,Ireland,2020,exports,2,Netherlands,5.3
+372,Ireland,2020,exports,3,United Kingdom,9.1
+372,Ireland,2020,imports,1,United States,15.5
+372,Ireland,2020,imports,2,United Kingdom,23.1
+372,Ireland,2020,imports,3,France,11.4
+372,Ireland,2024,exports,1,United States,32.5
+372,Ireland,2024,exports,2,Netherlands,10.3
+372,Ireland,2024,exports,3,United Kingdom,9.3
+372,Ireland,2024,imports,1,United States,16.8
+372,Ireland,2024,imports,2,United Kingdom,16.5
+372,Ireland,2024,imports,3,France,10.1
+376,Israel,2015,exports,1,United States,31.5
+376,Israel,2015,exports,2,Areas nes,0.7
+376,Israel,2015,exports,3,Ireland,0.2
+376,Israel,2015,imports,1,China,9.3
+376,Israel,2015,imports,2,United States,13.0
+376,Israel,2015,imports,3,Areas nes,9.5
+376,Israel,2020,exports,1,United States,30.7
+376,Israel,2020,exports,2,Areas nes,0.7
+376,Israel,2020,exports,3,Ireland,0.2
+376,Israel,2020,imports,1,China,11.1
+376,Israel,2020,imports,2,United States,12.7
+376,Israel,2020,imports,3,Areas nes,1.5
+376,Israel,2024,exports,1,United States,28.4
+376,Israel,2024,exports,2,Areas nes,9.8
+376,Israel,2024,exports,3,Ireland,5.4
+376,Israel,2024,imports,1,China,20.8
+376,Israel,2024,imports,2,United States,10.3
+376,Israel,2024,imports,3,Areas nes,10.2
+380,Italy,2015,exports,1,Germany,13.0
+380,Italy,2015,exports,2,United States,9.0
+380,Italy,2015,exports,3,France,10.2
+380,Italy,2015,imports,1,Germany,15.5
+380,Italy,2015,imports,2,China,7.6
+380,Italy,2015,imports,3,France,8.7
+380,Italy,2020,exports,1,Germany,12.8
+380,Italy,2020,exports,2,United States,9.7
+380,Italy,2020,exports,3,France,10.3
+380,Italy,2020,imports,1,Germany,16.4
+380,Italy,2020,imports,2,China,8.6
+380,Italy,2020,imports,3,France,8.4
+380,Italy,2024,exports,1,Germany,11.4
+380,Italy,2024,exports,2,United States,10.4
+380,Italy,2024,exports,3,France,10.0
+380,Italy,2024,imports,1,Germany,14.9
+380,Italy,2024,imports,2,China,8.7
+380,Italy,2024,imports,3,France,8.0
+388,Jamaica,2015,exports,1,United States,37.0
+388,Jamaica,2015,exports,2,Russian Federation,7.0
+388,Jamaica,2015,imports,1,United States,38.5
+388,Jamaica,2015,imports,2,China,8.2
+388,Jamaica,2015,imports,3,Brazil,1.5
+388,Jamaica,2020,exports,1,United States,45.6
+388,Jamaica,2020,exports,2,Russian Federation,5.5
+388,Jamaica,2020,imports,1,United States,40.4
+388,Jamaica,2020,imports,2,China,8.2
+388,Jamaica,2020,imports,3,Brazil,6.5
+388,Jamaica,2024,exports,1,United States,50.5
+388,Jamaica,2024,exports,2,Russian Federation,6.9
+388,Jamaica,2024,exports,3,Latvia,6.5
+388,Jamaica,2024,imports,1,United States,41.3
+388,Jamaica,2024,imports,2,China,8.0
+388,Jamaica,2024,imports,3,Brazil,4.8
+392,Japan,2015,exports,1,United States,20.2
+392,Japan,2015,exports,2,China,17.5
+392,Japan,2015,exports,3,Republic of Korea,7.0
+392,Japan,2015,imports,1,China,25.7
+392,Japan,2015,imports,2,United States,10.9
+392,Japan,2015,imports,3,Australia,5.6
+392,Japan,2020,exports,1,United States,18.5
+392,Japan,2020,exports,2,China,22.0
+392,Japan,2020,exports,3,Republic of Korea,7.0
+392,Japan,2020,imports,1,China,25.8
+392,Japan,2020,imports,2,United States,11.3
+392,Japan,2020,imports,3,Australia,5.6
+392,Japan,2024,exports,1,United States,20.0
+392,Japan,2024,exports,2,China,17.6
+392,Japan,2024,exports,3,Republic of Korea,6.6
+392,Japan,2024,imports,1,China,22.5
+392,Japan,2024,imports,2,United States,11.4
+392,Japan,2024,imports,3,Australia,7.1
+400,Jordan,2015,exports,1,United States,18.5
+400,Jordan,2015,exports,2,India,7.5
+400,Jordan,2015,exports,3,Saudi Arabia,15.1
+400,Jordan,2015,imports,1,China,12.9
+400,Jordan,2015,imports,2,Saudi Arabia,15.0
+400,Jordan,2015,imports,3,Gambia,6.2
+400,Jordan,2020,exports,1,United States,22.1
+400,Jordan,2020,exports,2,India,11.2
+400,Jordan,2020,exports,3,Saudi Arabia,10.9
+400,Jordan,2020,imports,1,China,16.0
+400,Jordan,2020,imports,2,Saudi Arabia,12.4
+400,Jordan,2020,imports,3,Gambia,8.3
+400,Jordan,2024,exports,1,United States,22.9
+400,Jordan,2024,exports,2,India,13.7
+400,Jordan,2024,exports,3,Saudi Arabia,11.5
+400,Jordan,2024,imports,1,China,17.5
+400,Jordan,2024,imports,2,Saudi Arabia,14.2
+400,Jordan,2024,imports,3,Gambia,6.4
+398,Kazakhstan,2015,exports,1,Italy,17.7
+398,Kazakhstan,2015,exports,2,China,11.9
+398,Kazakhstan,2015,exports,3,Russian Federation,9.9
+398,Kazakhstan,2015,imports,1,China,16.6
+398,Kazakhstan,2015,imports,2,Russian Federation,34.4
+398,Kazakhstan,2015,imports,3,Germany,6.5
+398,Kazakhstan,2020,exports,1,Italy,15.9
+398,Kazakhstan,2020,exports,2,China,16.3
+398,Kazakhstan,2020,exports,3,Russian Federation,12.0
+398,Kazakhstan,2020,imports,1,China,8.8
+398,Kazakhstan,2020,imports,2,Russian Federation,62.1
+398,Kazakhstan,2020,imports,3,Germany,2.3
+398,Kazakhstan,2024,exports,1,Italy,18.8
+398,Kazakhstan,2024,exports,2,China,18.7
+398,Kazakhstan,2024,exports,3,Russian Federation,12.4
+398,Kazakhstan,2024,imports,1,China,27.4
+398,Kazakhstan,2024,imports,2,Russian Federation,26.5
+398,Kazakhstan,2024,imports,3,Germany,5.2
+404,Kenya,2015,exports,1,Uganda,11.8
+404,Kenya,2015,exports,2,Pakistan,6.1
+404,Kenya,2015,exports,3,Netherlands,7.2
+404,Kenya,2015,imports,1,China,20.3
+404,Kenya,2015,imports,2,United Arab Emirates,5.7
+404,Kenya,2015,imports,3,India,16.0
+404,Kenya,2020,exports,1,Uganda,11.2
+404,Kenya,2020,exports,2,Pakistan,8.5
+404,Kenya,2020,exports,3,Netherlands,7.6
+404,Kenya,2020,imports,1,China,22.0
+404,Kenya,2020,imports,2,United Arab Emirates,5.6
+404,Kenya,2020,imports,3,India,11.5
+404,Kenya,2024,exports,1,Uganda,12.5
+404,Kenya,2024,exports,2,Pakistan,7.9
+404,Kenya,2024,exports,3,Netherlands,7.6
+404,Kenya,2024,imports,1,China,17.6
+404,Kenya,2024,imports,2,United Arab Emirates,15.8
+404,Kenya,2024,imports,3,India,10.3
+296,Kiribati,2015,exports,2,Japan,14.7
+296,Kiribati,2015,imports,1,China,11.6
+296,Kiribati,2015,imports,2,Fiji,21.1
+296,Kiribati,2015,imports,3,Japan,5.8
+296,Kiribati,2020,exports,1,Thailand,0.6
+296,Kiribati,2020,exports,2,Japan,31.8
+296,Kiribati,2020,exports,3,Philippines,0.0
+296,Kiribati,2020,imports,1,China,14.1
+296,Kiribati,2020,imports,2,Fiji,18.0
+296,Kiribati,2020,imports,3,Japan,3.3
+296,Kiribati,2024,exports,1,Thailand,76.6
+296,Kiribati,2024,exports,2,Japan,5.5
+296,Kiribati,2024,exports,3,Philippines,3.5
+296,Kiribati,2024,imports,1,China,30.0
+296,Kiribati,2024,imports,2,Fiji,15.2
+296,Kiribati,2024,imports,3,Japan,12.5
+414,Kuwait,2015,exports,1,Areas nes,0.0
+414,Kuwait,2015,exports,2,United Arab Emirates,1.9
+414,Kuwait,2015,exports,3,India,9.7
+414,Kuwait,2015,imports,1,China,16.4
+414,Kuwait,2015,imports,2,United States,9.2
+414,Kuwait,2015,imports,3,United Arab Emirates,9.4
+414,Kuwait,2020,exports,1,Areas nes,0.0
+414,Kuwait,2020,exports,2,United Arab Emirates,3.5
+414,Kuwait,2020,exports,3,India,11.2
+414,Kuwait,2020,imports,1,China,17.4
+414,Kuwait,2020,imports,2,United States,8.5
+414,Kuwait,2020,imports,3,United Arab Emirates,8.2
+414,Kuwait,2024,exports,1,Areas nes,92.9
+414,Kuwait,2024,exports,2,United Arab Emirates,1.5
+414,Kuwait,2024,exports,3,India,1.3
+414,Kuwait,2024,imports,1,China,19.8
+414,Kuwait,2024,imports,2,United States,9.1
+414,Kuwait,2024,imports,3,United Arab Emirates,9.0
+417,Kyrgyzstan,2015,exports,1,United Kingdom,0.1
+417,Kyrgyzstan,2015,exports,2,Russian Federation,10.9
+417,Kyrgyzstan,2015,exports,3,Kazakhstan,15.8
+417,Kyrgyzstan,2015,imports,1,China,25.3
+417,Kyrgyzstan,2015,imports,2,Russian Federation,31.3
+417,Kyrgyzstan,2015,imports,3,Kazakhstan,16.7
+417,Kyrgyzstan,2020,exports,1,United Kingdom,53.1
+417,Kyrgyzstan,2020,exports,2,Russian Federation,11.7
+417,Kyrgyzstan,2020,exports,3,Kazakhstan,12.3
+417,Kyrgyzstan,2020,imports,1,China,21.8
+417,Kyrgyzstan,2020,imports,2,Russian Federation,32.2
+417,Kyrgyzstan,2020,imports,3,Kazakhstan,12.8
+417,Kyrgyzstan,2024,exports,1,United Kingdom,32.4
+417,Kyrgyzstan,2024,exports,2,Russian Federation,26.1
+417,Kyrgyzstan,2024,exports,3,Kazakhstan,10.2
+417,Kyrgyzstan,2024,imports,1,China,45.8
+417,Kyrgyzstan,2024,imports,2,Russian Federation,19.4
+417,Kyrgyzstan,2024,imports,3,Kazakhstan,6.5
+418,Lao People's Dem. Rep.,2015,exports,1,China,34.8
+418,Lao People's Dem. Rep.,2015,exports,2,Viet Nam,18.0
+418,Lao People's Dem. Rep.,2015,exports,3,Thailand,33.8
+418,Lao People's Dem. Rep.,2015,imports,1,Thailand,58.8
+418,Lao People's Dem. Rep.,2015,imports,2,China,18.9
+418,Lao People's Dem. Rep.,2020,exports,1,China,28.8
+418,Lao People's Dem. Rep.,2020,exports,2,Viet Nam,19.6
+418,Lao People's Dem. Rep.,2020,exports,3,Thailand,34.7
+418,Lao People's Dem. Rep.,2020,imports,1,Thailand,49.6
+418,Lao People's Dem. Rep.,2020,imports,2,China,25.8
+418,Lao People's Dem. Rep.,2024,exports,1,China,38.2
+418,Lao People's Dem. Rep.,2024,exports,2,Viet Nam,19.9
+418,Lao People's Dem. Rep.,2024,exports,3,Thailand,13.1
+418,Lao People's Dem. Rep.,2024,imports,1,Thailand,41.7
+418,Lao People's Dem. Rep.,2024,imports,2,China,29.8
+418,Lao People's Dem. Rep.,2024,imports,3,Areas nes,9.8
+428,Latvia,2015,exports,1,Lithuania,20.3
+428,Latvia,2015,exports,2,Estonia,11.5
+428,Latvia,2015,exports,3,Germany,6.3
+428,Latvia,2015,imports,1,Lithuania,17.1
+428,Latvia,2015,imports,2,Germany,11.0
+428,Latvia,2015,imports,3,Poland,10.8
+428,Latvia,2020,exports,1,Lithuania,16.3
+428,Latvia,2020,exports,2,Estonia,11.7
+428,Latvia,2020,exports,3,Germany,7.2
+428,Latvia,2020,imports,1,Lithuania,18.2
+428,Latvia,2020,imports,2,Germany,10.6
+428,Latvia,2020,imports,3,Poland,10.3
+428,Latvia,2024,exports,1,Lithuania,18.0
+428,Latvia,2024,exports,2,Estonia,11.7
+428,Latvia,2024,exports,3,Germany,6.5
+428,Latvia,2024,imports,1,Lithuania,20.6
+428,Latvia,2024,imports,2,Germany,11.6
+428,Latvia,2024,imports,3,Poland,11.2
+422,Lebanon,2015,exports,1,United Arab Emirates,10.6
+422,Lebanon,2015,exports,2,Türkiye,2.6
+422,Lebanon,2015,exports,3,Iraq,7.6
+422,Lebanon,2015,imports,1,China,11.2
+422,Lebanon,2015,imports,2,Greece,4.2
+422,Lebanon,2015,imports,3,Switzerland,2.3
+422,Lebanon,2020,exports,1,United Arab Emirates,14.5
+422,Lebanon,2020,exports,2,Türkiye,2.6
+422,Lebanon,2020,exports,3,Iraq,3.6
+422,Lebanon,2020,imports,1,China,6.6
+422,Lebanon,2020,imports,2,Greece,7.6
+422,Lebanon,2020,imports,3,Switzerland,2.9
+422,Lebanon,2024,exports,1,United Arab Emirates,22.2
+422,Lebanon,2024,exports,2,Türkiye,7.9
+422,Lebanon,2024,exports,3,Iraq,5.2
+422,Lebanon,2024,imports,1,China,11.5
+422,Lebanon,2024,imports,2,Greece,9.8
+422,Lebanon,2024,imports,3,Switzerland,9.7
+426,Lesotho,2015,exports,1,South Africa,30.7
+426,Lesotho,2015,exports,2,Belgium,30.4
+426,Lesotho,2015,exports,3,United States,28.8
+426,Lesotho,2015,imports,1,South Africa,74.6
+426,Lesotho,2015,imports,2,China,5.2
+426,Lesotho,2015,imports,3,"Other Asia, nes",8.2
+426,Lesotho,2020,exports,1,South Africa,37.0
+426,Lesotho,2020,exports,2,Belgium,31.8
+426,Lesotho,2020,exports,3,United States,27.0
+426,Lesotho,2020,imports,1,South Africa,71.0
+426,Lesotho,2020,imports,2,China,6.6
+426,Lesotho,2020,imports,3,"Other Asia, nes",6.2
+426,Lesotho,2024,exports,1,South Africa,53.6
+426,Lesotho,2024,exports,2,Belgium,23.6
+426,Lesotho,2024,exports,3,United States,18.9
+426,Lesotho,2024,imports,1,South Africa,79.5
+426,Lesotho,2024,imports,2,China,9.1
+426,Lesotho,2024,imports,3,"Other Asia, nes",2.7
+430,Liberia,2015,exports,1,United States,5.7
+430,Liberia,2015,exports,2,Belgium,0.5
+430,Liberia,2015,imports,1,Côte dIvoire,1.1
+430,Liberia,2015,imports,2,China,31.4
+430,Liberia,2015,imports,3,India,6.4
+430,Liberia,2020,exports,1,United States,10.1
+430,Liberia,2020,exports,2,Belgium,6.4
+430,Liberia,2020,exports,3,Cameroon,0.0
+430,Liberia,2020,imports,1,Côte dIvoire,25.1
+430,Liberia,2020,imports,2,China,14.2
+430,Liberia,2020,imports,3,India,15.2
+430,Liberia,2024,exports,1,United States,37.4
+430,Liberia,2024,exports,2,Belgium,21.4
+430,Liberia,2024,exports,3,Cameroon,6.9
+430,Liberia,2024,imports,1,Côte dIvoire,30.3
+430,Liberia,2024,imports,2,China,16.7
+430,Liberia,2024,imports,3,India,15.8
+434,Libya,2015,exports,1,Italy,34.9
+434,Libya,2015,exports,2,Germany,1.0
+434,Libya,2015,exports,3,United Kingdom,6.2
+434,Libya,2015,imports,1,China,11.3
+434,Libya,2015,imports,2,Türkiye,8.7
+434,Libya,2015,imports,3,Italy,12.5
+434,Libya,2020,exports,1,Italy,21.1
+434,Libya,2020,exports,2,Germany,9.2
+434,Libya,2020,exports,3,United Kingdom,1.0
+434,Libya,2020,imports,1,China,15.1
+434,Libya,2020,imports,2,Türkiye,13.3
+434,Libya,2020,imports,3,Italy,8.0
+434,Libya,2024,exports,1,Italy,21.1
+434,Libya,2024,exports,2,Germany,14.6
+434,Libya,2024,exports,3,United Kingdom,8.5
+434,Libya,2024,imports,1,China,15.3
+434,Libya,2024,imports,2,Türkiye,11.9
+434,Libya,2024,imports,3,Italy,10.5
+440,Lithuania,2015,exports,1,Latvia,9.9
+440,Lithuania,2015,exports,2,Poland,9.7
+440,Lithuania,2015,exports,3,Germany,7.8
+440,Lithuania,2015,imports,1,Poland,10.3
+440,Lithuania,2015,imports,2,Germany,11.5
+440,Lithuania,2015,imports,3,Latvia,8.3
+440,Lithuania,2020,exports,1,Latvia,9.2
+440,Lithuania,2020,exports,2,Poland,6.4
+440,Lithuania,2020,exports,3,Germany,8.1
+440,Lithuania,2020,imports,1,Poland,13.1
+440,Lithuania,2020,imports,2,Germany,12.9
+440,Lithuania,2020,imports,3,Latvia,7.8
+440,Lithuania,2024,exports,1,Latvia,11.9
+440,Lithuania,2024,exports,2,Poland,9.9
+440,Lithuania,2024,exports,3,Germany,8.8
+440,Lithuania,2024,imports,1,Poland,14.0
+440,Lithuania,2024,imports,2,Germany,12.5
+440,Lithuania,2024,imports,3,Latvia,8.1
+442,Luxembourg,2015,exports,1,Germany,27.1
+442,Luxembourg,2015,exports,2,France,14.0
+442,Luxembourg,2015,exports,3,Belgium,12.7
+442,Luxembourg,2015,imports,1,Germany,24.0
+442,Luxembourg,2015,imports,2,Belgium,22.7
+442,Luxembourg,2015,imports,3,France,11.9
+442,Luxembourg,2020,exports,1,Germany,26.0
+442,Luxembourg,2020,exports,2,France,16.3
+442,Luxembourg,2020,exports,3,Belgium,12.4
+442,Luxembourg,2020,imports,1,Germany,24.1
+442,Luxembourg,2020,imports,2,Belgium,24.3
+442,Luxembourg,2020,imports,3,France,10.7
+442,Luxembourg,2024,exports,1,Germany,24.9
+442,Luxembourg,2024,exports,2,France,15.4
+442,Luxembourg,2024,exports,3,Belgium,13.1
+442,Luxembourg,2024,imports,1,Germany,23.7
+442,Luxembourg,2024,imports,2,Belgium,23.5
+442,Luxembourg,2024,imports,3,France,11.1
+450,Madagascar,2015,exports,1,France,20.2
+450,Madagascar,2015,exports,2,United States,10.8
+450,Madagascar,2015,exports,3,Japan,5.3
+450,Madagascar,2015,imports,1,China,18.2
+450,Madagascar,2015,imports,2,Oman,0.3
+450,Madagascar,2015,imports,3,France,6.2
+450,Madagascar,2020,exports,1,France,22.4
+450,Madagascar,2020,exports,2,United States,22.1
+450,Madagascar,2020,exports,3,Japan,3.0
+450,Madagascar,2020,imports,1,China,21.1
+450,Madagascar,2020,imports,2,Oman,2.7
+450,Madagascar,2020,imports,3,France,11.7
+450,Madagascar,2024,exports,1,France,14.5
+450,Madagascar,2024,exports,2,United States,12.6
+450,Madagascar,2024,exports,3,Japan,8.2
+450,Madagascar,2024,imports,1,China,17.0
+450,Madagascar,2024,imports,2,Oman,13.5
+450,Madagascar,2024,imports,3,France,11.2
+454,Malawi,2015,exports,1,Belgium,10.6
+454,Malawi,2015,exports,2,United Rep. Tanzania,1.8
+454,Malawi,2015,exports,3,China,5.8
+454,Malawi,2015,imports,1,China,13.0
+454,Malawi,2015,imports,2,South Africa,18.1
+454,Malawi,2015,imports,3,United Arab Emirates,11.0
+454,Malawi,2020,exports,1,Belgium,20.7
+454,Malawi,2020,exports,2,United Rep. Tanzania,4.3
+454,Malawi,2020,exports,3,China,4.3
+454,Malawi,2020,imports,1,China,16.2
+454,Malawi,2020,imports,2,South Africa,20.5
+454,Malawi,2020,imports,3,United Arab Emirates,10.1
+454,Malawi,2024,exports,1,Belgium,15.9
+454,Malawi,2024,exports,2,United Rep. Tanzania,10.9
+454,Malawi,2024,exports,3,China,5.6
+454,Malawi,2024,imports,1,China,17.4
+454,Malawi,2024,imports,2,South Africa,15.6
+454,Malawi,2024,imports,3,United Arab Emirates,12.4
+458,Malaysia,2015,exports,1,Singapore,13.9
+458,Malaysia,2015,exports,2,United States,9.5
+458,Malaysia,2015,exports,3,China,13.0
+458,Malaysia,2015,imports,1,China,18.9
+458,Malaysia,2015,imports,2,Singapore,12.0
+458,Malaysia,2015,imports,3,United States,8.1
+458,Malaysia,2020,exports,1,Singapore,14.4
+458,Malaysia,2020,exports,2,United States,11.1
+458,Malaysia,2020,exports,3,China,16.2
+458,Malaysia,2020,imports,1,China,21.5
+458,Malaysia,2020,imports,2,Singapore,9.2
+458,Malaysia,2020,imports,3,United States,8.7
+458,Malaysia,2024,exports,1,Singapore,15.3
+458,Malaysia,2024,exports,2,United States,13.2
+458,Malaysia,2024,exports,3,China,12.4
+458,Malaysia,2024,imports,1,China,21.6
+458,Malaysia,2024,imports,2,Singapore,12.1
+458,Malaysia,2024,imports,3,United States,9.2
+462,Maldives,2015,exports,1,Thailand,25.4
+462,Maldives,2015,exports,2,United Kingdom,5.7
+462,Maldives,2015,exports,3,Germany,7.0
+462,Maldives,2015,imports,1,China,7.8
+462,Maldives,2015,imports,2,United Arab Emirates,16.7
+462,Maldives,2015,imports,3,India,11.9
+462,Maldives,2020,exports,1,Thailand,43.6
+462,Maldives,2020,exports,2,United Kingdom,7.2
+462,Maldives,2020,exports,3,Germany,9.7
+462,Maldives,2020,imports,1,China,14.6
+462,Maldives,2020,imports,2,United Arab Emirates,12.4
+462,Maldives,2020,imports,3,India,13.2
+462,Maldives,2024,exports,1,Thailand,35.0
+462,Maldives,2024,exports,2,United Kingdom,21.8
+462,Maldives,2024,exports,3,Germany,10.3
+462,Maldives,2024,imports,1,China,18.7
+462,Maldives,2024,imports,2,United Arab Emirates,15.0
+462,Maldives,2024,imports,3,India,13.8
+466,Mali,2015,exports,1,United Arab Emirates,7.6
+466,Mali,2015,exports,2,Australia,0.2
+466,Mali,2015,exports,3,India,2.5
+466,Mali,2015,imports,1,Côte dIvoire,9.8
+466,Mali,2015,imports,2,Senegal,19.5
+466,Mali,2015,imports,3,China,15.6
+466,Mali,2020,exports,1,United Arab Emirates,57.6
+466,Mali,2020,exports,2,Australia,5.5
+466,Mali,2020,exports,3,India,0.4
+466,Mali,2020,imports,1,Côte dIvoire,13.9
+466,Mali,2020,imports,2,Senegal,17.3
+466,Mali,2020,imports,3,China,9.8
+466,Mali,2024,exports,1,United Arab Emirates,83.9
+466,Mali,2024,exports,2,Australia,3.4
+466,Mali,2024,exports,3,India,2.8
+466,Mali,2024,imports,1,Côte dIvoire,26.0
+466,Mali,2024,imports,2,Senegal,22.5
+466,Mali,2024,imports,3,China,14.4
+470,Malta,2015,exports,1,Germany,9.6
+470,Malta,2015,exports,2,United States,4.3
+470,Malta,2015,exports,3,Italy,4.0
+470,Malta,2015,imports,1,Italy,21.3
+470,Malta,2015,imports,2,France,3.8
+470,Malta,2015,imports,3,Spain,3.8
+470,Malta,2020,exports,1,Germany,17.3
+470,Malta,2020,exports,2,United States,4.7
+470,Malta,2020,exports,3,Italy,7.3
+470,Malta,2020,imports,1,Italy,22.9
+470,Malta,2020,imports,2,France,6.8
+470,Malta,2020,imports,3,Spain,5.5
+470,Malta,2024,exports,1,Germany,22.4
+470,Malta,2024,exports,2,United States,7.7
+470,Malta,2024,exports,3,Italy,5.4
+470,Malta,2024,imports,1,Italy,22.1
+470,Malta,2024,imports,2,France,13.6
+470,Malta,2024,imports,3,Spain,7.8
+584,Marshall Islands,2015,exports,1,Germany,0.0
+584,Marshall Islands,2015,exports,2,Denmark,0.0
+584,Marshall Islands,2015,exports,3,Thailand,14.2
+584,Marshall Islands,2015,imports,1,China,29.5
+584,Marshall Islands,2015,imports,2,Singapore,29.6
+584,Marshall Islands,2015,imports,3,Republic of Korea,16.4
+584,Marshall Islands,2020,exports,1,Germany,0.0
+584,Marshall Islands,2020,exports,2,Denmark,0.0
+584,Marshall Islands,2020,exports,3,Thailand,16.6
+584,Marshall Islands,2020,imports,1,China,33.7
+584,Marshall Islands,2020,imports,2,Singapore,29.5
+584,Marshall Islands,2020,imports,3,Republic of Korea,15.0
+584,Marshall Islands,2024,exports,1,Germany,48.5
+584,Marshall Islands,2024,exports,2,Denmark,8.3
+584,Marshall Islands,2024,exports,3,Thailand,5.0
+584,Marshall Islands,2024,imports,1,China,31.1
+584,Marshall Islands,2024,imports,2,Singapore,28.2
+584,Marshall Islands,2024,imports,3,Republic of Korea,15.2
+478,Mauritania,2015,exports,1,Canada,0.0
+478,Mauritania,2015,exports,2,China,31.7
+478,Mauritania,2015,exports,3,Algeria,0.4
+478,Mauritania,2015,imports,1,United Arab Emirates,12.1
+478,Mauritania,2015,imports,2,Spain,3.5
+478,Mauritania,2015,imports,3,Belgium,9.1
+478,Mauritania,2020,exports,1,Canada,10.0
+478,Mauritania,2020,exports,2,China,33.9
+478,Mauritania,2020,exports,3,Algeria,0.0
+478,Mauritania,2020,imports,1,United Arab Emirates,14.2
+478,Mauritania,2020,imports,2,Spain,14.6
+478,Mauritania,2020,imports,3,Belgium,6.8
+478,Mauritania,2024,exports,1,Canada,24.4
+478,Mauritania,2024,exports,2,China,22.7
+478,Mauritania,2024,exports,3,Algeria,8.2
+478,Mauritania,2024,imports,1,United Arab Emirates,18.4
+478,Mauritania,2024,imports,2,Spain,12.8
+478,Mauritania,2024,imports,3,Belgium,10.8
+480,Mauritius,2015,exports,1,France,11.9
+480,Mauritius,2015,exports,2,South Africa,8.6
+480,Mauritius,2015,exports,3,Madagascar,6.5
+480,Mauritius,2015,imports,1,China,18.2
+480,Mauritius,2015,imports,2,United Arab Emirates,1.5
+480,Mauritius,2015,imports,3,India,18.1
+480,Mauritius,2020,exports,1,France,11.4
+480,Mauritius,2020,exports,2,South Africa,11.8
+480,Mauritius,2020,exports,3,Madagascar,6.8
+480,Mauritius,2020,imports,1,China,16.6
+480,Mauritius,2020,imports,2,United Arab Emirates,12.3
+480,Mauritius,2020,imports,3,India,9.5
+480,Mauritius,2024,exports,1,France,13.7
+480,Mauritius,2024,exports,2,South Africa,11.6
+480,Mauritius,2024,exports,3,Madagascar,10.3
+480,Mauritius,2024,imports,1,China,17.5
+480,Mauritius,2024,imports,2,United Arab Emirates,11.9
+480,Mauritius,2024,imports,3,India,11.1
+484,Mexico,2015,exports,1,United States,81.3
+484,Mexico,2015,exports,2,Canada,2.8
+484,Mexico,2015,imports,1,United States,47.4
+484,Mexico,2015,imports,2,China,17.7
+484,Mexico,2015,imports,3,Republic of Korea,3.7
+484,Mexico,2020,exports,1,United States,79.2
+484,Mexico,2020,exports,2,Canada,2.7
+484,Mexico,2020,imports,1,United States,43.9
+484,Mexico,2020,imports,2,China,19.2
+484,Mexico,2020,imports,3,Republic of Korea,3.8
+484,Mexico,2024,exports,1,United States,81.3
+484,Mexico,2024,exports,2,Canada,3.0
+484,Mexico,2024,exports,3,"North America and Central America, nes",2.0
+484,Mexico,2024,imports,1,United States,40.3
+484,Mexico,2024,imports,2,China,20.7
+484,Mexico,2024,imports,3,Republic of Korea,3.7
+583,Micronesia (Fed. States of),2015,exports,1,Thailand,50.3
+583,Micronesia (Fed. States of),2015,exports,2,China,5.6
+583,Micronesia (Fed. States of),2015,exports,3,Philippines,0.3
+583,Micronesia (Fed. States of),2015,imports,1,United States,23.7
+583,Micronesia (Fed. States of),2015,imports,2,China,7.2
+583,Micronesia (Fed. States of),2015,imports,3,Japan,12.5
+583,Micronesia (Fed. States of),2020,exports,1,Thailand,77.0
+583,Micronesia (Fed. States of),2020,exports,2,China,4.8
+583,Micronesia (Fed. States of),2020,exports,3,Philippines,10.9
+583,Micronesia (Fed. States of),2020,imports,1,United States,40.7
+583,Micronesia (Fed. States of),2020,imports,2,China,14.7
+583,Micronesia (Fed. States of),2020,imports,3,Japan,12.1
+583,Micronesia (Fed. States of),2024,exports,1,Thailand,60.9
+583,Micronesia (Fed. States of),2024,exports,2,China,28.0
+583,Micronesia (Fed. States of),2024,exports,3,Philippines,5.1
+583,Micronesia (Fed. States of),2024,imports,1,United States,36.8
+583,Micronesia (Fed. States of),2024,imports,2,China,21.6
+583,Micronesia (Fed. States of),2024,imports,3,Japan,10.9
+496,Mongolia,2015,exports,1,China,83.5
+496,Mongolia,2015,exports,2,Switzerland,2.3
+496,Mongolia,2015,exports,3,Singapore,0.6
+496,Mongolia,2015,imports,1,China,35.8
+496,Mongolia,2015,imports,2,Russian Federation,26.9
+496,Mongolia,2015,imports,3,Japan,7.2
+496,Mongolia,2020,exports,1,China,72.5
+496,Mongolia,2020,exports,2,Switzerland,22.2
+496,Mongolia,2020,exports,3,Singapore,2.0
+496,Mongolia,2020,imports,1,China,35.7
+496,Mongolia,2020,imports,2,Russian Federation,26.4
+496,Mongolia,2020,imports,3,Japan,7.7
+496,Mongolia,2024,exports,1,China,84.3
+496,Mongolia,2024,exports,2,Switzerland,8.2
+496,Mongolia,2024,exports,3,Singapore,2.8
+496,Mongolia,2024,imports,1,China,34.8
+496,Mongolia,2024,imports,2,Russian Federation,30.3
+496,Mongolia,2024,imports,3,Japan,7.7
+499,Montenegro,2015,exports,1,Serbia,22.1
+499,Montenegro,2015,exports,2,Areas nes,9.5
+499,Montenegro,2015,exports,3,Bosnia Herzegovina,9.3
+499,Montenegro,2015,imports,1,Serbia,28.1
+499,Montenegro,2015,imports,2,China,10.3
+499,Montenegro,2015,imports,3,Germany,6.3
+499,Montenegro,2020,exports,1,Serbia,28.3
+499,Montenegro,2020,exports,2,Areas nes,7.1
+499,Montenegro,2020,exports,3,Bosnia Herzegovina,6.2
+499,Montenegro,2020,imports,1,Serbia,19.8
+499,Montenegro,2020,imports,2,China,10.4
+499,Montenegro,2020,imports,3,Germany,9.7
+499,Montenegro,2024,exports,1,Serbia,30.2
+499,Montenegro,2024,exports,2,Areas nes,7.6
+499,Montenegro,2024,exports,3,Bosnia Herzegovina,7.4
+499,Montenegro,2024,imports,1,Serbia,17.3
+499,Montenegro,2024,imports,2,China,11.8
+499,Montenegro,2024,imports,3,Germany,10.2
+500,Montserrat,2015,exports,1,Areas nes,0.0
+500,Montserrat,2015,imports,1,United States,53.0
+500,Montserrat,2015,imports,2,Antigua and Barbuda,2.4
+500,Montserrat,2015,imports,3,United Kingdom,10.2
+500,Montserrat,2020,exports,1,Areas nes,8.5
+500,Montserrat,2020,imports,1,United States,67.8
+500,Montserrat,2020,imports,2,Antigua and Barbuda,2.3
+500,Montserrat,2020,imports,3,United Kingdom,5.5
+500,Montserrat,2024,exports,1,Areas nes,100.0
+500,Montserrat,2024,imports,1,United States,67.3
+500,Montserrat,2024,imports,2,Antigua and Barbuda,5.6
+500,Montserrat,2024,imports,3,United Kingdom,4.9
+504,Morocco,2015,exports,1,Spain,22.5
+504,Morocco,2015,exports,2,France,20.6
+504,Morocco,2015,exports,3,Italy,4.4
+504,Morocco,2015,imports,1,Spain,14.4
+504,Morocco,2015,imports,2,China,8.2
+504,Morocco,2015,imports,3,France,12.4
+504,Morocco,2020,exports,1,Spain,24.1
+504,Morocco,2020,exports,2,France,22.0
+504,Morocco,2020,exports,3,Italy,4.4
+504,Morocco,2020,imports,1,Spain,15.4
+504,Morocco,2020,imports,2,China,12.2
+504,Morocco,2020,imports,3,France,12.0
+504,Morocco,2024,exports,1,Spain,22.5
+504,Morocco,2024,exports,2,France,20.5
+504,Morocco,2024,exports,3,Italy,5.2
+504,Morocco,2024,imports,1,Spain,15.7
+504,Morocco,2024,imports,2,China,10.6
+504,Morocco,2024,imports,3,France,10.6
+508,Mozambique,2015,exports,1,India,10.1
+508,Mozambique,2015,exports,2,China,2.8
+508,Mozambique,2015,exports,3,South Africa,19.4
+508,Mozambique,2015,imports,1,South Africa,30.1
+508,Mozambique,2015,imports,2,China,12.5
+508,Mozambique,2015,imports,3,United Arab Emirates,4.3
+508,Mozambique,2020,exports,1,India,11.4
+508,Mozambique,2020,exports,2,China,7.0
+508,Mozambique,2020,exports,3,South Africa,23.0
+508,Mozambique,2020,imports,1,South Africa,30.8
+508,Mozambique,2020,imports,2,China,10.8
+508,Mozambique,2020,imports,3,United Arab Emirates,6.5
+508,Mozambique,2024,exports,1,India,15.6
+508,Mozambique,2024,exports,2,China,14.2
+508,Mozambique,2024,exports,3,South Africa,14.0
+508,Mozambique,2024,imports,1,South Africa,23.2
+508,Mozambique,2024,imports,2,China,15.4
+508,Mozambique,2024,imports,3,United Arab Emirates,10.3
+104,Myanmar,2015,exports,1,China,39.5
+104,Myanmar,2015,exports,2,Thailand,29.3
+104,Myanmar,2015,exports,3,India,8.4
+104,Myanmar,2015,imports,1,China,38.0
+104,Myanmar,2015,imports,2,Singapore,21.6
+104,Myanmar,2015,imports,3,Malaysia,3.1
+104,Myanmar,2020,exports,1,China,31.8
+104,Myanmar,2020,exports,2,Thailand,17.8
+104,Myanmar,2020,exports,3,India,4.1
+104,Myanmar,2020,imports,1,China,36.3
+104,Myanmar,2020,imports,2,Singapore,13.7
+104,Myanmar,2020,imports,3,Malaysia,5.6
+104,Myanmar,2024,exports,1,China,23.2
+104,Myanmar,2024,exports,2,Thailand,19.5
+104,Myanmar,2024,exports,3,India,8.5
+104,Myanmar,2024,imports,1,China,33.5
+104,Myanmar,2024,imports,2,Singapore,24.9
+104,Myanmar,2024,imports,3,Malaysia,10.1
+516,Namibia,2015,exports,1,South Africa,19.5
+516,Namibia,2015,exports,2,China,3.4
+516,Namibia,2015,exports,3,Botswana,22.3
+516,Namibia,2015,imports,1,South Africa,63.7
+516,Namibia,2015,imports,2,China,6.4
+516,Namibia,2015,imports,3,Areas nes,0.7
+516,Namibia,2020,exports,1,South Africa,17.9
+516,Namibia,2020,exports,2,China,18.1
+516,Namibia,2020,exports,3,Botswana,11.6
+516,Namibia,2020,imports,1,South Africa,46.1
+516,Namibia,2020,imports,2,China,6.1
+516,Namibia,2020,imports,3,Areas nes,2.7
+516,Namibia,2024,exports,1,South Africa,19.0
+516,Namibia,2024,exports,2,China,17.2
+516,Namibia,2024,exports,3,Botswana,14.9
+516,Namibia,2024,imports,1,South Africa,36.3
+516,Namibia,2024,imports,2,China,11.0
+516,Namibia,2024,imports,3,Areas nes,4.1
+524,Nepal,2015,exports,1,India,63.5
+524,Nepal,2015,exports,2,United States,10.7
+524,Nepal,2015,exports,3,Germany,4.1
+524,Nepal,2015,imports,1,India,60.6
+524,Nepal,2015,imports,2,China,13.9
+524,Nepal,2015,imports,3,Indonesia,1.8
+524,Nepal,2020,exports,1,India,72.9
+524,Nepal,2020,exports,2,United States,10.2
+524,Nepal,2020,exports,3,Germany,2.8
+524,Nepal,2020,imports,1,India,64.2
+524,Nepal,2020,imports,2,China,13.7
+524,Nepal,2020,imports,3,Indonesia,1.6
+524,Nepal,2024,exports,1,India,71.9
+524,Nepal,2024,exports,2,United States,11.3
+524,Nepal,2024,exports,3,Germany,2.5
+524,Nepal,2024,imports,1,India,63.2
+524,Nepal,2024,imports,2,China,13.5
+524,Nepal,2024,imports,3,Indonesia,2.6
+528,Netherlands (Kingdom of the),2015,exports,1,Germany,23.5
+528,Netherlands (Kingdom of the),2015,exports,2,Belgium,10.5
+528,Netherlands (Kingdom of the),2015,exports,3,France,7.9
+528,Netherlands (Kingdom of the),2015,imports,1,Germany,17.6
+528,Netherlands (Kingdom of the),2015,imports,2,United States,8.1
+528,Netherlands (Kingdom of the),2015,imports,3,Belgium,10.2
+528,Netherlands (Kingdom of the),2020,exports,1,Germany,22.1
+528,Netherlands (Kingdom of the),2020,exports,2,Belgium,10.2
+528,Netherlands (Kingdom of the),2020,exports,3,France,7.7
+528,Netherlands (Kingdom of the),2020,imports,1,Germany,17.7
+528,Netherlands (Kingdom of the),2020,imports,2,United States,8.1
+528,Netherlands (Kingdom of the),2020,imports,3,Belgium,9.8
+528,Netherlands (Kingdom of the),2024,exports,1,Germany,22.2
+528,Netherlands (Kingdom of the),2024,exports,2,Belgium,11.9
+528,Netherlands (Kingdom of the),2024,exports,3,France,7.8
+528,Netherlands (Kingdom of the),2024,imports,1,Germany,16.6
+528,Netherlands (Kingdom of the),2024,imports,2,United States,10.2
+528,Netherlands (Kingdom of the),2024,imports,3,Belgium,9.7
+540,New Caledonia,2015,exports,1,China,35.7
+540,New Caledonia,2015,exports,2,Republic of Korea,15.1
+540,New Caledonia,2015,exports,3,Japan,15.9
+540,New Caledonia,2015,imports,1,France,25.7
+540,New Caledonia,2015,imports,2,Singapore,8.2
+540,New Caledonia,2015,imports,3,Australia,5.7
+540,New Caledonia,2020,exports,1,China,61.6
+540,New Caledonia,2020,exports,2,Republic of Korea,13.6
+540,New Caledonia,2020,exports,3,Japan,11.1
+540,New Caledonia,2020,imports,1,France,42.9
+540,New Caledonia,2020,imports,2,Singapore,9.9
+540,New Caledonia,2020,imports,3,Australia,12.7
+540,New Caledonia,2024,exports,1,China,53.9
+540,New Caledonia,2024,exports,2,Republic of Korea,17.1
+540,New Caledonia,2024,exports,3,Japan,9.2
+540,New Caledonia,2024,imports,1,France,37.9
+540,New Caledonia,2024,imports,2,Singapore,23.8
+540,New Caledonia,2024,imports,3,Australia,10.4
+554,New Zealand,2015,exports,1,China,17.6
+554,New Zealand,2015,exports,2,United States,11.8
+554,New Zealand,2015,exports,3,Gabon,17.0
+554,New Zealand,2015,imports,1,China,19.6
+554,New Zealand,2015,imports,2,Australia,11.9
+554,New Zealand,2015,imports,3,United States,11.8
+554,New Zealand,2020,exports,1,China,27.8
+554,New Zealand,2020,exports,2,United States,11.6
+554,New Zealand,2020,exports,3,Gabon,13.6
+554,New Zealand,2020,imports,1,China,22.7
+554,New Zealand,2020,imports,2,Australia,12.0
+554,New Zealand,2020,imports,3,United States,9.8
+554,New Zealand,2024,exports,1,China,25.1
+554,New Zealand,2024,exports,2,United States,12.7
+554,New Zealand,2024,exports,3,Gabon,12.5
+554,New Zealand,2024,imports,1,China,21.4
+554,New Zealand,2024,imports,2,Australia,11.0
+554,New Zealand,2024,imports,3,United States,10.3
+558,Nicaragua,2015,exports,1,United States,53.7
+558,Nicaragua,2015,exports,2,Mexico,11.1
+558,Nicaragua,2015,exports,3,El Salvador,5.6
+558,Nicaragua,2015,imports,1,United States,18.0
+558,Nicaragua,2015,imports,2,China,14.4
+558,Nicaragua,2015,imports,3,Mexico,10.4
+558,Nicaragua,2020,exports,1,United States,59.6
+558,Nicaragua,2020,exports,2,Mexico,7.8
+558,Nicaragua,2020,exports,3,El Salvador,6.5
+558,Nicaragua,2020,imports,1,United States,25.3
+558,Nicaragua,2020,imports,2,China,13.8
+558,Nicaragua,2020,imports,3,Mexico,10.6
+558,Nicaragua,2024,exports,1,United States,50.2
+558,Nicaragua,2024,exports,2,Mexico,13.7
+558,Nicaragua,2024,exports,3,El Salvador,6.5
+558,Nicaragua,2024,imports,1,United States,24.8
+558,Nicaragua,2024,imports,2,China,12.7
+558,Nicaragua,2024,imports,3,Mexico,9.4
+562,Niger,2015,exports,1,France,38.4
+562,Niger,2015,exports,2,United Arab Emirates,0.2
+562,Niger,2015,exports,3,Mali,2.9
+562,Niger,2015,imports,1,China,23.0
+562,Niger,2015,imports,2,France,31.7
+562,Niger,2015,imports,3,India,3.8
+562,Niger,2020,exports,1,France,20.5
+562,Niger,2020,exports,2,United Arab Emirates,9.1
+562,Niger,2020,exports,3,Mali,15.3
+562,Niger,2020,imports,1,China,19.2
+562,Niger,2020,imports,2,France,19.2
+562,Niger,2020,imports,3,India,4.3
+562,Niger,2024,exports,1,France,44.3
+562,Niger,2024,exports,2,United Arab Emirates,21.3
+562,Niger,2024,exports,3,Mali,10.9
+562,Niger,2024,imports,1,China,27.3
+562,Niger,2024,imports,2,France,24.2
+562,Niger,2024,imports,3,India,11.6
+566,Nigeria,2015,exports,1,Spain,9.5
+566,Nigeria,2015,exports,2,France,5.3
+566,Nigeria,2015,exports,3,Netherlands,11.8
+566,Nigeria,2015,imports,1,China,23.3
+566,Nigeria,2015,imports,2,Belgium,7.5
+566,Nigeria,2015,imports,3,India,6.1
+566,Nigeria,2020,exports,1,Spain,10.9
+566,Nigeria,2020,exports,2,France,4.5
+566,Nigeria,2020,exports,3,Netherlands,8.6
+566,Nigeria,2020,imports,1,China,28.8
+566,Nigeria,2020,imports,2,Belgium,3.8
+566,Nigeria,2020,imports,3,India,7.9
+566,Nigeria,2024,exports,1,Spain,10.5
+566,Nigeria,2024,exports,2,France,9.0
+566,Nigeria,2024,exports,3,Netherlands,9.0
+566,Nigeria,2024,imports,1,China,23.3
+566,Nigeria,2024,imports,2,Belgium,11.6
+566,Nigeria,2024,imports,3,India,10.2
+807,North Macedonia,2015,exports,1,Germany,44.0
+807,North Macedonia,2015,exports,2,Serbia,8.9
+807,North Macedonia,2015,exports,3,Bulgaria,6.0
+807,North Macedonia,2015,imports,1,United Kingdom,9.7
+807,North Macedonia,2015,imports,2,Germany,12.6
+807,North Macedonia,2015,imports,3,China,6.1
+807,North Macedonia,2020,exports,1,Germany,47.2
+807,North Macedonia,2020,exports,2,Serbia,7.9
+807,North Macedonia,2020,exports,3,Bulgaria,4.7
+807,North Macedonia,2020,imports,1,United Kingdom,15.6
+807,North Macedonia,2020,imports,2,Germany,10.7
+807,North Macedonia,2020,imports,3,China,6.9
+807,North Macedonia,2024,exports,1,Germany,39.8
+807,North Macedonia,2024,exports,2,Serbia,10.5
+807,North Macedonia,2024,exports,3,Bulgaria,5.6
+807,North Macedonia,2024,imports,1,United Kingdom,11.1
+807,North Macedonia,2024,imports,2,Germany,10.9
+807,North Macedonia,2024,imports,3,China,9.7
+578,Norway,2015,exports,1,United Kingdom,20.1
+578,Norway,2015,exports,2,Germany,17.8
+578,Norway,2015,exports,3,Netherlands,11.0
+578,Norway,2015,imports,1,China,10.5
+578,Norway,2015,imports,2,Sweden,11.5
+578,Norway,2015,imports,3,Germany,11.3
+578,Norway,2020,exports,1,United Kingdom,17.3
+578,Norway,2020,exports,2,Germany,12.0
+578,Norway,2020,exports,3,Netherlands,9.9
+578,Norway,2020,imports,1,China,11.9
+578,Norway,2020,imports,2,Sweden,10.6
+578,Norway,2020,imports,3,Germany,11.3
+578,Norway,2024,exports,1,United Kingdom,19.0
+578,Norway,2024,exports,2,Germany,15.6
+578,Norway,2024,exports,3,Netherlands,10.6
+578,Norway,2024,imports,1,China,11.9
+578,Norway,2024,imports,2,Sweden,10.4
+578,Norway,2024,imports,3,Germany,10.4
+512,Oman,2015,exports,1,Areas nes,3.4
+512,Oman,2015,exports,2,United Arab Emirates,11.8
+512,Oman,2015,exports,3,Saudi Arabia,5.0
+512,Oman,2015,imports,1,United Arab Emirates,13.6
+512,Oman,2015,imports,2,Saudi Arabia,4.6
+512,Oman,2015,imports,3,China,12.9
+512,Oman,2020,exports,1,Areas nes,0.0
+512,Oman,2020,exports,2,United Arab Emirates,11.1
+512,Oman,2020,exports,3,Saudi Arabia,4.8
+512,Oman,2020,imports,1,United Arab Emirates,36.0
+512,Oman,2020,imports,2,Saudi Arabia,5.0
+512,Oman,2020,imports,3,China,7.0
+512,Oman,2024,exports,1,Areas nes,60.7
+512,Oman,2024,exports,2,United Arab Emirates,6.4
+512,Oman,2024,exports,3,Saudi Arabia,5.0
+512,Oman,2024,imports,1,United Arab Emirates,26.3
+512,Oman,2024,imports,2,Saudi Arabia,12.4
+512,Oman,2024,imports,3,China,7.3
+586,Pakistan,2015,exports,1,United States,16.6
+586,Pakistan,2015,exports,2,China,8.8
+586,Pakistan,2015,exports,3,United Kingdom,7.1
+586,Pakistan,2015,imports,1,China,25.0
+586,Pakistan,2015,imports,2,United Arab Emirates,13.0
+586,Pakistan,2015,imports,3,Saudi Arabia,6.8
+586,Pakistan,2020,exports,1,United States,18.6
+586,Pakistan,2020,exports,2,China,8.4
+586,Pakistan,2020,exports,3,United Kingdom,7.8
+586,Pakistan,2020,imports,1,China,27.3
+586,Pakistan,2020,imports,2,United Arab Emirates,9.8
+586,Pakistan,2020,imports,3,Saudi Arabia,4.1
+586,Pakistan,2024,exports,1,United States,17.3
+586,Pakistan,2024,exports,2,China,7.3
+586,Pakistan,2024,exports,3,United Kingdom,6.6
+586,Pakistan,2024,imports,1,China,28.3
+586,Pakistan,2024,imports,2,United Arab Emirates,10.0
+586,Pakistan,2024,imports,3,Saudi Arabia,7.9
+585,Palau,2015,exports,3,United States,36.1
+585,Palau,2015,imports,1,China,5.5
+585,Palau,2015,imports,2,Italy,0.2
+585,Palau,2015,imports,3,Türkiye,0.0
+585,Palau,2020,exports,3,United States,3.3
+585,Palau,2020,imports,1,China,24.9
+585,Palau,2020,imports,2,Italy,7.1
+585,Palau,2020,imports,3,Türkiye,1.9
+585,Palau,2024,exports,1,Italy,47.6
+585,Palau,2024,exports,2,Greece,26.4
+585,Palau,2024,exports,3,United States,11.2
+585,Palau,2024,imports,1,China,21.2
+585,Palau,2024,imports,2,Italy,14.3
+585,Palau,2024,imports,3,Türkiye,12.6
+591,Panama,2015,exports,1,United States,21.7
+591,Panama,2015,exports,2,Netherlands,1.1
+591,Panama,2015,exports,3,"Other Asia, nes",0.2
+591,Panama,2015,imports,1,Free Zones,6.1
+591,Panama,2015,imports,2,United States,20.5
+591,Panama,2015,imports,3,China,22.4
+591,Panama,2020,exports,1,United States,10.5
+591,Panama,2020,exports,2,Netherlands,3.5
+591,Panama,2020,exports,3,"Other Asia, nes",0.2
+591,Panama,2020,imports,1,Free Zones,7.3
+591,Panama,2020,imports,2,United States,19.5
+591,Panama,2020,imports,3,China,24.5
+591,Panama,2024,exports,1,United States,20.2
+591,Panama,2024,exports,2,Netherlands,12.1
+591,Panama,2024,exports,3,"Other Asia, nes",9.7
+591,Panama,2024,imports,1,Free Zones,23.3
+591,Panama,2024,imports,2,United States,17.3
+591,Panama,2024,imports,3,China,15.4
+598,Papua New Guinea,2015,exports,1,China,18.4
+598,Papua New Guinea,2015,exports,2,Japan,28.0
+598,Papua New Guinea,2015,exports,3,Australia,23.3
+598,Papua New Guinea,2015,imports,1,Australia,25.2
+598,Papua New Guinea,2015,imports,2,China,20.1
+598,Papua New Guinea,2015,imports,3,Singapore,12.0
+598,Papua New Guinea,2020,exports,1,China,17.9
+598,Papua New Guinea,2020,exports,2,Japan,21.8
+598,Papua New Guinea,2020,exports,3,Australia,21.8
+598,Papua New Guinea,2020,imports,1,Australia,36.0
+598,Papua New Guinea,2020,imports,2,China,17.9
+598,Papua New Guinea,2020,imports,3,Singapore,14.4
+598,Papua New Guinea,2024,exports,1,China,25.5
+598,Papua New Guinea,2024,exports,2,Japan,23.7
+598,Papua New Guinea,2024,exports,3,Australia,21.0
+598,Papua New Guinea,2024,imports,1,Australia,30.5
+598,Papua New Guinea,2024,imports,2,China,24.4
+598,Papua New Guinea,2024,imports,3,Singapore,15.6
+600,Paraguay,2015,exports,1,Brazil,31.5
+600,Paraguay,2015,exports,2,Argentina,6.9
+600,Paraguay,2015,exports,3,Chile,7.1
+600,Paraguay,2015,imports,1,China,23.5
+600,Paraguay,2015,imports,2,Brazil,24.8
+600,Paraguay,2015,imports,3,Argentina,10.8
+600,Paraguay,2020,exports,1,Brazil,35.5
+600,Paraguay,2020,exports,2,Argentina,24.9
+600,Paraguay,2020,exports,3,Chile,9.0
+600,Paraguay,2020,imports,1,China,29.5
+600,Paraguay,2020,imports,2,Brazil,23.4
+600,Paraguay,2020,imports,3,Argentina,9.3
+600,Paraguay,2024,exports,1,Brazil,32.4
+600,Paraguay,2024,exports,2,Argentina,30.8
+600,Paraguay,2024,exports,3,Chile,8.5
+600,Paraguay,2024,imports,1,China,31.9
+600,Paraguay,2024,imports,2,Brazil,24.2
+600,Paraguay,2024,imports,3,Argentina,7.1
+604,Peru,2015,exports,1,China,22.0
+604,Peru,2015,exports,2,United States,15.1
+604,Peru,2015,exports,3,Canada,7.2
+604,Peru,2015,imports,1,China,22.8
+604,Peru,2015,imports,2,United States,20.6
+604,Peru,2015,imports,3,Brazil,5.1
+604,Peru,2020,exports,1,China,28.3
+604,Peru,2020,exports,2,United States,16.1
+604,Peru,2020,exports,3,Canada,6.2
+604,Peru,2020,imports,1,China,28.6
+604,Peru,2020,imports,2,United States,18.5
+604,Peru,2020,imports,3,Brazil,5.5
+604,Peru,2024,exports,1,China,36.0
+604,Peru,2024,exports,2,United States,14.3
+604,Peru,2024,exports,3,Canada,4.6
+604,Peru,2024,imports,1,China,25.8
+604,Peru,2024,imports,2,United States,21.1
+604,Peru,2024,imports,3,Brazil,7.2
+608,Philippines,2015,exports,1,United States,15.0
+608,Philippines,2015,exports,2,Japan,21.1
+608,Philippines,2015,exports,3,"China, Hong Kong SAR",10.6
+608,Philippines,2015,imports,1,China,16.4
+608,Philippines,2015,imports,2,Indonesia,4.4
+608,Philippines,2015,imports,3,Japan,9.6
+608,Philippines,2020,exports,1,United States,15.4
+608,Philippines,2020,exports,2,Japan,15.4
+608,Philippines,2020,exports,3,"China, Hong Kong SAR",14.1
+608,Philippines,2020,imports,1,China,23.2
+608,Philippines,2020,imports,2,Indonesia,6.4
+608,Philippines,2020,imports,3,Japan,9.7
+608,Philippines,2024,exports,1,United States,16.6
+608,Philippines,2024,exports,2,Japan,14.1
+608,Philippines,2024,exports,3,"China, Hong Kong SAR",13.2
+608,Philippines,2024,imports,1,China,25.6
+608,Philippines,2024,imports,2,Indonesia,8.4
+608,Philippines,2024,imports,3,Japan,7.9
+616,Poland,2015,exports,1,Germany,26.9
+616,Poland,2015,exports,2,Czechia,6.5
+616,Poland,2015,exports,3,France,5.6
+616,Poland,2015,imports,1,Germany,22.6
+616,Poland,2015,imports,2,China,11.8
+616,Poland,2015,imports,3,United States,2.7
+616,Poland,2020,exports,1,Germany,29.0
+616,Poland,2020,exports,2,Czechia,5.9
+616,Poland,2020,exports,3,France,5.6
+616,Poland,2020,imports,1,Germany,21.9
+616,Poland,2020,imports,2,China,14.4
+616,Poland,2020,imports,3,United States,3.1
+616,Poland,2024,exports,1,Germany,27.1
+616,Poland,2024,exports,2,Czechia,6.1
+616,Poland,2024,exports,3,France,6.1
+616,Poland,2024,imports,1,Germany,19.2
+616,Poland,2024,imports,2,China,14.5
+616,Poland,2024,imports,3,United States,5.0
+620,Portugal,2015,exports,1,Spain,24.8
+620,Portugal,2015,exports,2,Germany,11.9
+620,Portugal,2015,exports,3,France,12.2
+620,Portugal,2015,imports,1,Spain,33.0
+620,Portugal,2015,imports,2,Germany,12.8
+620,Portugal,2015,imports,3,France,7.4
+620,Portugal,2020,exports,1,Spain,25.4
+620,Portugal,2020,exports,2,Germany,11.9
+620,Portugal,2020,exports,3,France,13.6
+620,Portugal,2020,imports,1,Spain,32.4
+620,Portugal,2020,imports,2,Germany,13.3
+620,Portugal,2020,imports,3,France,7.5
+620,Portugal,2024,exports,1,Spain,26.0
+620,Portugal,2024,exports,2,Germany,12.3
+620,Portugal,2024,exports,3,France,12.1
+620,Portugal,2024,imports,1,Spain,33.1
+620,Portugal,2024,imports,2,Germany,11.3
+620,Portugal,2024,imports,3,France,7.2
+634,Qatar,2015,exports,1,China,6.8
+634,Qatar,2015,exports,2,Republic of Korea,17.7
+634,Qatar,2015,exports,3,India,11.9
+634,Qatar,2015,imports,1,United States,12.9
+634,Qatar,2015,imports,2,China,11.4
+634,Qatar,2015,imports,3,Italy,4.3
+634,Qatar,2020,exports,1,China,15.2
+634,Qatar,2020,exports,2,Republic of Korea,12.9
+634,Qatar,2020,exports,3,India,14.3
+634,Qatar,2020,imports,1,United States,17.9
+634,Qatar,2020,imports,2,China,14.9
+634,Qatar,2020,imports,3,Italy,4.5
+634,Qatar,2024,exports,1,China,19.7
+634,Qatar,2024,exports,2,Republic of Korea,12.6
+634,Qatar,2024,exports,3,India,12.0
+634,Qatar,2024,imports,1,United States,15.9
+634,Qatar,2024,imports,2,China,14.5
+634,Qatar,2024,imports,3,Italy,6.4
+410,Republic of Korea,2015,exports,1,China,26.0
+410,Republic of Korea,2015,exports,2,Papua New Guinea,13.3
+410,Republic of Korea,2015,exports,3,Viet Nam,5.3
+410,Republic of Korea,2015,imports,1,China,20.7
+410,Republic of Korea,2015,imports,2,Papua New Guinea,10.1
+410,Republic of Korea,2015,imports,3,Japan,10.5
+410,Republic of Korea,2020,exports,1,China,25.9
+410,Republic of Korea,2020,exports,2,Papua New Guinea,14.5
+410,Republic of Korea,2020,exports,3,Viet Nam,9.5
+410,Republic of Korea,2020,imports,1,China,23.3
+410,Republic of Korea,2020,imports,2,Papua New Guinea,12.4
+410,Republic of Korea,2020,imports,3,Japan,9.8
+410,Republic of Korea,2024,exports,1,China,19.5
+410,Republic of Korea,2024,exports,2,Papua New Guinea,18.8
+410,Republic of Korea,2024,exports,3,Viet Nam,8.5
+410,Republic of Korea,2024,imports,1,China,22.1
+410,Republic of Korea,2024,imports,2,Papua New Guinea,11.5
+410,Republic of Korea,2024,imports,3,Japan,7.5
+498,Republic of Moldova,2015,exports,1,Romania,22.7
+498,Republic of Moldova,2015,exports,2,Ukraine,2.3
+498,Republic of Moldova,2015,exports,3,Italy,10.0
+498,Republic of Moldova,2015,imports,1,Romania,13.9
+498,Republic of Moldova,2015,imports,2,China,9.2
+498,Republic of Moldova,2015,imports,3,Ukraine,9.3
+498,Republic of Moldova,2020,exports,1,Romania,28.7
+498,Republic of Moldova,2020,exports,2,Ukraine,2.8
+498,Republic of Moldova,2020,exports,3,Italy,8.7
+498,Republic of Moldova,2020,imports,1,Romania,11.7
+498,Republic of Moldova,2020,imports,2,China,11.9
+498,Republic of Moldova,2020,imports,3,Ukraine,9.7
+498,Republic of Moldova,2024,exports,1,Romania,32.6
+498,Republic of Moldova,2024,exports,2,Ukraine,9.3
+498,Republic of Moldova,2024,exports,3,Italy,6.7
+498,Republic of Moldova,2024,imports,1,Romania,16.9
+498,Republic of Moldova,2024,imports,2,China,13.8
+498,Republic of Moldova,2024,imports,3,Ukraine,12.1
+642,Romania,2015,exports,1,Germany,19.8
+642,Romania,2015,exports,2,Italy,12.4
+642,Romania,2015,exports,3,France,6.8
+642,Romania,2015,imports,1,Germany,19.8
+642,Romania,2015,imports,2,Italy,10.9
+642,Romania,2015,imports,3,Hungary,7.9
+642,Romania,2020,exports,1,Germany,22.8
+642,Romania,2020,exports,2,Italy,10.7
+642,Romania,2020,exports,3,France,6.7
+642,Romania,2020,imports,1,Germany,20.8
+642,Romania,2020,imports,2,Italy,8.9
+642,Romania,2020,imports,3,Hungary,7.3
+642,Romania,2024,exports,1,Germany,20.5
+642,Romania,2024,exports,2,Italy,9.5
+642,Romania,2024,exports,3,France,6.3
+642,Romania,2024,imports,1,Germany,18.7
+642,Romania,2024,imports,2,Italy,8.3
+642,Romania,2024,imports,3,Hungary,6.6
+643,Russian Federation,2015,exports,1,China,8.3
+643,Russian Federation,2015,exports,2,India,1.3
+643,Russian Federation,2015,exports,3,Türkiye,4.9
+643,Russian Federation,2015,imports,1,China,19.3
+643,Russian Federation,2015,imports,2,Kazakhstan,2.4
+643,Russian Federation,2015,imports,3,Türkiye,2.2
+643,Russian Federation,2020,exports,1,China,14.6
+643,Russian Federation,2020,exports,2,India,1.7
+643,Russian Federation,2020,exports,3,Türkiye,4.7
+643,Russian Federation,2020,imports,1,China,23.7
+643,Russian Federation,2020,imports,2,Kazakhstan,2.2
+643,Russian Federation,2020,imports,3,Türkiye,2.2
+643,Russian Federation,2024,exports,1,China,31.3
+643,Russian Federation,2024,exports,2,India,16.2
+643,Russian Federation,2024,exports,3,Türkiye,10.6
+643,Russian Federation,2024,imports,1,China,54.4
+643,Russian Federation,2024,imports,2,Kazakhstan,4.6
+643,Russian Federation,2024,imports,3,Türkiye,4.0
+646,Rwanda,2015,exports,1,Dem. Rep. of Congo,32.6
+646,Rwanda,2015,exports,2,United Arab Emirates,4.7
+646,Rwanda,2015,exports,3,China,2.6
+646,Rwanda,2015,imports,1,China,16.8
+646,Rwanda,2015,imports,2,United Rep. Tanzania,2.9
+646,Rwanda,2015,imports,3,Kenya,6.0
+646,Rwanda,2020,exports,1,Dem. Rep. of Congo,27.4
+646,Rwanda,2020,exports,2,United Arab Emirates,45.4
+646,Rwanda,2020,exports,3,China,0.6
+646,Rwanda,2020,imports,1,China,18.9
+646,Rwanda,2020,imports,2,United Rep. Tanzania,13.2
+646,Rwanda,2020,imports,3,Kenya,10.7
+646,Rwanda,2024,exports,1,Dem. Rep. of Congo,38.0
+646,Rwanda,2024,exports,2,United Arab Emirates,29.2
+646,Rwanda,2024,exports,3,China,4.8
+646,Rwanda,2024,imports,1,China,21.0
+646,Rwanda,2024,imports,2,United Rep. Tanzania,11.1
+646,Rwanda,2024,imports,3,Kenya,9.3
+659,Saint Kitts and Nevis,2015,exports,1,United States,65.9
+659,Saint Kitts and Nevis,2015,exports,3,Saint Vincent and the Grenadines,1.4
+659,Saint Kitts and Nevis,2015,imports,1,United States,60.0
+659,Saint Kitts and Nevis,2015,imports,2,Trinidad and Tobago,7.3
+659,Saint Kitts and Nevis,2015,imports,3,China,2.5
+659,Saint Kitts and Nevis,2020,exports,1,United States,72.2
+659,Saint Kitts and Nevis,2020,exports,3,Saint Vincent and the Grenadines,2.8
+659,Saint Kitts and Nevis,2020,imports,1,United States,44.7
+659,Saint Kitts and Nevis,2020,imports,2,Trinidad and Tobago,7.0
+659,Saint Kitts and Nevis,2020,imports,3,China,4.4
+659,Saint Kitts and Nevis,2024,exports,1,United States,36.6
+659,Saint Kitts and Nevis,2024,exports,2,Malta,27.6
+659,Saint Kitts and Nevis,2024,exports,3,Saint Vincent and the Grenadines,6.7
+659,Saint Kitts and Nevis,2024,imports,1,United States,41.6
+659,Saint Kitts and Nevis,2024,imports,2,Trinidad and Tobago,11.3
+659,Saint Kitts and Nevis,2024,imports,3,China,7.0
+662,Saint Lucia,2015,exports,1,Suriname,0.1
+662,Saint Lucia,2015,exports,2,Guyana,1.5
+662,Saint Lucia,2015,exports,3,United States,47.5
+662,Saint Lucia,2015,imports,1,United States,44.4
+662,Saint Lucia,2015,imports,2,Guyana,1.3
+662,Saint Lucia,2015,imports,3,Trinidad and Tobago,19.7
+662,Saint Lucia,2020,exports,1,Suriname,0.4
+662,Saint Lucia,2020,exports,2,Guyana,6.9
+662,Saint Lucia,2020,exports,3,United States,28.0
+662,Saint Lucia,2020,imports,1,United States,39.8
+662,Saint Lucia,2020,imports,2,Guyana,0.9
+662,Saint Lucia,2020,imports,3,Trinidad and Tobago,14.1
+662,Saint Lucia,2024,exports,1,Suriname,40.2
+662,Saint Lucia,2024,exports,2,Guyana,11.5
+662,Saint Lucia,2024,exports,3,United States,7.0
+662,Saint Lucia,2024,imports,1,United States,63.9
+662,Saint Lucia,2024,imports,2,Guyana,9.5
+662,Saint Lucia,2024,imports,3,Trinidad and Tobago,4.4
+670,Saint Vincent & Grenadines,2015,exports,1,Barbados,16.5
+670,Saint Vincent & Grenadines,2015,exports,2,Saint Lucia,16.7
+670,Saint Vincent & Grenadines,2015,exports,3,Saint Kitts and Nevis,7.0
+670,Saint Vincent & Grenadines,2015,imports,1,United States,38.0
+670,Saint Vincent & Grenadines,2015,imports,2,Trinidad and Tobago,17.6
+670,Saint Vincent & Grenadines,2015,imports,3,United Kingdom,7.1
+670,Saint Vincent & Grenadines,2020,exports,1,Barbados,11.7
+670,Saint Vincent & Grenadines,2020,exports,2,Saint Lucia,9.9
+670,Saint Vincent & Grenadines,2020,exports,3,Saint Kitts and Nevis,5.5
+670,Saint Vincent & Grenadines,2020,imports,1,United States,43.4
+670,Saint Vincent & Grenadines,2020,imports,2,Trinidad and Tobago,11.1
+670,Saint Vincent & Grenadines,2020,imports,3,United Kingdom,8.2
+670,Saint Vincent & Grenadines,2024,exports,1,Barbados,20.8
+670,Saint Vincent & Grenadines,2024,exports,2,Saint Lucia,15.1
+670,Saint Vincent & Grenadines,2024,exports,3,Saint Kitts and Nevis,13.3
+670,Saint Vincent & Grenadines,2024,imports,1,United States,44.6
+670,Saint Vincent & Grenadines,2024,imports,2,Trinidad and Tobago,8.8
+670,Saint Vincent & Grenadines,2024,imports,3,United Kingdom,7.5
+882,Samoa,2015,exports,1,New Zealand,15.0
+882,Samoa,2015,exports,2,American Samoa,18.3
+882,Samoa,2015,exports,3,Australia,42.1
+882,Samoa,2015,imports,1,Singapore,15.5
+882,Samoa,2015,imports,2,New Zealand,26.0
+882,Samoa,2015,imports,3,China,14.8
+882,Samoa,2020,exports,1,New Zealand,23.3
+882,Samoa,2020,exports,2,American Samoa,21.1
+882,Samoa,2020,exports,3,Australia,8.6
+882,Samoa,2020,imports,1,Singapore,16.0
+882,Samoa,2020,imports,2,New Zealand,23.2
+882,Samoa,2020,imports,3,China,13.5
+882,Samoa,2024,exports,1,New Zealand,20.9
+882,Samoa,2024,exports,2,American Samoa,19.7
+882,Samoa,2024,exports,3,Australia,13.0
+882,Samoa,2024,imports,1,Singapore,23.2
+882,Samoa,2024,imports,2,New Zealand,21.2
+882,Samoa,2024,imports,3,China,12.6
+678,Sao Tome and Principe,2015,exports,1,Netherlands,36.1
+678,Sao Tome and Principe,2015,exports,2,Belgium,24.6
+678,Sao Tome and Principe,2015,exports,3,Portugal,5.1
+678,Sao Tome and Principe,2015,imports,1,Portugal,58.6
+678,Sao Tome and Principe,2015,imports,2,Togo,0.3
+678,Sao Tome and Principe,2015,imports,3,Angola,21.0
+678,Sao Tome and Principe,2020,exports,1,Netherlands,46.8
+678,Sao Tome and Principe,2020,exports,2,Belgium,16.2
+678,Sao Tome and Principe,2020,exports,3,Portugal,10.4
+678,Sao Tome and Principe,2020,imports,1,Portugal,52.5
+678,Sao Tome and Principe,2020,imports,2,Togo,7.8
+678,Sao Tome and Principe,2020,imports,3,Angola,11.0
+678,Sao Tome and Principe,2024,exports,1,Netherlands,60.3
+678,Sao Tome and Principe,2024,exports,2,Belgium,20.7
+678,Sao Tome and Principe,2024,exports,3,Portugal,4.7
+678,Sao Tome and Principe,2024,imports,1,Portugal,36.2
+678,Sao Tome and Principe,2024,imports,2,Togo,15.6
+678,Sao Tome and Principe,2024,imports,3,Angola,13.7
+682,Saudi Arabia,2015,exports,1,China,2.8
+682,Saudi Arabia,2015,exports,2,Japan,0.3
+682,Saudi Arabia,2015,exports,3,India,1.6
+682,Saudi Arabia,2015,imports,1,China,14.1
+682,Saudi Arabia,2015,imports,2,United States,13.7
+682,Saudi Arabia,2015,imports,3,United Arab Emirates,5.1
+682,Saudi Arabia,2020,exports,1,China,20.0
+682,Saudi Arabia,2020,exports,2,Japan,9.7
+682,Saudi Arabia,2020,exports,3,India,9.7
+682,Saudi Arabia,2020,imports,1,China,19.6
+682,Saudi Arabia,2020,imports,2,United States,10.7
+682,Saudi Arabia,2020,imports,3,United Arab Emirates,6.6
+682,Saudi Arabia,2024,exports,1,China,16.6
+682,Saudi Arabia,2024,exports,2,Japan,10.2
+682,Saudi Arabia,2024,exports,3,India,9.4
+682,Saudi Arabia,2024,imports,1,China,20.9
+682,Saudi Arabia,2024,imports,2,United States,9.1
+682,Saudi Arabia,2024,imports,3,United Arab Emirates,6.4
+686,Senegal,2015,exports,1,Mali,17.0
+686,Senegal,2015,exports,2,Switzerland,8.6
+686,Senegal,2015,exports,3,India,5.4
+686,Senegal,2015,imports,1,France,16.4
+686,Senegal,2015,imports,2,China,9.7
+686,Senegal,2015,imports,3,Nigeria,8.1
+686,Senegal,2020,exports,1,Mali,21.0
+686,Senegal,2020,exports,2,Switzerland,12.4
+686,Senegal,2020,exports,3,India,7.6
+686,Senegal,2020,imports,1,France,15.7
+686,Senegal,2020,imports,2,China,9.2
+686,Senegal,2020,imports,3,Nigeria,5.7
+686,Senegal,2024,exports,1,Mali,22.9
+686,Senegal,2024,exports,2,Switzerland,12.1
+686,Senegal,2024,exports,3,India,10.2
+686,Senegal,2024,imports,1,France,12.1
+686,Senegal,2024,imports,2,China,10.9
+686,Senegal,2024,imports,3,Nigeria,8.6
+688,Serbia,2015,exports,1,Germany,12.5
+688,Serbia,2015,exports,2,Bosnia Herzegovina,8.8
+688,Serbia,2015,exports,3,Italy,16.2
+688,Serbia,2015,imports,1,Germany,12.4
+688,Serbia,2015,imports,2,China,8.5
+688,Serbia,2015,imports,3,Italy,10.6
+688,Serbia,2020,exports,1,Germany,12.9
+688,Serbia,2020,exports,2,Bosnia Herzegovina,7.1
+688,Serbia,2020,exports,3,Italy,8.4
+688,Serbia,2020,imports,1,Germany,13.6
+688,Serbia,2020,imports,2,China,12.5
+688,Serbia,2020,imports,3,Italy,8.4
+688,Serbia,2024,exports,1,Germany,15.1
+688,Serbia,2024,exports,2,Bosnia Herzegovina,6.9
+688,Serbia,2024,exports,3,Italy,6.2
+688,Serbia,2024,imports,1,Germany,13.1
+688,Serbia,2024,imports,2,China,12.2
+688,Serbia,2024,imports,3,Italy,7.3
+690,Seychelles,2015,exports,1,United Arab Emirates,30.2
+690,Seychelles,2015,exports,2,France,19.8
+690,Seychelles,2015,exports,3,United Kingdom,17.7
+690,Seychelles,2015,imports,1,United Arab Emirates,26.0
+690,Seychelles,2015,imports,2,Spain,8.2
+690,Seychelles,2015,imports,3,France,8.0
+690,Seychelles,2020,exports,1,United Arab Emirates,11.8
+690,Seychelles,2020,exports,2,France,15.4
+690,Seychelles,2020,exports,3,United Kingdom,9.0
+690,Seychelles,2020,imports,1,United Arab Emirates,13.3
+690,Seychelles,2020,imports,2,Spain,4.5
+690,Seychelles,2020,imports,3,France,5.8
+690,Seychelles,2024,exports,1,United Arab Emirates,35.9
+690,Seychelles,2024,exports,2,France,23.1
+690,Seychelles,2024,exports,3,United Kingdom,10.1
+690,Seychelles,2024,imports,1,United Arab Emirates,34.4
+690,Seychelles,2024,imports,2,Spain,9.0
+690,Seychelles,2024,imports,3,France,7.3
+694,Sierra Leone,2015,exports,1,China,1.2
+694,Sierra Leone,2015,exports,2,Netherlands,16.9
+694,Sierra Leone,2015,exports,3,India,1.7
+694,Sierra Leone,2015,imports,1,China,11.5
+694,Sierra Leone,2015,imports,2,India,2.6
+694,Sierra Leone,2015,imports,3,United States,2.6
+694,Sierra Leone,2020,exports,1,China,27.1
+694,Sierra Leone,2020,exports,2,Netherlands,8.8
+694,Sierra Leone,2020,exports,3,India,2.3
+694,Sierra Leone,2020,imports,1,China,31.0
+694,Sierra Leone,2020,imports,2,India,10.4
+694,Sierra Leone,2020,imports,3,United States,6.2
+694,Sierra Leone,2024,exports,1,China,60.0
+694,Sierra Leone,2024,exports,2,Netherlands,9.0
+694,Sierra Leone,2024,exports,3,India,5.7
+694,Sierra Leone,2024,imports,1,China,36.5
+694,Sierra Leone,2024,imports,2,India,15.3
+694,Sierra Leone,2024,imports,3,United States,5.4
+702,Singapore,2015,exports,1,China,14.4
+702,Singapore,2015,exports,2,"China, Hong Kong SAR",11.5
+702,Singapore,2015,exports,3,United States,6.5
+702,Singapore,2015,imports,1,China,13.7
+702,Singapore,2015,imports,2,United States,10.9
+702,Singapore,2015,imports,3,"Other Asia, nes",8.0
+702,Singapore,2020,exports,1,China,13.7
+702,Singapore,2020,exports,2,"China, Hong Kong SAR",12.4
+702,Singapore,2020,exports,3,United States,10.8
+702,Singapore,2020,imports,1,China,14.4
+702,Singapore,2020,imports,2,United States,10.7
+702,Singapore,2020,imports,3,"Other Asia, nes",11.0
+702,Singapore,2024,exports,1,China,13.8
+702,Singapore,2024,exports,2,"China, Hong Kong SAR",10.6
+702,Singapore,2024,exports,3,United States,9.5
+702,Singapore,2024,imports,1,China,13.9
+702,Singapore,2024,imports,2,United States,12.3
+702,Singapore,2024,imports,3,"Other Asia, nes",11.5
+703,Slovakia,2015,exports,1,Germany,22.3
+703,Slovakia,2015,exports,2,Czechia,12.2
+703,Slovakia,2015,exports,3,Hungary,6.1
+703,Slovakia,2015,imports,1,Germany,15.8
+703,Slovakia,2015,imports,2,"Other Europe, nes",8.7
+703,Slovakia,2015,imports,3,Czechia,11.1
+703,Slovakia,2020,exports,1,Germany,22.6
+703,Slovakia,2020,exports,2,Czechia,10.4
+703,Slovakia,2020,exports,3,Hungary,6.3
+703,Slovakia,2020,imports,1,Germany,18.7
+703,Slovakia,2020,imports,2,"Other Europe, nes",7.8
+703,Slovakia,2020,imports,3,Czechia,10.1
+703,Slovakia,2024,exports,1,Germany,21.3
+703,Slovakia,2024,exports,2,Czechia,12.2
+703,Slovakia,2024,exports,3,Hungary,7.7
+703,Slovakia,2024,imports,1,Germany,14.7
+703,Slovakia,2024,imports,2,"Other Europe, nes",10.1
+703,Slovakia,2024,imports,3,Czechia,9.7
+705,Slovenia,2015,exports,1,Switzerland,1.7
+705,Slovenia,2015,exports,2,Germany,20.8
+705,Slovenia,2015,exports,3,Croatia,7.8
+705,Slovenia,2015,imports,1,Switzerland,1.9
+705,Slovenia,2015,imports,2,China,6.5
+705,Slovenia,2015,imports,3,Germany,17.3
+705,Slovenia,2020,exports,1,Switzerland,12.1
+705,Slovenia,2020,exports,2,Germany,18.1
+705,Slovenia,2020,exports,3,Croatia,8.0
+705,Slovenia,2020,imports,1,Switzerland,12.7
+705,Slovenia,2020,imports,2,China,7.3
+705,Slovenia,2020,imports,3,Germany,14.1
+705,Slovenia,2024,exports,1,Switzerland,33.7
+705,Slovenia,2024,exports,2,Germany,11.9
+705,Slovenia,2024,exports,3,Croatia,7.7
+705,Slovenia,2024,imports,1,Switzerland,24.0
+705,Slovenia,2024,imports,2,China,12.2
+705,Slovenia,2024,imports,3,Germany,9.5
+90,Solomon Islands,2015,exports,1,China,58.0
+90,Solomon Islands,2015,exports,2,Australia,1.4
+90,Solomon Islands,2015,exports,3,Italy,6.9
+90,Solomon Islands,2015,imports,1,China,10.5
+90,Solomon Islands,2015,imports,2,Singapore,17.1
+90,Solomon Islands,2015,imports,3,Australia,28.9
+90,Solomon Islands,2020,exports,1,China,64.1
+90,Solomon Islands,2020,exports,2,Australia,1.0
+90,Solomon Islands,2020,exports,3,Italy,9.1
+90,Solomon Islands,2020,imports,1,China,31.4
+90,Solomon Islands,2020,imports,2,Singapore,8.4
+90,Solomon Islands,2020,imports,3,Australia,14.4
+90,Solomon Islands,2024,exports,1,China,58.7
+90,Solomon Islands,2024,exports,2,Australia,13.7
+90,Solomon Islands,2024,exports,3,Italy,11.1
+90,Solomon Islands,2024,imports,1,China,40.1
+90,Solomon Islands,2024,imports,2,Singapore,15.1
+90,Solomon Islands,2024,imports,3,Australia,14.0
+706,Somalia,2015,exports,1,United Arab Emirates,17.6
+706,Somalia,2015,exports,2,Saudi Arabia,45.9
+706,Somalia,2015,exports,3,Oman,20.6
+706,Somalia,2015,imports,1,United Arab Emirates,24.5
+706,Somalia,2015,imports,2,China,13.4
+706,Somalia,2015,imports,3,India,18.8
+706,Somalia,2020,exports,1,United Arab Emirates,30.7
+706,Somalia,2020,exports,2,Saudi Arabia,8.4
+706,Somalia,2020,exports,3,Oman,37.5
+706,Somalia,2020,imports,1,United Arab Emirates,28.7
+706,Somalia,2020,imports,2,China,20.0
+706,Somalia,2020,imports,3,India,12.2
+706,Somalia,2024,exports,1,United Arab Emirates,36.1
+706,Somalia,2024,exports,2,Saudi Arabia,26.8
+706,Somalia,2024,exports,3,Oman,18.3
+706,Somalia,2024,imports,1,United Arab Emirates,30.3
+706,Somalia,2024,imports,2,China,18.8
+706,Somalia,2024,imports,3,India,15.6
+710,South Africa,2015,exports,1,China,12.7
+710,South Africa,2015,exports,2,Areas nes,0.4
+710,South Africa,2015,exports,3,United States,7.7
+710,South Africa,2015,imports,1,China,18.3
+710,South Africa,2015,imports,2,India,4.9
+710,South Africa,2015,imports,3,Germany,11.3
+710,South Africa,2020,exports,1,China,12.2
+710,South Africa,2020,exports,2,Areas nes,0.2
+710,South Africa,2020,exports,3,United States,9.3
+710,South Africa,2020,imports,1,China,20.8
+710,South Africa,2020,imports,2,India,5.2
+710,South Africa,2020,imports,3,Germany,9.1
+710,South Africa,2024,exports,1,China,11.3
+710,South Africa,2024,exports,2,Areas nes,7.6
+710,South Africa,2024,exports,3,United States,7.5
+710,South Africa,2024,imports,1,China,21.5
+710,South Africa,2024,imports,2,India,7.2
+710,South Africa,2024,imports,3,Germany,7.0
+728,South Sudan,2015,exports,1,China,99.7
+728,South Sudan,2015,exports,2,Singapore,0.0
+728,South Sudan,2015,imports,1,Uganda,32.7
+728,South Sudan,2015,imports,2,United Arab Emirates,0.2
+728,South Sudan,2015,imports,3,Kenya,22.0
+728,South Sudan,2020,exports,1,China,79.7
+728,South Sudan,2020,exports,2,Singapore,0.1
+728,South Sudan,2020,exports,3,United Arab Emirates,6.7
+728,South Sudan,2020,imports,1,Uganda,31.8
+728,South Sudan,2020,imports,2,United Arab Emirates,17.2
+728,South Sudan,2020,imports,3,Kenya,19.3
+728,South Sudan,2024,exports,1,China,47.0
+728,South Sudan,2024,exports,2,Singapore,35.0
+728,South Sudan,2024,exports,3,United Arab Emirates,11.7
+728,South Sudan,2024,imports,1,Uganda,36.8
+728,South Sudan,2024,imports,2,United Arab Emirates,22.8
+728,South Sudan,2024,imports,3,Kenya,16.5
+724,Spain,2015,exports,1,France,15.4
+724,Spain,2015,exports,2,Germany,12.0
+724,Spain,2015,exports,3,Italy,7.7
+724,Spain,2015,imports,1,Germany,13.1
+724,Spain,2015,imports,2,China,8.6
+724,Spain,2015,imports,3,France,10.9
+724,Spain,2020,exports,1,France,15.4
+724,Spain,2020,exports,2,Germany,10.8
+724,Spain,2020,exports,3,Italy,7.5
+724,Spain,2020,imports,1,Germany,11.8
+724,Spain,2020,imports,2,China,10.2
+724,Spain,2020,imports,3,France,9.9
+724,Spain,2024,exports,1,France,14.5
+724,Spain,2024,exports,2,Germany,10.0
+724,Spain,2024,exports,3,Italy,8.4
+724,Spain,2024,imports,1,Germany,10.8
+724,Spain,2024,imports,2,China,10.3
+724,Spain,2024,imports,3,France,8.2
+144,Sri Lanka,2015,exports,1,United States,26.8
+144,Sri Lanka,2015,exports,2,United Kingdom,9.8
+144,Sri Lanka,2015,exports,3,India,6.9
+144,Sri Lanka,2015,imports,1,China,19.7
+144,Sri Lanka,2015,imports,2,India,22.5
+144,Sri Lanka,2015,imports,3,United Arab Emirates,5.7
+144,Sri Lanka,2020,exports,1,United States,24.8
+144,Sri Lanka,2020,exports,2,United Kingdom,8.9
+144,Sri Lanka,2020,exports,3,India,6.1
+144,Sri Lanka,2020,imports,1,China,22.9
+144,Sri Lanka,2020,imports,2,India,19.3
+144,Sri Lanka,2020,imports,3,United Arab Emirates,5.7
+144,Sri Lanka,2024,exports,1,United States,23.8
+144,Sri Lanka,2024,exports,2,United Kingdom,7.6
+144,Sri Lanka,2024,exports,3,India,7.3
+144,Sri Lanka,2024,imports,1,China,23.3
+144,Sri Lanka,2024,imports,2,India,20.3
+144,Sri Lanka,2024,imports,3,United Arab Emirates,7.4
+729,Sudan,2015,exports,1,United Arab Emirates,14.4
+729,Sudan,2015,exports,2,Saudi Arabia,14.4
+729,Sudan,2015,exports,3,China,56.4
+729,Sudan,2015,imports,1,United Arab Emirates,5.6
+729,Sudan,2015,imports,2,Egypt,6.5
+729,Sudan,2015,imports,3,China,22.8
+729,Sudan,2020,exports,1,United Arab Emirates,44.6
+729,Sudan,2020,exports,2,Saudi Arabia,5.8
+729,Sudan,2020,exports,3,China,18.4
+729,Sudan,2020,imports,1,United Arab Emirates,12.9
+729,Sudan,2020,imports,2,Egypt,5.6
+729,Sudan,2020,imports,3,China,28.4
+729,Sudan,2024,exports,1,United Arab Emirates,26.6
+729,Sudan,2024,exports,2,Saudi Arabia,18.6
+729,Sudan,2024,exports,3,China,12.4
+729,Sudan,2024,imports,1,United Arab Emirates,17.8
+729,Sudan,2024,imports,2,Egypt,17.5
+729,Sudan,2024,imports,3,China,16.8
+740,Suriname,2015,exports,1,Areas nes,57.8
+740,Suriname,2015,exports,2,United States,1.4
+740,Suriname,2015,exports,3,United Arab Emirates,22.9
+740,Suriname,2015,imports,1,United States,21.2
+740,Suriname,2015,imports,2,China,5.5
+740,Suriname,2015,imports,3,Netherlands,9.3
+740,Suriname,2020,exports,1,Areas nes,14.0
+740,Suriname,2020,exports,2,United States,5.4
+740,Suriname,2020,exports,3,United Arab Emirates,18.3
+740,Suriname,2020,imports,1,United States,24.6
+740,Suriname,2020,imports,2,China,8.1
+740,Suriname,2020,imports,3,Netherlands,12.0
+740,Suriname,2024,exports,1,Areas nes,91.5
+740,Suriname,2024,exports,2,United States,2.9
+740,Suriname,2024,exports,3,United Arab Emirates,0.9
+740,Suriname,2024,imports,1,United States,22.5
+740,Suriname,2024,imports,2,China,13.7
+740,Suriname,2024,imports,3,Netherlands,11.7
+752,Sweden,2015,exports,1,Germany,11.3
+752,Sweden,2015,exports,2,Norway,10.2
+752,Sweden,2015,exports,3,United States,7.8
+752,Sweden,2015,imports,1,Germany,17.9
+752,Sweden,2015,imports,2,Netherlands,8.0
+752,Sweden,2015,imports,3,Norway,7.8
+752,Sweden,2020,exports,1,Germany,11.5
+752,Sweden,2020,exports,2,Norway,10.6
+752,Sweden,2020,exports,3,United States,8.6
+752,Sweden,2020,imports,1,Germany,18.1
+752,Sweden,2020,imports,2,Netherlands,9.7
+752,Sweden,2020,imports,3,Norway,9.0
+752,Sweden,2024,exports,1,Germany,10.0
+752,Sweden,2024,exports,2,Norway,9.6
+752,Sweden,2024,exports,3,United States,8.7
+752,Sweden,2024,imports,1,Germany,16.2
+752,Sweden,2024,imports,2,Netherlands,10.9
+752,Sweden,2024,imports,3,Norway,9.4
+756,Switzerland,2015,exports,1,United States,10.6
+756,Switzerland,2015,exports,2,Germany,14.2
+756,Switzerland,2015,exports,3,China,7.0
+756,Switzerland,2015,imports,1,Germany,20.6
+756,Switzerland,2015,imports,2,Italy,7.7
+756,Switzerland,2015,imports,3,United States,8.0
+756,Switzerland,2020,exports,1,United States,23.0
+756,Switzerland,2020,exports,2,Germany,15.4
+756,Switzerland,2020,exports,3,China,5.5
+756,Switzerland,2020,imports,1,Germany,19.5
+756,Switzerland,2020,imports,2,Italy,8.2
+756,Switzerland,2020,imports,3,United States,7.2
+756,Switzerland,2024,exports,1,United States,16.5
+756,Switzerland,2024,exports,2,Germany,11.5
+756,Switzerland,2024,exports,3,China,9.5
+756,Switzerland,2024,imports,1,Germany,18.3
+756,Switzerland,2024,imports,2,Italy,8.2
+756,Switzerland,2024,imports,3,United States,8.1
+760,Syrian Arab Republic,2015,exports,1,Türkiye,9.7
+760,Syrian Arab Republic,2015,exports,2,Saudi Arabia,11.0
+760,Syrian Arab Republic,2015,exports,3,Lebanon,15.3
+760,Syrian Arab Republic,2015,imports,1,Türkiye,32.4
+760,Syrian Arab Republic,2015,imports,2,United Arab Emirates,3.9
+760,Syrian Arab Republic,2015,imports,3,China,17.5
+760,Syrian Arab Republic,2020,exports,1,Türkiye,25.7
+760,Syrian Arab Republic,2020,exports,2,Saudi Arabia,21.4
+760,Syrian Arab Republic,2020,exports,3,Lebanon,10.6
+760,Syrian Arab Republic,2020,imports,1,Türkiye,32.2
+760,Syrian Arab Republic,2020,imports,2,United Arab Emirates,13.4
+760,Syrian Arab Republic,2020,imports,3,China,16.8
+760,Syrian Arab Republic,2024,exports,1,Türkiye,33.5
+760,Syrian Arab Republic,2024,exports,2,Saudi Arabia,16.4
+760,Syrian Arab Republic,2024,exports,3,Lebanon,9.6
+760,Syrian Arab Republic,2024,imports,1,Türkiye,48.0
+760,Syrian Arab Republic,2024,imports,2,United Arab Emirates,10.3
+760,Syrian Arab Republic,2024,imports,3,China,8.5
+762,Tajikistan,2015,exports,1,China,4.9
+762,Tajikistan,2015,exports,2,Kazakhstan,21.7
+762,Tajikistan,2015,exports,3,Türkiye,22.3
+762,Tajikistan,2015,imports,1,Russian Federation,32.5
+762,Tajikistan,2015,imports,2,China,27.8
+762,Tajikistan,2015,imports,3,Kazakhstan,15.9
+762,Tajikistan,2020,exports,1,China,4.8
+762,Tajikistan,2020,exports,2,Kazakhstan,21.2
+762,Tajikistan,2020,exports,3,Türkiye,28.3
+762,Tajikistan,2020,imports,1,Russian Federation,29.7
+762,Tajikistan,2020,imports,2,China,14.0
+762,Tajikistan,2020,imports,3,Kazakhstan,24.1
+762,Tajikistan,2024,exports,1,China,24.8
+762,Tajikistan,2024,exports,2,Kazakhstan,20.2
+762,Tajikistan,2024,exports,3,Türkiye,13.1
+762,Tajikistan,2024,imports,1,Russian Federation,21.2
+762,Tajikistan,2024,imports,2,China,18.2
+762,Tajikistan,2024,imports,3,Kazakhstan,17.8
+764,Thailand,2015,exports,1,United States,11.2
+764,Thailand,2015,exports,2,China,11.1
+764,Thailand,2015,exports,3,Japan,9.4
+764,Thailand,2015,imports,1,China,20.3
+764,Thailand,2015,imports,2,Japan,15.4
+764,Thailand,2015,imports,3,"Other Asia, nes",3.7
+764,Thailand,2020,exports,1,United States,14.9
+764,Thailand,2020,exports,2,China,12.9
+764,Thailand,2020,exports,3,Japan,9.8
+764,Thailand,2020,imports,1,China,24.2
+764,Thailand,2020,imports,2,Japan,13.4
+764,Thailand,2020,imports,3,"Other Asia, nes",4.0
+764,Thailand,2024,exports,1,United States,18.3
+764,Thailand,2024,exports,2,China,11.7
+764,Thailand,2024,exports,3,Japan,7.7
+764,Thailand,2024,imports,1,China,26.2
+764,Thailand,2024,imports,2,Japan,9.3
+764,Thailand,2024,imports,3,"Other Asia, nes",6.7
+626,Timor-Leste,2015,exports,1,China,8.5
+626,Timor-Leste,2015,exports,2,Singapore,2.9
+626,Timor-Leste,2015,exports,3,Australia,5.9
+626,Timor-Leste,2015,imports,1,Indonesia,31.9
+626,Timor-Leste,2015,imports,2,China,15.1
+626,Timor-Leste,2015,imports,3,Singapore,13.1
+626,Timor-Leste,2020,exports,1,China,0.5
+626,Timor-Leste,2020,exports,2,Singapore,19.3
+626,Timor-Leste,2020,exports,3,Australia,0.4
+626,Timor-Leste,2020,imports,1,Indonesia,37.5
+626,Timor-Leste,2020,imports,2,China,15.8
+626,Timor-Leste,2020,imports,3,Singapore,10.4
+626,Timor-Leste,2024,exports,1,China,46.6
+626,Timor-Leste,2024,exports,2,Singapore,19.1
+626,Timor-Leste,2024,exports,3,Australia,16.8
+626,Timor-Leste,2024,imports,1,Indonesia,33.0
+626,Timor-Leste,2024,imports,2,China,14.1
+626,Timor-Leste,2024,imports,3,Singapore,10.4
+768,Togo,2015,exports,1,India,8.3
+768,Togo,2015,exports,2,Côte dIvoire,3.4
+768,Togo,2015,exports,3,Burkina Faso,13.7
+768,Togo,2015,imports,1,China,19.7
+768,Togo,2015,imports,2,France,8.7
+768,Togo,2015,imports,3,India,4.1
+768,Togo,2020,exports,1,India,7.5
+768,Togo,2020,exports,2,Côte dIvoire,6.3
+768,Togo,2020,exports,3,Burkina Faso,13.8
+768,Togo,2020,imports,1,China,20.3
+768,Togo,2020,imports,2,France,8.6
+768,Togo,2020,imports,3,India,7.5
+768,Togo,2024,exports,1,India,16.6
+768,Togo,2024,exports,2,Côte dIvoire,11.3
+768,Togo,2024,exports,3,Burkina Faso,11.3
+768,Togo,2024,imports,1,China,22.6
+768,Togo,2024,imports,2,France,6.8
+768,Togo,2024,imports,3,India,6.3
+776,Tonga,2015,exports,1,New Zealand,16.2
+776,Tonga,2015,exports,2,United States,28.0
+776,Tonga,2015,exports,3,Australia,8.6
+776,Tonga,2015,imports,1,Fiji,27.5
+776,Tonga,2015,imports,2,China,15.4
+776,Tonga,2015,imports,3,New Zealand,26.2
+776,Tonga,2020,exports,1,New Zealand,18.9
+776,Tonga,2020,exports,2,United States,33.1
+776,Tonga,2020,exports,3,Australia,14.0
+776,Tonga,2020,imports,1,Fiji,21.7
+776,Tonga,2020,imports,2,China,18.1
+776,Tonga,2020,imports,3,New Zealand,27.7
+776,Tonga,2024,exports,1,New Zealand,20.2
+776,Tonga,2024,exports,2,United States,18.7
+776,Tonga,2024,exports,3,Australia,13.1
+776,Tonga,2024,imports,1,Fiji,23.1
+776,Tonga,2024,imports,2,China,22.9
+776,Tonga,2024,imports,3,New Zealand,22.1
+780,Trinidad and Tobago,2015,exports,1,United States,41.7
+780,Trinidad and Tobago,2015,exports,2,Guyana,2.1
+780,Trinidad and Tobago,2015,exports,3,Morocco,1.3
+780,Trinidad and Tobago,2015,imports,1,United States,32.2
+780,Trinidad and Tobago,2015,imports,2,China,7.1
+780,Trinidad and Tobago,2015,imports,3,Brazil,3.3
+780,Trinidad and Tobago,2020,exports,1,United States,39.7
+780,Trinidad and Tobago,2020,exports,2,Guyana,9.0
+780,Trinidad and Tobago,2020,exports,3,Morocco,1.3
+780,Trinidad and Tobago,2020,imports,1,United States,37.5
+780,Trinidad and Tobago,2020,imports,2,China,10.1
+780,Trinidad and Tobago,2020,imports,3,Brazil,5.2
+780,Trinidad and Tobago,2024,exports,1,United States,40.8
+780,Trinidad and Tobago,2024,exports,2,Guyana,5.3
+780,Trinidad and Tobago,2024,exports,3,Morocco,4.9
+780,Trinidad and Tobago,2024,imports,1,United States,31.6
+780,Trinidad and Tobago,2024,imports,2,China,13.9
+780,Trinidad and Tobago,2024,imports,3,Brazil,5.9
+788,Tunisia,2015,exports,1,France,29.3
+788,Tunisia,2015,exports,2,Italy,18.5
+788,Tunisia,2015,exports,3,Germany,10.5
+788,Tunisia,2015,imports,1,Italy,14.9
+788,Tunisia,2015,imports,2,France,17.8
+788,Tunisia,2015,imports,3,China,8.4
+788,Tunisia,2020,exports,1,France,26.2
+788,Tunisia,2020,exports,2,Italy,16.9
+788,Tunisia,2020,exports,3,Germany,12.3
+788,Tunisia,2020,imports,1,Italy,14.2
+788,Tunisia,2020,imports,2,France,12.9
+788,Tunisia,2020,imports,3,China,10.7
+788,Tunisia,2024,exports,1,France,22.8
+788,Tunisia,2024,exports,2,Italy,18.3
+788,Tunisia,2024,exports,3,Germany,13.2
+788,Tunisia,2024,imports,1,Italy,12.5
+788,Tunisia,2024,imports,2,France,10.7
+788,Tunisia,2024,imports,3,China,10.6
+795,Turkmenistan,2015,exports,1,China,75.4
+795,Turkmenistan,2015,exports,2,Uzbekistan,1.7
+795,Turkmenistan,2015,exports,3,Türkiye,6.1
+795,Turkmenistan,2015,imports,1,Türkiye,28.9
+795,Turkmenistan,2015,imports,2,United Arab Emirates,3.7
+795,Turkmenistan,2015,imports,3,China,12.0
+795,Turkmenistan,2020,exports,1,China,82.9
+795,Turkmenistan,2020,exports,2,Uzbekistan,3.9
+795,Turkmenistan,2020,exports,3,Türkiye,3.1
+795,Turkmenistan,2020,imports,1,Türkiye,23.4
+795,Turkmenistan,2020,imports,2,United Arab Emirates,5.4
+795,Turkmenistan,2020,imports,3,China,13.2
+795,Turkmenistan,2024,exports,1,China,68.5
+795,Turkmenistan,2024,exports,2,Uzbekistan,10.6
+795,Turkmenistan,2024,exports,3,Türkiye,7.6
+795,Turkmenistan,2024,imports,1,Türkiye,21.4
+795,Turkmenistan,2024,imports,2,United Arab Emirates,20.2
+795,Turkmenistan,2024,imports,3,China,20.0
+798,Tuvalu,2015,exports,1,Thailand,87.1
+798,Tuvalu,2015,exports,3,Republic of Korea,0.9
+798,Tuvalu,2015,imports,1,Singapore,21.7
+798,Tuvalu,2015,imports,2,Fiji,15.0
+798,Tuvalu,2015,imports,3,China,15.8
+798,Tuvalu,2020,exports,1,Thailand,50.2
+798,Tuvalu,2020,exports,2,Philippines,24.1
+798,Tuvalu,2020,exports,3,Republic of Korea,0.3
+798,Tuvalu,2020,imports,1,Singapore,32.3
+798,Tuvalu,2020,imports,2,Fiji,11.9
+798,Tuvalu,2020,imports,3,China,14.7
+798,Tuvalu,2024,exports,1,Thailand,91.4
+798,Tuvalu,2024,exports,2,Philippines,4.0
+798,Tuvalu,2024,exports,3,Republic of Korea,1.8
+798,Tuvalu,2024,imports,1,Singapore,35.4
+798,Tuvalu,2024,imports,2,Fiji,23.6
+798,Tuvalu,2024,imports,3,China,17.1
+792,Türkiye,2015,exports,1,Germany,9.6
+792,Türkiye,2015,exports,2,United States,4.6
+792,Türkiye,2015,exports,3,United Kingdom,7.2
+792,Türkiye,2015,imports,1,China,11.8
+792,Türkiye,2015,imports,2,Russian Federation,9.7
+792,Türkiye,2015,imports,3,Germany,10.6
+792,Türkiye,2020,exports,1,Germany,9.4
+792,Türkiye,2020,exports,2,United States,6.0
+792,Türkiye,2020,exports,3,United Kingdom,6.6
+792,Türkiye,2020,imports,1,China,10.7
+792,Türkiye,2020,imports,2,Russian Federation,9.2
+792,Türkiye,2020,imports,3,Germany,10.8
+792,Türkiye,2024,exports,1,Germany,7.8
+792,Türkiye,2024,exports,2,United States,6.2
+792,Türkiye,2024,exports,3,United Kingdom,5.8
+792,Türkiye,2024,imports,1,China,13.1
+792,Türkiye,2024,imports,2,Russian Federation,12.8
+792,Türkiye,2024,imports,3,Germany,7.9
+800,Uganda,2015,exports,1,United Arab Emirates,3.6
+800,Uganda,2015,exports,2,Kenya,18.8
+800,Uganda,2015,exports,3,India,1.1
+800,Uganda,2015,imports,1,China,15.8
+800,Uganda,2015,imports,2,United Arab Emirates,7.3
+800,Uganda,2015,imports,3,United Rep. Tanzania,1.1
+800,Uganda,2020,exports,1,United Arab Emirates,44.5
+800,Uganda,2020,exports,2,Kenya,11.2
+800,Uganda,2020,exports,3,India,1.4
+800,Uganda,2020,imports,1,China,16.4
+800,Uganda,2020,imports,2,United Arab Emirates,6.0
+800,Uganda,2020,imports,3,United Rep. Tanzania,9.0
+800,Uganda,2024,exports,1,United Arab Emirates,21.7
+800,Uganda,2024,exports,2,Kenya,11.7
+800,Uganda,2024,exports,3,India,11.6
+800,Uganda,2024,imports,1,China,19.5
+800,Uganda,2024,imports,2,United Arab Emirates,12.2
+800,Uganda,2024,imports,3,United Rep. Tanzania,11.3
+804,Ukraine,2015,exports,1,Poland,5.2
+804,Ukraine,2015,exports,2,Spain,2.7
+804,Ukraine,2015,exports,3,Germany,3.5
+804,Ukraine,2015,imports,1,China,10.1
+804,Ukraine,2015,imports,2,Poland,6.2
+804,Ukraine,2015,imports,3,Germany,10.6
+804,Ukraine,2020,exports,1,Poland,6.7
+804,Ukraine,2020,exports,2,Spain,2.5
+804,Ukraine,2020,exports,3,Germany,4.2
+804,Ukraine,2020,imports,1,China,15.4
+804,Ukraine,2020,imports,2,Poland,7.6
+804,Ukraine,2020,imports,3,Germany,9.9
+804,Ukraine,2024,exports,1,Poland,11.1
+804,Ukraine,2024,exports,2,Spain,6.8
+804,Ukraine,2024,exports,3,Germany,6.6
+804,Ukraine,2024,imports,1,China,20.3
+804,Ukraine,2024,imports,2,Poland,9.9
+804,Ukraine,2024,imports,3,Germany,7.6
+784,United Arab Emirates,2015,exports,1,Areas nes,44.9
+784,United Arab Emirates,2015,exports,2,Saudi Arabia,2.2
+784,United Arab Emirates,2015,exports,3,India,5.1
+784,United Arab Emirates,2015,imports,1,Areas nes,35.8
+784,United Arab Emirates,2015,imports,2,China,8.0
+784,United Arab Emirates,2015,imports,3,India,6.2
+784,United Arab Emirates,2020,exports,1,Areas nes,6.1
+784,United Arab Emirates,2020,exports,2,Saudi Arabia,7.1
+784,United Arab Emirates,2020,exports,3,India,9.2
+784,United Arab Emirates,2020,imports,1,Areas nes,12.8
+784,United Arab Emirates,2020,imports,2,China,15.9
+784,United Arab Emirates,2020,imports,3,India,6.7
+784,United Arab Emirates,2024,exports,1,Areas nes,50.3
+784,United Arab Emirates,2024,exports,2,Saudi Arabia,5.2
+784,United Arab Emirates,2024,exports,3,India,4.4
+784,United Arab Emirates,2024,imports,1,Areas nes,16.7
+784,United Arab Emirates,2024,imports,2,China,16.5
+784,United Arab Emirates,2024,imports,3,India,6.5
+826,United Kingdom,2015,exports,1,United States,14.9
+826,United Kingdom,2015,exports,2,China,5.9
+826,United Kingdom,2015,exports,3,Germany,10.0
+826,United Kingdom,2015,imports,1,China,10.0
+826,United Kingdom,2015,imports,2,United States,9.2
+826,United Kingdom,2015,imports,3,Germany,15.0
+826,United Kingdom,2020,exports,1,United States,15.3
+826,United Kingdom,2020,exports,2,China,4.6
+826,United Kingdom,2020,exports,3,Germany,11.4
+826,United Kingdom,2020,imports,1,China,11.9
+826,United Kingdom,2020,imports,2,United States,9.8
+826,United Kingdom,2020,imports,3,Germany,11.9
+826,United Kingdom,2024,exports,1,United States,14.1
+826,United Kingdom,2024,exports,2,China,9.1
+826,United Kingdom,2024,exports,3,Germany,7.5
+826,United Kingdom,2024,imports,1,China,12.2
+826,United Kingdom,2024,imports,2,United States,11.4
+826,United Kingdom,2024,imports,3,Germany,9.4
+834,United Rep. of Tanzania,2015,exports,1,India,19.6
+834,United Rep. of Tanzania,2015,exports,2,South Africa,11.5
+834,United Rep. of Tanzania,2015,exports,3,United Arab Emirates,2.7
+834,United Rep. of Tanzania,2015,imports,1,China,12.6
+834,United Rep. of Tanzania,2015,imports,2,India,8.6
+834,United Rep. of Tanzania,2015,imports,3,United Arab Emirates,5.7
+834,United Rep. of Tanzania,2020,exports,1,India,8.7
+834,United Rep. of Tanzania,2020,exports,2,South Africa,19.1
+834,United Rep. of Tanzania,2020,exports,3,United Arab Emirates,12.4
+834,United Rep. of Tanzania,2020,imports,1,China,25.3
+834,United Rep. of Tanzania,2020,imports,2,India,12.8
+834,United Rep. of Tanzania,2020,imports,3,United Arab Emirates,9.7
+834,United Rep. of Tanzania,2024,exports,1,India,21.4
+834,United Rep. of Tanzania,2024,exports,2,South Africa,15.4
+834,United Rep. of Tanzania,2024,exports,3,United Arab Emirates,9.4
+834,United Rep. of Tanzania,2024,imports,1,China,27.5
+834,United Rep. of Tanzania,2024,imports,2,India,12.9
+834,United Rep. of Tanzania,2024,imports,3,United Arab Emirates,9.4
+840,United States of America,2015,exports,1,Canada,18.7
+840,United States of America,2015,exports,2,Mexico,15.7
+840,United States of America,2015,exports,3,China,7.7
+840,United States of America,2015,imports,1,Mexico,12.9
+840,United States of America,2015,imports,2,China,21.8
+840,United States of America,2015,imports,3,Canada,13.1
+840,United States of America,2020,exports,1,Canada,17.8
+840,United States of America,2020,exports,2,Mexico,14.9
+840,United States of America,2020,exports,3,China,8.7
+840,United States of America,2020,imports,1,Mexico,13.7
+840,United States of America,2020,imports,2,China,19.0
+840,United States of America,2020,imports,3,Canada,11.5
+840,United States of America,2024,exports,1,Canada,16.9
+840,United States of America,2024,exports,2,Mexico,16.2
+840,United States of America,2024,exports,3,China,7.0
+840,United States of America,2024,imports,1,Mexico,15.2
+840,United States of America,2024,imports,2,China,13.8
+840,United States of America,2024,imports,3,Canada,12.5
+858,Uruguay,2015,exports,1,Brazil,15.5
+858,Uruguay,2015,exports,2,China,20.4
+858,Uruguay,2015,exports,3,Free Zones,8.6
+858,Uruguay,2015,imports,1,Brazil,17.1
+858,Uruguay,2015,imports,2,China,18.4
+858,Uruguay,2015,imports,3,Argentina,13.0
+858,Uruguay,2020,exports,1,Brazil,16.1
+858,Uruguay,2020,exports,2,China,29.0
+858,Uruguay,2020,exports,3,Free Zones,1.6
+858,Uruguay,2020,imports,1,Brazil,21.1
+858,Uruguay,2020,imports,2,China,19.0
+858,Uruguay,2020,imports,3,Argentina,13.0
+858,Uruguay,2024,exports,1,Brazil,20.5
+858,Uruguay,2024,exports,2,China,16.8
+858,Uruguay,2024,exports,3,Free Zones,15.4
+858,Uruguay,2024,imports,1,Brazil,21.9
+858,Uruguay,2024,imports,2,China,19.1
+858,Uruguay,2024,imports,3,Argentina,12.0
+860,Uzbekistan,2015,exports,1,Areas nes,2.1
+860,Uzbekistan,2015,exports,2,Russian Federation,14.4
+860,Uzbekistan,2015,exports,3,China,13.0
+860,Uzbekistan,2015,imports,1,China,22.5
+860,Uzbekistan,2015,imports,2,Russian Federation,21.3
+860,Uzbekistan,2015,imports,3,Kazakhstan,8.1
+860,Uzbekistan,2020,exports,1,Areas nes,4.1
+860,Uzbekistan,2020,exports,2,Russian Federation,9.4
+860,Uzbekistan,2020,exports,3,China,9.1
+860,Uzbekistan,2020,imports,1,China,22.2
+860,Uzbekistan,2020,imports,2,Russian Federation,20.5
+860,Uzbekistan,2020,imports,3,Kazakhstan,10.5
+860,Uzbekistan,2024,exports,1,Areas nes,50.3
+860,Uzbekistan,2024,exports,2,Russian Federation,14.0
+860,Uzbekistan,2024,exports,3,China,5.8
+860,Uzbekistan,2024,imports,1,China,29.1
+860,Uzbekistan,2024,imports,2,Russian Federation,22.4
+860,Uzbekistan,2024,imports,3,Kazakhstan,7.6
+548,Vanuatu,2015,exports,1,Thailand,1.6
+548,Vanuatu,2015,exports,2,Japan,6.5
+548,Vanuatu,2015,exports,3,Côte dIvoire,0.0
+548,Vanuatu,2015,imports,1,China,16.4
+548,Vanuatu,2015,imports,2,Malaysia,2.2
+548,Vanuatu,2015,imports,3,Australia,11.7
+548,Vanuatu,2020,exports,1,Thailand,37.5
+548,Vanuatu,2020,exports,2,Japan,18.2
+548,Vanuatu,2020,imports,1,China,23.9
+548,Vanuatu,2020,imports,2,Malaysia,1.0
+548,Vanuatu,2020,imports,3,Australia,15.5
+548,Vanuatu,2024,exports,1,Thailand,61.9
+548,Vanuatu,2024,exports,2,Japan,10.5
+548,Vanuatu,2024,exports,3,Côte dIvoire,6.0
+548,Vanuatu,2024,imports,1,China,31.7
+548,Vanuatu,2024,imports,2,Malaysia,12.8
+548,Vanuatu,2024,imports,3,Australia,12.8
+862,Venezuela (Boliv. Rep. of),2015,exports,1,United States,41.1
+862,Venezuela (Boliv. Rep. of),2015,exports,2,India,16.8
+862,Venezuela (Boliv. Rep. of),2015,exports,3,China,17.2
+862,Venezuela (Boliv. Rep. of),2015,imports,1,China,18.5
+862,Venezuela (Boliv. Rep. of),2015,imports,2,United States,29.0
+862,Venezuela (Boliv. Rep. of),2015,imports,3,Brazil,10.3
+862,Venezuela (Boliv. Rep. of),2020,exports,1,United States,3.0
+862,Venezuela (Boliv. Rep. of),2020,exports,2,India,39.4
+862,Venezuela (Boliv. Rep. of),2020,exports,3,China,9.0
+862,Venezuela (Boliv. Rep. of),2020,imports,1,China,22.5
+862,Venezuela (Boliv. Rep. of),2020,imports,2,United States,16.7
+862,Venezuela (Boliv. Rep. of),2020,imports,3,Brazil,11.6
+862,Venezuela (Boliv. Rep. of),2024,exports,1,United States,45.4
+862,Venezuela (Boliv. Rep. of),2024,exports,2,India,14.7
+862,Venezuela (Boliv. Rep. of),2024,exports,3,China,11.5
+862,Venezuela (Boliv. Rep. of),2024,imports,1,China,34.4
+862,Venezuela (Boliv. Rep. of),2024,imports,2,United States,30.3
+862,Venezuela (Boliv. Rep. of),2024,imports,3,Brazil,8.6
+704,Viet Nam,2015,exports,1,United States,20.7
+704,Viet Nam,2015,exports,2,China,10.6
+704,Viet Nam,2015,exports,3,Republic of Korea,5.5
+704,Viet Nam,2015,imports,1,China,29.8
+704,Viet Nam,2015,imports,2,Republic of Korea,16.6
+704,Viet Nam,2015,imports,3,Japan,8.7
+704,Viet Nam,2020,exports,1,United States,27.4
+704,Viet Nam,2020,exports,2,China,18.2
+704,Viet Nam,2020,exports,3,Republic of Korea,6.8
+704,Viet Nam,2020,imports,1,China,32.5
+704,Viet Nam,2020,imports,2,Republic of Korea,17.9
+704,Viet Nam,2020,imports,3,Japan,8.0
+704,Viet Nam,2024,exports,1,United States,27.5
+704,Viet Nam,2024,exports,2,China,17.2
+704,Viet Nam,2024,exports,3,Republic of Korea,6.6
+704,Viet Nam,2024,imports,1,China,34.0
+704,Viet Nam,2024,imports,2,Republic of Korea,16.1
+704,Viet Nam,2024,imports,3,Japan,6.6
+887,Yemen,2015,exports,1,United Arab Emirates,4.6
+887,Yemen,2015,exports,2,India,0.5
+887,Yemen,2015,exports,3,Saudi Arabia,32.2
+887,Yemen,2015,imports,1,China,10.8
+887,Yemen,2015,imports,2,United Arab Emirates,11.5
+887,Yemen,2015,imports,3,Saudi Arabia,8.6
+887,Yemen,2020,exports,1,United Arab Emirates,7.6
+887,Yemen,2020,exports,2,India,0.8
+887,Yemen,2020,exports,3,Saudi Arabia,10.9
+887,Yemen,2020,imports,1,China,25.5
+887,Yemen,2020,imports,2,United Arab Emirates,10.4
+887,Yemen,2020,imports,3,Saudi Arabia,10.7
+887,Yemen,2024,exports,1,United Arab Emirates,30.0
+887,Yemen,2024,exports,2,India,18.1
+887,Yemen,2024,exports,3,Saudi Arabia,17.0
+887,Yemen,2024,imports,1,China,21.9
+887,Yemen,2024,imports,2,United Arab Emirates,15.7
+887,Yemen,2024,imports,3,Saudi Arabia,12.5
+894,Zambia,2015,exports,1,Switzerland,42.8
+894,Zambia,2015,exports,2,China,14.5
+894,Zambia,2015,exports,3,Dem. Rep. of Congo,7.9
+894,Zambia,2015,imports,1,South Africa,32.7
+894,Zambia,2015,imports,2,China,8.3
+894,Zambia,2015,imports,3,United Arab Emirates,2.2
+894,Zambia,2020,exports,1,Switzerland,44.5
+894,Zambia,2020,exports,2,China,18.5
+894,Zambia,2020,exports,3,Dem. Rep. of Congo,12.3
+894,Zambia,2020,imports,1,South Africa,33.5
+894,Zambia,2020,imports,2,China,16.5
+894,Zambia,2020,imports,3,United Arab Emirates,10.0
+894,Zambia,2024,exports,1,Switzerland,41.4
+894,Zambia,2024,exports,2,China,17.7
+894,Zambia,2024,exports,3,Dem. Rep. of Congo,15.4
+894,Zambia,2024,imports,1,South Africa,25.8
+894,Zambia,2024,imports,2,China,16.2
+894,Zambia,2024,imports,3,United Arab Emirates,8.2
+716,Zimbabwe,2015,exports,1,United Arab Emirates,4.3
+716,Zimbabwe,2015,exports,2,South Africa,67.4
+716,Zimbabwe,2015,exports,3,China,4.0
+716,Zimbabwe,2015,imports,1,South Africa,38.4
+716,Zimbabwe,2015,imports,2,China,7.7
+716,Zimbabwe,2015,imports,3,Bahamas,0.0
+716,Zimbabwe,2020,exports,1,United Arab Emirates,20.3
+716,Zimbabwe,2020,exports,2,South Africa,59.5
+716,Zimbabwe,2020,exports,3,China,0.0
+716,Zimbabwe,2020,imports,1,South Africa,45.3
+716,Zimbabwe,2020,imports,2,China,8.3
+716,Zimbabwe,2020,imports,3,Bahamas,0.0
+716,Zimbabwe,2024,exports,1,United Arab Emirates,36.6
+716,Zimbabwe,2024,exports,2,South Africa,27.6
+716,Zimbabwe,2024,exports,3,China,17.3
+716,Zimbabwe,2024,imports,1,South Africa,39.5
+716,Zimbabwe,2024,imports,2,China,13.9
+716,Zimbabwe,2024,imports,3,Bahamas,7.7
